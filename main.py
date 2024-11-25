@@ -1,24 +1,26 @@
+# main.py
 from morse_translater import text_to_morse
 from grammar_parser import parse_sentence
 
-def translate_and_parse():
-    text_input = input("Enter Text: ")
-    translated_morse = text_to_morse(text_input)
-    print(f"Translated Morse Code: {translated_morse}")
-    sentence = text_input.lower().split()
-    parse_sentence(sentence)
-
 def main():
-    print("Welcome to the English-to-Morse Translator and Sentence Parser!")
-    while True:
-        command = input("Type 'translate' to convert text to Morse, 'exit' to quit: ").strip().lower()
-        if command == "exit":
-            print("Goodbye!")
-            break
-        elif command == "translate":
-            translate_and_parse()
-        else:
-            print("Invalid option. Try again.")
+    sentence = input("Enter a sentence to translate to Morse code: ")
+    
+    # Parse the sentence and check its validity
+    parse_result = parse_sentence(sentence)
+    
+    if parse_result["is_valid"]:
+        # Display the parse tree in the console
+        print("Parse Tree:")
+        parse_tree = parse_result["tree"]
+        parse_tree.pretty_print()  # Using NLTK's pretty_print for visual clarity
+        
+        # Translate to Morse code
+        morse_code = text_to_morse(sentence)
+        print("\nMorse Code Translation:")
+        print(morse_code)
+    else:
+        print("The sentence does not follow proper grammar.")
+        print("Error:", parse_result["error"])
 
 if __name__ == "__main__":
     main()

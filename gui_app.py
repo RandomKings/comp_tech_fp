@@ -1,50 +1,59 @@
+# gui_app.py
 import tkinter as tk
-from tkinter import messagebox
+from tkinter.scrolledtext import ScrolledText
 from morse_translater import text_to_morse
-import grammar_parser  # For parse tree functions
+from grammar_parser import parse_sentence
 
-# Initialize the main Tkinter window
+def translate_and_display():
+    # Get the sentence from the entry widget
+    sentence = sentence_entry.get()
+    
+    # Parse the sentence
+    parse_result = parse_sentence(sentence)
+    
+    if parse_result["is_valid"]:
+        # Extract tokens for display in the GUI
+        tokens = sentence.lower().split()  # Convert sentence to tokens for display
+        
+        # Print the parse tree in the console
+        parse_tree = parse_result["tree"]
+        print("Parse Tree:")
+        parse_tree.pretty_print()  # Display parse tree in console for GUI usage
+        
+        # Translate to Morse code
+        morse_code = text_to_morse(sentence)
+        
+        # Display tokens and Morse code in the GUI
+        tokens_str = ', '.join(tokens)  # Format tokens as a comma-separated list
+        result_text = f"Tokens:\n{tokens_str}\n\nMorse Code Translation:\n{morse_code}"
+    else:
+        # Display the error message in the GUI if the grammar is incorrect
+        result_text = f"The sentence does not follow proper grammar.\nError: {parse_result['error']}"
+    
+    # Insert the result into the scrolled text widget
+    result_text_widget.config(state=tk.NORMAL)
+    result_text_widget.delete("1.0", tk.END)
+    result_text_widget.insert(tk.END, result_text)
+    result_text_widget.config(state=tk.DISABLED)
+
+# Set up the GUI window
 root = tk.Tk()
-root.title("English-to-Morse & Parse Tree GUI")
-root.geometry("600x400")
+root.title("Morse Code Translator with Grammar Check")
 
-# Function to handle Text to Morse Conversion
-def convert_text_to_morse():
-    text = entry_text.get("1.0", "end-1c")
-    if text:
-        morse_output = text_to_morse(text)
-        output_text.delete("1.0", "end")
-        output_text.insert("1.0", morse_output)
-    else:
-        messagebox.showwarning("Input Required", "Please enter text for Morse conversion")
+# Input field for sentence
+sentence_label = tk.Label(root, text="Enter a sentence:")
+sentence_label.pack()
 
-# Function to parse the English text and visualize parse tree
-def generate_parse_tree():
-    sentence = entry_text.get("1.0", "end-1c")
-    if sentence:
-        try:
-            parse_tree = grammar_parser.parse_sentence(sentence)
-            output_text.delete("1.0", "end")
-            output_text.insert("1.0", "Parse tree generated successfully in console.")
-        except ValueError as e:
-            messagebox.showerror("Parse Error", f"Grammar does not cover all words: {e}")
-    else:
-        messagebox.showwarning("Input Required", "Please enter English text before parsing")
+sentence_entry = tk.Entry(root, width=50)
+sentence_entry.pack()
 
-# Input Text Field for English Text
-entry_text = tk.Text(root, height=4, width=50)
-entry_text.pack(pady=10)
+# Button to trigger translation
+translate_button = tk.Button(root, text="Translate", command=translate_and_display)
+translate_button.pack()
 
-# Output Text Field for Morse Code and Parse Tree notification
-output_text = tk.Text(root, height=10, width=50)
-output_text.pack(pady=10)
+# Scrollable text widget for displaying results
+result_text_widget = ScrolledText(root, wrap=tk.WORD, width=60, height=20, state=tk.DISABLED)
+result_text_widget.pack()
 
-# Buttons
-btn_text_to_morse = tk.Button(root, text="Convert Text to Morse", command=convert_text_to_morse)
-btn_text_to_morse.pack(pady=5)
-
-btn_parse = tk.Button(root, text="Generate Parse Tree", command=generate_parse_tree)
-btn_parse.pack(pady=5)
-
-# Run the main loop
+# Run the GUI event loop
 root.mainloop()
