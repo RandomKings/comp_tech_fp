@@ -1,0 +1,9724 @@
+you|pronoun|
+I|noun|
+to|preposition|
+the|definite article|
+and|conjunction|
+that|pronoun|
+of|preposition|
+me|pronoun|
+in|preposition|
+this|pronoun|
+for|preposition|
+no|adverb|
+have|verb (used with object)|
+my|pronoun|
+just|adjective|
+not|adverb|
+do|verb (used with object)|
+be|verb (used without object)|
+on|preposition|
+your|pronoun|
+was|verb|
+we|plural pronoun|
+with|preposition|
+but|conjunction|
+all|adjective|
+well|adverb|
+he|pronoun|
+about|preposition|
+right|adjective|
+get|verb (used with object)|
+here|adverb|
+out|adverb|
+if|conjunction|
+her|pronoun|
+she|pronoun|
+can|auxiliary verb|
+up|adverb|
+want|verb (used with object)|
+now|adverb|
+go|verb (used without object)|
+him|pronoun|
+there|adverb|
+one|adjective|
+why|adverb|
+see|verb (used with object)|
+come|verb (used without object)|
+good|adjective|
+they|pronoun|
+really|adverb|
+when|adverb|
+back|noun|
+from|preposition|
+were|verb|
+yes|adverb|
+his|pronoun|
+or|conjunction|
+who|pronoun|
+because|conjunction|
+some|adjective|
+then|adverb|
+say|verb (used with object)|
+an|indefinite article|
+way|noun|
+us|abbreviation for|
+little|adjective|
+never|adverb|
+too|adverb|
+sure|adjective|
+more|adjective|
+over|preposition|
+our|pronoun|
+sorry|adjective|
+where|adverb|
+let|verb (used with object)|
+maybe|adverb|
+down|adverb|
+man|noun|
+very|adverb|
+by|preposition|
+anything|pronoun|
+much|adjective|
+any|adjective|
+life|noun|
+even|adjective|
+off|adverb|
+please|adverb|
+thank|verb (used with object)|
+only|adverb|
+help|verb (used with object)|
+two|noun|
+talk|verb (used without object)|
+people|noun|
+God|noun|
+still|adjective|
+wait|verb (used without object)|
+into|preposition|
+find|verb (used with object)|
+again|adverb|
+thing|noun|
+call|verb (used with object)|
+told|verb|
+great|adjective|
+before|preposition|
+better|adjective|
+ever|adverb|
+night|noun|
+than|conjunction|
+away|adverb|
+first|adjective|
+believe|verb (used without object)|
+fine|adjective|
+home|noun|
+after|preposition|
+last|adjective|
+these|pronoun|
+put|verb (used with object)|
+around|adverb|
+stop|verb (used with object)|
+long|adjective|
+always|adverb|
+listen|verb (used without object)|
+those|pronoun|
+big|adjective|
+lot|noun|
+kind|adjective|
+wrong|adjective|
+through|preposition|
+new|adjective|
+guess|verb (used with object)|
+care|noun|
+bad|adjective|
+mom|noun|
+remember|verb (used with object)|
+together|adverb|
+dad|noun|
+leave|verb (used with object)|
+mother|noun|
+place|noun|
+understand|verb (used with object)|
+actually|adverb|
+hear|verb (used with object)|
+baby|noun|
+nice|adjective|
+father|noun|
+else|adjective|
+stay|verb (used without object)|
+their|pronoun|
+course|noun|
+might|auxiliary verb|
+mind|noun|
+every|adjective|
+enough|adjective|
+try|verb (used with object)|
+hell|noun|
+came|verb|
+someone|pronoun|
+own|adjective|
+family|noun|
+whole|adjective|
+another|adjective|
+house|noun|
+yourself|pronoun|
+idea|noun|
+ask|verb (used with object)|
+best|adjective|
+must|auxiliary verb|
+old|adjective|
+woman|noun|
+hello|interjection|
+which|pronoun|
+room|noun|
+money|noun|
+left|adjective|
+tonight|noun|
+real|adjective|
+son|noun|
+hope|noun|
+name|noun|
+same|adjective|
+happy|adjective|
+pretty|adjective|
+girl|noun|
+sir|noun|
+show|verb (used with object)|
+already|adverb|
+may|auxiliary verb|
+next|adjective|
+three|noun|
+found|verb (used with object)|
+world|noun|
+honey|noun|
+myself|pronoun|
+exactly|adverb|
+probably|adverb|
+hurt|verb (used with object)|
+both|adjective|
+while|noun|
+dead|adjective|
+alone|adjective|
+since|adverb|
+excuse|verb (used with object)|
+start|verb (used without object)|
+kill|verb (used with object)|
+hard|adjective|
+today|noun|
+car|noun|
+ready|adjective|
+until|conjunction|
+without|preposition|
+whatever|pronoun|
+deal|noun|
+took|verb|
+once|adverb|
+friend|noun|
+head|noun|
+stuff|noun|
+most|adjective|
+worry|verb (used without object)|
+second|adjective|
+part|noun|
+truth|noun|
+school|noun|
+face|noun|
+forget|verb (used with object)|
+business|noun|
+each|adjective|
+cause|noun|
+soon|adverb|
+wife|noun|
+use|verb (used with object)|
+chance|noun|
+run|verb (used without object)|
+move|verb (used without object)|
+anyone|pronoun|
+person|noun|
+bye|noun|
+somebody|pronoun|
+heart|noun|
+such|adjective|
+point|noun|
+later|adjective|
+meet|verb (used with object)|
+anyway|adverb|
+phone|noun|
+reason|noun|
+lost|adjective|
+look|verb (used without object)|
+bring|verb (used with object)|
+case|noun|
+wish|verb (used with object)|
+tomorrow|noun|
+trust|noun|
+check|verb (used with object)|
+end|noun|
+late|adjective|
+anymore|adverb|
+five|noun|
+least|adjective|
+town|noun|
+year|noun|
+make|verb (used with object)|
+mean|verb (used with object)|
+play|noun|
+playing|verb (used without object)|
+hate|verb (used with object)|
+ago|adjective|
+beautiful|adjective|
+fact|noun|
+crazy|adjective|
+party|noun|
+sit|verb (used without object)|
+open|adjective|
+afraid|adjective|
+between|preposition|
+important|adjective|
+rest|noun|
+fun|noun|
+kid|noun|
+glad|adjective|
+everyone|pronoun|
+day|noun|
+sister|noun|
+minute|noun|
+everybody|pronoun|
+bit|noun|
+couple|noun|
+either|adjective|
+daughter|noun|
+under|preposition|
+break|verb (used with object)|
+door|noun|
+set|verb (used with object)|
+close|verb (used with object)|
+easy|adjective|
+doctor|noun|
+far|adverb|
+walk|verb (used without object)|
+need|noun|
+trouble|verb (used with object)|
+mine|pronoun|
+though|conjunction|
+time|noun|
+different|adjective|
+hospital|noun|
+anybody|pronoun|
+alright|adverb|
+wedding|noun|
+shut|verb (used with object)|
+able|adjective|
+die|verb (used without object)|
+perfect|adjective|
+police|noun|
+stand|verb (used without object)|
+hit|verb (used with object)|
+story|noun|
+dinner|noun|
+against|preposition|
+funny|adjective|
+husband|noun|
+almost|adverb|
+stupid|adjective|
+pay|verb (used with object)|
+answer|noun|
+four|noun|
+office|noun|
+cool|adjective|
+news|noun|
+child|noun|
+half|noun|
+yours|pronoun|
+moment|noun|
+sleep|verb (used without object)|
+young|adjective|
+men|noun|
+sonny|noun|
+lucky|adjective|
+pick|verb (used with object)|
+sometimes|adverb|
+them|pronoun|
+bed|noun|
+also|adverb|
+date|noun|
+line|noun|
+lose|verb (used with object)|
+fire|noun|
+free|adjective|
+hand|noun|
+serious|adjective|
+shit|noun|
+behind|preposition|
+inside|preposition|
+high|adjective|
+ahead|adverb|
+wonderful|adjective|
+fight|verb (used without object)|
+past|adjective|
+cut|verb (used with object)|
+quite|adverb|
+number|noun|
+sick|adjective|
+game|noun|
+eat|verb (used with object)|
+nobody|pronoun|
+death|noun|
+along|preposition|
+finally|adverb|
+upset|verb (used with object)|
+seem|verb (used without object)|
+safe|adjective|
+children|noun|
+front|noun|
+shot|noun|
+love|noun|
+clear|adjective|
+hot|adjective|
+six|noun|
+drink|verb (used without object)|
+absolutely|adverb|
+how|adverb|
+sweet|adjective|
+alive|adjective|
+sense|noun|
+happen|verb (used without object)|
+special|adjective|
+bet|verb (used with object)|
+blood|noun|
+lie|noun|
+full|adjective|
+meeting|noun|
+dear|adjective|
+coffee|noun|
+sound|noun|
+fault|noun|
+water|noun|
+ten|noun|
+women|noun|
+welcome|interjection|
+buy|verb (used with object)|
+hour|noun|
+speak|verb (used without object)|
+think|verb (used without object)|
+Christmas|noun|
+body|noun|
+order|noun|
+outside|noun|
+hang|verb (used with object)|
+worse|adjective|
+company|noun|
+mistake|noun|
+handle|noun|
+spend|verb (used with object)|
+totally|adverb|
+control|verb (used with object)|
+marriage|noun|
+power|noun|
+president|noun|
+unless|conjunction|
+sex|noun|
+send|verb (used with object)|
+picture|noun|
+hundred|noun|
+change|verb (used with object)|
+explain|verb (used with object)|
+certainly|adverb|
+sign|noun|
+boy|noun|
+relationship|noun|
+hair|noun|
+choice|noun|
+anywhere|adverb|
+secret|adjective|
+future|noun|
+weird|adjective|
+luck|noun|
+touch|verb (used with object)|
+kiss|verb (used with object)|
+crane|noun|
+question|noun|
+obviously|adverb|
+pain|noun|
+straight|adjective|
+grace|noun|
+white|adjective|
+fast|adjective|
+word|noun|
+food|noun|
+none|pronoun|
+drive|verb (used with object)|
+work|noun|
+marry|verb (used with object)|
+light|noun|
+test|noun|
+drop|noun|
+frank|adjective|
+sent|verb|
+city|noun|
+dream|noun|
+protect|verb (used with object)|
+twenty|noun|
+class|noun|
+surprise|verb (used with object)|
+forever|adverb|
+poor|adjective|
+mad|adjective|
+except|preposition|
+gun|noun|
+know|verb (used with object)|
+dance|verb (used without object)|
+take|verb (used with object)|
+especially|adverb|
+situation|noun|
+besides|adverb|
+week|noun|
+himself|pronoun|
+act|noun|
+worth|preposition|
+top|noun|
+expect|verb (used with object)|
+rather|adverb|
+involve|verb (used with object)|
+swear|verb (used without object)|
+piece|noun|
+busy|adjective|
+law|noun|
+black|adjective|
+movie|noun|
+catch|verb (used with object)|
+country|noun|
+less|adverb|
+perhaps|adverb|
+step|noun|
+fall|verb (used without object)|
+dog|noun|
+win|verb (used without object)|
+personal|adjective|
+admit|verb (used with object)|
+problem|noun|
+murder|noun|
+strong|adjective|
+evil|adjective|
+feel|verb (used with object)|
+honest|adjective|
+eye|noun|
+broke|verb|
+miss|verb (used with object)|
+tired|adjective|
+evening|noun|
+human|adjective|
+red|noun|
+entire|adjective|
+trip|noun|
+club|noun|
+suppose|verb (used with object)|
+calm|adjective|
+imagine|verb (used with object)|
+fair|adjective|
+blame|verb (used with object)|
+street|noun|
+apartment|noun|
+court|noun|
+terrible|adjective|
+clean|adjective|
+learn|verb (used with object)|
+relax|verb (used with object)|
+million|noun|
+charity|noun|
+accident|noun|
+prove|verb (used with object)|
+smart|verb (used without object)|
+message|noun|
+small|adjective|
+interest|noun|
+table|noun|
+become|verb (used without object)|
+mouth|noun|
+pregnant|adjective|
+middle|adjective|
+ring|noun|
+careful|adjective|
+shall|auxiliary verb|
+team|noun|
+ride|verb (used without object)|
+figure|noun|
+wear|verb (used with object)|
+shoot|verb (used with object)|
+stick|noun|
+ray|noun|
+follow|verb (used with object)|
+angry|adjective|
+instead|adverb|
+buddy|noun|
+write|verb (used with object)|
+early|adverb|
+angel|noun|
+nick|noun|
+ran|verb|
+war|noun|
+forgive|verb (used with object)|
+jail|noun|
+lunch|noun|
+eight|noun|
+thousand|noun|
+music|noun|
+tough|adjective|
+tape|noun|
+count|verb (used with object)|
+college|noun|
+boyfriend|noun|
+proud|adjective|
+agree|verb (used without object)|
+birthday|noun|
+bill|noun|
+seven|noun|
+history|noun|
+share|noun|
+offer|verb (used with object)|
+hurry|verb (used without object)|
+feet|noun|
+wonder|verb (used without object)|
+simple|adjective|
+decision|noun|
+building|noun|
+finish|verb (used with object)|
+voice|noun|
+herself|pronoun|
+would|auxiliary verb|
+list|noun|
+mess|noun|
+deserve|verb (used with object)|
+cute|adjective|
+dress|noun|
+interesting|adjective|
+Jesus|noun|
+hotel|noun|
+enjoy|verb (used with object)|
+quiet|adjective|
+road|noun|
+eve|noun|
+short|adjective|
+beat|verb (used with object)|
+mention|verb (used with object)|
+clothe|verb (used with object)|
+neither|conjunction|
+fix|verb (used with object)|
+respect|noun|
+spent|verb|
+prison|noun|
+attention|noun|
+near|adverb|
+near|preposition|
+bar|noun|
+pass|verb (used with object)|
+gift|noun|
+dark|adjective|
+self|noun|
+normal|adjective|
+aunt|noun|
+dollar|noun|
+lawyer|noun|
+apart|adverb|
+certain|adjective|
+plan|noun|
+girlfriend|noun|
+floor|noun|
+whether|conjunction|
+everything|pronoun|
+present|adjective|
+earth|noun|
+private|adjective|
+box|noun|
+cover|verb (used with object)|
+judge|noun|
+sake|noun|
+mommy|noun|
+possibly|adverb|
+worst|adjective|
+station|noun|
+accept|verb (used with object)|
+blow|noun|
+strange|adjective|
+save|verb (used with object)|
+plane|noun|
+yesterday|adverb|
+quick|adjective|
+lately|adverb|
+stuck|verb|
+lovely|adjective|
+security|noun|
+report|noun|
+difference|noun|
+store|noun|
+bag|noun|
+ball|noun|
+single|adjective|
+doubt|verb (used with object)|
+blue|noun|
+deep|adjective|
+park|noun|
+record|verb (used with object)|
+lord|noun|
+join|verb (used with object)|
+key|noun|
+captain|noun|
+card|noun|
+crime|noun|
+window|noun|
+return|verb (used without object)|
+guilty|adjective|
+difficult|adjective|
+soul|noun|
+joke|noun|
+service|noun|
+magic|noun|
+uncle|noun|
+promise|noun|
+public|adjective|
+bother|verb (used with object)|
+island|noun|
+seriously|adverb|
+cell|noun|
+lead|verb (used with object)|
+broken|verb|
+advice|noun|
+somehow|adverb|
+push|verb (used with object)|
+concern|verb (used with object)|
+usually|adverb|
+boss|noun|
+rule|noun|
+summer|noun|
+thirty|noun|
+risk|noun|
+officer|noun|
+support|verb (used with object)|
+afternoon|noun|
+born|adjective|
+apologise|Error|
+seat|noun|
+nervous|adjective|
+across|preposition|
+song|noun|
+charge|verb (used with object)|
+patient|noun|
+boat|noun|
+brain|noun|
+hide|verb (used with object)|
+general|adjective|
+nine|noun|
+huge|adjective|
+breakfast|noun|
+horrible|adjective|
+age|noun|
+awful|adjective|
+pleasure|noun|
+driving|adjective|
+system|noun|
+sell|verb (used with object)|
+quit|verb (used with object)|
+dying|adjective|
+chief|noun|
+faith|noun|
+gay|adjective|
+month|noun|
+visit|verb (used with object)|
+screw|noun|
+letter|noun|
+decide|verb (used with object)|
+double|adjective|
+sad|adjective|
+press|verb (used with object)|
+forward|adverb|
+fool|noun|
+smell|verb (used with object)|
+spell|verb (used with object)|
+memory|noun|
+mark|noun|
+slow|adjective|
+hungry|adjective|
+board|noun|
+position|noun|
+hearing|noun|
+rose|noun|
+kitchen|noun|
+force|noun|
+fly|noun|
+during|preposition|
+space|noun|
+kick|verb (used with object)|
+other|adjective|
+grab|verb (used with object)|
+discuss|verb (used with object)|
+third|adjective|
+cat|noun|
+fifty|noun|
+mile|noun|
+fat|adjective|
+reading|noun|
+idiot|noun|
+rock|noun|
+suddenly|adverb|
+agent|noun|
+bunch|noun|
+destroy|verb (used with object)|
+track|noun|
+scene|noun|
+peace|noun|
+demon|noun|
+low|adjective|
+consider|verb (used with object)|
+drunk|adjective|
+tell|verb (used with object)|
+knock|verb (used without object)|
+bell|noun|
+cash|noun|
+give|verb (used with object)|
+department|noun|
+nose|noun|
+turn|verb (used with object)|
+keep|verb (used with object)|
+beer|noun|
+sooner|adverb|
+plenty|noun|
+extra|adjective|
+attack|verb (used with object)|
+ground|noun|
+whose|pronoun|
+weekend|noun|
+matter|noun|
+wrote|verb|
+type|noun|
+opportunity|noun|
+king|noun|
+impossible|adjective|
+book|noun|
+machine|noun|
+waste|verb (used with object)|
+pretend|verb (used with object)|
+danger|noun|
+wall|noun|
+jump|verb (used without object)|
+proof|noun|
+complete|adjective|
+arrest|verb (used with object)|
+perfectly|adverb|
+warm|adjective|
+pull|verb (used with object)|
+twice|adverb|
+suit|noun|
+romantic|adjective|
+drug|noun|
+comfortable|adjective|
+fit|adjective|
+divorce|noun|
+begin|verb (used without object)|
+ruin|noun|
+although|conjunction|
+smile|verb (used without object)|
+laugh|verb (used without object)|
+fish|noun|
+treat|verb (used with object)|
+fear|noun|
+amber|noun|
+guy|noun|
+otherwise|adverb|
+excited|adjective|
+mail|noun|
+green|adjective|
+stole|verb|
+notice|noun|
+excellent|adjective|
+pop|verb (used without object)|
+paper|noun|
+bottom|noun|
+note|noun|
+sudden|adjective|
+church|noun|
+bathroom|noun|
+sing|verb (used without object)|
+glass|noun|
+tree|noun|
+contact|noun|
+shop|noun|
+reach|verb (used with object)|
+cry|verb (used without object)|
+cake|noun|
+partner|noun|
+bus|noun|
+computer|noun|
+study|noun|
+star|noun|
+area|noun|
+wind|noun|
+chicken|noun|
+dry|adjective|
+hero|noun|
+error|noun|
+are|verb|
+build|verb (used with object)|
+sea|noun|
+Saturday|noun|
+add|verb (used with object)|
+birth|noun|
+bird|noun|
+grandmother|noun|
+heavy|adjective|
+west|noun|
+lesson|noun|
+heat|noun|
+speed|noun|
+milk|noun|
+rain|noun|
+sugar|noun|
+market|noun|
+process|noun|
+stone|noun|
+serve|verb (used without object)|
+river|noun|
+super|noun|
+monkey|noun|
+pig|noun|
+chat|verb (used without object)|
+signal|noun|
+cup|noun|
+bee|noun|
+a|indefinite article|
+above|adverb|
+addition|noun|
+among|preposition|
+amount|noun|
+angle|noun|
+animal|noun|
+appear|verb (used without object)|
+apple|noun|
+art|noun|
+as|adverb|
+at|preposition|
+bank|noun|
+base|noun|
+bear|verb (used with object)|
+belong|verb (used without object)|
+block|noun|
+bone|noun|
+brown|noun|
+cannot|verb|
+capital|noun|
+carry|verb (used with object)|
+centre|noun|
+century|noun|
+circle|noun|
+cloud|noun|
+cost|noun|
+cold|adjective|
+column|noun|
+common|adjective|
+compere|noun|
+condition|noun|
+contain|verb (used with object)|
+continue|verb (used without object)|
+cook|verb (used with object)|
+copy|noun|
+cow|noun|
+create|verb (used with object)|
+cross|noun|
+crowd|noun|
+describe|verb (used with object)|
+desert|noun|
+design|verb (used with object)|
+detail|noun|
+dictionary|noun|
+direction|noun|
+ear|noun|
+east|noun|
+like|adjective|
+edge|noun|
+effect|noun|
+egg|noun|
+element|noun|
+energy|noun|
+engine|noun|
+England|noun|
+English|adjective|
+example|noun|
+express|verb (used with object)|
+famous|adjective|
+farm|noun|
+field|noun|
+finger|noun|
+flat|adjective|
+flower|noun|
+foot|noun|
+forest|noun|
+form|noun|
+fresh|adjective|
+fruit|noun|
+garden|noun|
+gas|noun|
+gold|noun|
+group|noun|
+grow|verb (used without object)|
+hat|noun|
+hole|noun|
+horse|noun|
+hunt|verb (used with object)|
+ice|noun|
+inch|noun|
+include|verb (used with object)|
+increase|verb (used with object)|
+indicate|verb (used with object)|
+information|noun|
+insect|noun|
+instrument|noun|
+iron|noun|
+itself|pronoun|
+job|noun|
+lady|noun|
+lake|noun|
+land|noun|
+language|noun|
+large|adjective|
+lay|verb (used with object)|
+leg|noun|
+length|noun|
+level|adjective|
+lift|verb (used with object)|
+main|adjective|
+many|adjective|
+map|noun|
+march|verb (used without object)|
+bacon|noun|
+gap|noun|
+pan|noun|
+read|verb (used with object)|
+made|verb|
+morning|noun|
+recklessly|adverb|
+okay|adjective|
+autumn|noun|
+aggravation|noun|
+Archaic|adjective|
+pertinent|adjective|
+rid|verb (used with object)|
+defense|noun|
+planning|noun|
+flight|noun|
+honestly|adverb|
+remind|verb (used with object)|
+witness|verb (used with object)|
+dare|verb (used without object)|
+hardly|adverb|
+steal|verb (used with object)|
+princess|noun|
+silly|adjective|
+teach|verb (used with object)|
+plus|preposition|
+trial|noun|
+roll|verb (used without object)|
+radio|noun|
+dirty|adjective|
+choose|verb (used with object)|
+emergency|noun|
+credit|noun|
+obvious|adjective|
+loving|adjective|
+positive|adjective|
+nut|noun|
+price|noun|
+goodbye|interjection|
+guard|verb (used with object)|
+mood|noun|
+total|adjective|
+crap|noun|
+crying|adjective|
+trick|noun|
+pressure|noun|
+arm|noun|
+taste|verb (used with object)|
+neck|noun|
+south|noun|
+something|pronoun|
+nurse|noun|
+raise|verb (used with object)|
+lots|plural noun|
+mister|noun|
+whoever|pronoun|
+breaking|adjective|
+file|noun|
+lock|noun|
+wine|noun|
+writing|noun|
+spot|noun|
+assume|verb (used with object)|
+asleep|adverb|
+legal|adjective|
+justice|noun|
+bedroom|noun|
+shower|noun|
+camera|noun|
+fill|verb (used with object)|
+forty|noun|
+bigger|Idioms and Phrases|
+nope|adverb|
+breath|noun|
+pants|noun|
+freak|noun|
+French|adjective|
+action|noun|
+cream|noun|
+focus|noun|
+wild|adjective|
+truly|adverb|
+desk|noun|
+convince|verb (used with object)|
+client|noun|
+threw|verb|
+band|noun|
+allow|verb (used with object)|
+grand|adjective|
+shirt|noun|
+chair|noun|
+rough|adjective|
+government|noun|
+harry|verb (used with object)|
+going|noun|
+empty|adjective|
+round|adjective|
+insane|adjective|
+hall|noun|
+aware|adjective|
+pack|noun|
+meaning|noun|
+tight|adjective|
+ship|noun|
+subject|noun|
+guest|noun|
+match|noun|
+sun|noun|
+confused|adjective|
+surgery|noun|
+bottle|noun|
+beyond|preposition|
+opinion|noun|
+naked|adjective|
+held|verb|
+necessary|adjective|
+barely|adverb|
+health|noun|
+video|noun|
+cousin|noun|
+twelve|noun|
+simply|adverb|
+skin|noun|
+often|adverb|
+fifteen|noun|
+spirit|noun|
+speech|noun|
+issue|noun|
+final|adjective|
+result|verb (used without object)|
+code|noun|
+research|noun|
+nowhere|adverb|
+escape|verb (used without object)|
+restaurant|noun|
+page|noun|
+grateful|adjective|
+usual|adjective|
+burn|verb (used without object)|
+address|noun|
+within|adverb|
+someplace|adverb|
+everywhere|adverb|
+train|noun|
+film|noun|
+regret|verb (used with object)|
+goodness|noun|
+heaven|noun|
+responsibility|noun|
+suspect|verb (used with object)|
+corner|noun|
+terrific|adjective|
+mission|noun|
+further|adverb|
+truck|noun|
+following|noun|
+teeth|noun|
+split|verb (used with object)|
+airport|noun|
+bite|verb (used with object)|
+older|adjective|
+liar|noun|
+van|noun|
+project|noun|
+desperate|adjective|
+themselves|pronoun|
+search|verb (used with object)|
+damage|noun|
+spoke|verb|
+quickly|adverb|
+scare|verb (used with object)|
+beach|noun|
+afford|verb (used with object)|
+vote|noun|
+settle|verb (used with object)|
+passion|noun|
+Friday|noun|
+tie|verb (used with object)|
+upon|preposition|
+rush|verb (used without object)|
+natural|adjective|
+champagne|noun|
+connection|noun|
+happiness|noun|
+saving|adjective|
+personally|adverb|
+suggest|verb (used with object)|
+ticket|noun|
+taught|verb|
+loose|adjective|
+holy|adjective|
+staff|noun|
+planet|noun|
+duty|noun|
+loud|adjective|
+practice|noun|
+bright|adjective|
+army|noun|
+warning|noun|
+miracle|noun|
+flying|adjective|
+blind|adjective|
+queen|noun|
+ugly|adjective|
+shopping|noun|
+monster|noun|
+sight|noun|
+vampire|noun|
+bride|noun|
+coat|noun|
+account|noun|
+clearly|adverb|
+celebrate|verb (used with object)|
+brilliant|adjective|
+moon|noun|
+custody|noun|
+center|noun|
+size|noun|
+toast|noun|
+student|noun|
+however|adverb|
+professional|adjective|
+reality|noun|
+attitude|noun|
+advantage|noun|
+grandfather|noun|
+sold|verb|
+grandma|noun|
+beg|verb (used with object)|
+someday|adverb|
+grade|noun|
+cheese|noun|
+roof|noun|
+pizza|noun|
+powerful|adjective|
+fake|verb (used with object)|
+opening|noun|
+sally|noun|
+eventually|adverb|
+exciting|adjective|
+familiar|adjective|
+bomb|noun|
+bout|noun|
+television|noun|
+harmony|noun|
+colour|noun|
+schedule|noun|
+capable|adjective|
+master|noun|
+practically|adverb|
+correct|verb (used with object)|
+clue|noun|
+forgotten|verb|
+appointment|noun|
+social|adjective|
+nature|noun|
+teacher|noun|
+threat|noun|
+bloody|adjective|
+lonely|adjective|
+shame|noun|
+local|adjective|
+jacket|noun|
+hook|noun|
+scary|adjective|
+loser|noun|
+invite|verb (used with object)|
+merry|adjective|
+port|noun|
+precious|adjective|
+criminal|adjective|
+growing|adjective|
+victim|noun|
+professor|noun|
+funeral|noun|
+couch|noun|
+strength|noun|
+loss|noun|
+view|noun|
+beauty|noun|
+several|adjective|
+shock|noun|
+chocolate|noun|
+greatest|adjective|
+miserable|adjective|
+character|noun|
+became|verb|
+enemy|noun|
+crash|verb (used without object)|
+recognize|verb (used with object)|
+healthy|adjective|
+boring|adjective|
+feed|verb (used with object)|
+engage|verb (used with object)|
+percent|noun|
+purpose|noun|
+north|noun|
+knife|noun|
+drag|verb (used with object)|
+fan|noun|
+badly|adverb|
+hire|verb (used with object)|
+curious|adjective|
+paint|noun|
+pardon|noun|
+built|verb|
+closet|noun|
+candy|noun|
+warn|verb (used with object)|
+post|noun|
+survive|verb (used without object)|
+operation|noun|
+dump|verb (used with object)|
+rent|noun|
+trade|noun|
+thanksgiving|noun|
+revenge|verb (used with object)|
+available|adjective|
+program|noun|
+prefer|verb (used with object)|
+spare|verb (used with object)|
+pray|verb (used with object)|
+aside|adverb|
+statement|noun|
+sometime|adverb|
+meat|noun|
+fantastic|adjective|
+launch|verb (used with object)|
+tip|noun|
+affair|noun|
+depend|verb (used without object)|
+jury|noun|
+national|adjective|
+brave|adjective|
+storm|noun|
+prince|noun|
+interview|noun|
+football|noun|
+sexy|adjective|
+explanation|noun|
+style|noun|
+assistant|noun|
+pie|noun|
+handsome|adjective|
+unbelievable|adjective|
+anytime|adverb|
+nearly|adverb|
+shake|verb (used without object)|
+wherever|conjunction|
+medicine|noun|
+lousy|adjective|
+circumstance|noun|
+stage|noun|
+weak|adjective|
+license|noun|
+nothing|noun|
+community|noun|
+trash|noun|
+slip|verb (used without object)|
+awake|verb (used with or without object)|
+friendship|noun|
+stomach|noun|
+weapon|noun|
+mystery|noun|
+official|noun|
+regular|adjective|
+valley|noun|
+contract|noun|
+sexual|adjective|
+race|noun|
+basically|adverb|
+switch|noun|
+frankly|adverb|
+cheap|adjective|
+lifetime|noun|
+deny|verb (used with object)|
+painting|noun|
+clock|noun|
+weight|noun|
+tear|noun|
+dig|verb (used without object)|
+bullet|noun|
+indeed|adverb|
+tiny|adjective|
+particular|adjective|
+draw|verb (used with object)|
+decent|adjective|
+spring|verb (used without object)|
+avoid|verb (used with object)|
+united|adjective|
+score|noun|
+disappear|verb (used without object)|
+stranger|noun|
+exact|adjective|
+harm|noun|
+recently|adverb|
+snow|noun|
+fortune|noun|
+strike|verb (used with object)|
+insurance|noun|
+fancy|adjective|
+drove|verb|
+career|noun|
+shape|noun|
+stock|noun|
+fashion|noun|
+freedom|noun|
+timing|noun|
+guarantee|noun|
+chest|noun|
+bridge|noun|
+woke|verb|
+source|noun|
+theory|noun|
+camp|noun|
+original|adjective|
+juice|noun|
+access|noun|
+watch|verb (used without object)|
+heading|noun|
+selfish|adjective|
+oil|noun|
+wise|adjective|
+period|noun|
+doll|noun|
+committed|adjective|
+freeze|verb (used without object)|
+noise|noun|
+exist|verb (used without object)|
+science|noun|
+pair|noun|
+sat|verb|
+player|noun|
+ceremony|noun|
+uncomfortable|adjective|
+peg|noun|
+bike|noun|
+weather|noun|
+mostly|adverb|
+stress|noun|
+permission|noun|
+possibility|noun|
+borrow|verb (used with object)|
+release|verb (used with object)|
+ate|verb|
+joy|noun|
+junior|adjective|
+property|noun|
+negative|adjective|
+fabulous|adjective|
+vision|noun|
+member|noun|
+battle|noun|
+term|noun|
+devil|noun|
+what|pronoun|
+meal|noun|
+fellow|noun|
+apology|noun|
+anger|noun|
+honeymoon|noun|
+wet|adjective|
+bail|noun|
+parking|noun|
+hung|verb|
+protection|noun|
+manager|noun|
+dawn|noun|
+Chinese|noun|
+campaign|noun|
+wash|verb (used with object)|
+sensitive|adjective|
+photo|noun|
+chose|verb|
+comfort|verb (used with object)|
+whom|pronoun|
+pocket|noun|
+bleeding|noun|
+shoulder|noun|
+ignore|verb (used with object)|
+fourth|adjective|
+talent|noun|
+garage|noun|
+travel|verb (used without object)|
+success|noun|
+training|noun|
+rude|adjective|
+crack|verb (used without object)|
+model|noun|
+radar|noun|
+grew|verb|
+remain|verb (used without object)|
+soft|adjective|
+meantime|noun|
+connected|adjective|
+chase|verb (used with object)|
+cast|verb (used with object)|
+cancer|noun|
+sky|noun|
+likely|adjective|
+fate|noun|
+bury|verb (used with object)|
+hug|verb (used with object)|
+brother|noun|
+driver|noun|
+concentrate|verb (used with object)|
+throat|noun|
+prom|noun|
+unit|noun|
+intend|verb (used with object)|
+crew|noun|
+ashame|Error|
+midnight|noun|
+manage|verb (used with object)|
+guilt|noun|
+terms|plural noun|
+interrupt|verb (used with object)|
+tongue|noun|
+distance|noun|
+conference|noun|
+treatment|noun|
+shoe|noun|
+basement|noun|
+sentence|noun|
+purse|noun|
+glasses|plural noun|
+cabin|noun|
+universe|noun|
+towards|preposition|
+repeat|verb (used with object)|
+mirror|noun|
+wound|noun|
+tall|adjective|
+reaction|noun|
+odd|adjective|
+engagement|noun|
+therapy|noun|
+emotional|adjective|
+magazine|noun|
+soup|noun|
+society|noun|
+sue|verb (used with object)|
+stake|noun|
+chef|noun|
+awesome|adjective|
+genius|noun|
+extremely|adverb|
+entirely|adverb|
+nasty|adjective|
+expensive|adjective|
+square|noun|
+cleaning|noun|
+shift|verb (used with object)|
+plate|noun|
+trapped|adjective|
+male|adjective|
+tour|noun|
+charming|adjective|
+attractive|adjective|
+argue|verb (used without object)|
+Sunday|noun|
+whip|verb (used with object)|
+settled|adjective|
+package|noun|
+laid|verb|
+disease|noun|
+bust|noun|
+staircase|noun|
+alarm|noun|
+pure|adjective|
+nail|noun|
+nerve|noun|
+incredibly|adverb|
+hill|noun|
+lane|noun|
+dirt|noun|
+bond|noun|
+stamp|verb (used with object)|
+becoming|adjective|
+terribly|adverb|
+friendly|adjective|
+easily|adverb|
+damn|verb (used with object)|
+suffering|noun|
+disgusting|adjective|
+deliver|verb (used with object)|
+riding|noun|
+federal|adjective|
+disaster|noun|
+rate|noun|
+trap|noun|
+claim|verb (used with object)|
+turkey|noun|
+spoken|verb|
+snake|noun|
+introduce|verb (used with object)|
+rescue|verb (used with object)|
+confession|noun|
+lover|noun|
+impression|noun|
+gate|noun|
+fantasy|noun|
+reputation|noun|
+It|pronoun|
+knowledge|noun|
+inn|noun|
+Europe|noun|
+suffer|verb (used without object)|
+argument|noun|
+homework|noun|
+cancel|verb (used with object)|
+director|noun|
+bath|noun|
+prepare|verb (used with object)|
+wheel|noun|
+crisis|noun|
+Monday|noun|
+pink|noun|
+gentleman|noun|
+toilet|noun|
+agreement|noun|
+ill|adjective|
+eleven|noun|
+wide|adjective|
+popular|adjective|
+clinic|noun|
+exchange|verb (used with object)|
+university|noun|
+load|noun|
+winter|noun|
+swim|verb (used without object)|
+holiday|noun|
+material|noun|
+parent|noun|
+wood|noun|
+article|noun|
+math|noun|
+grant|verb (used with object)|
+orange|noun|
+Thursday|noun|
+dozen|noun|
+bread|noun|
+silence|noun|
+duck|noun|
+seventy|noun|
+butter|noun|
+carrot|noun|
+alcohol|noun|
+mum|adjective|
+headache|noun|
+tennis|noun|
+Tuesday|noun|
+theatre|noun|
+ninety|noun|
+guide|verb (used with object)|
+royal|adjective|
+ability|noun|
+wing|noun|
+tradition|noun|
+towel|noun|
+earn|verb (used with object)|
+habit|noun|
+event|noun|
+basket|noun|
+balance|noun|
+exercise|noun|
+forth|adverb|
+eighteen|noun|
+perform|verb (used with object)|
+everyday|adjective|
+village|noun|
+journey|noun|
+supply|verb (used with object)|
+helpful|adjective|
+useless|adjective|
+fourteen|noun|
+gum|noun|
+replace|verb (used with object)|
+emotion|noun|
+stubborn|adjective|
+provide|verb (used with object)|
+beef|noun|
+nephew|noun|
+victory|noun|
+title|noun|
+furniture|noun|
+blanket|noun|
+surface|noun|
+niece|noun|
+soap|noun|
+signature|noun|
+zoo|noun|
+cope|verb (used without object)|
+compound|adjective|
+abuse|verb (used with object)|
+accurate|adjective|
+acquire|verb (used with object)|
+bake|verb (used with object)|
+barrier|noun|
+battery|noun|
+beard|noun|
+behave|verb (used without object)|
+beside|preposition|
+bicycle|noun|
+bin|noun|
+biscuit|noun|
+bonus|noun|
+brush|noun|
+bucket|noun|
+budget|noun|
+butcher|noun|
+carpet|noun|
+centimetre|noun|
+cereal|noun|
+certificate|noun|
+champion|noun|
+chemical|noun|
+cheque|noun|
+cherry|noun|
+cigarette|noun|
+cinema|noun|
+citizen|noun|
+classroom|noun|
+data|noun|
+darling|noun|
+deaf|adjective|
+delay|verb (used with object)|
+diary|noun|
+dish|noun|
+eastern|adjective|
+economic|adjective|
+email|noun|
+employ|verb (used with object)|
+enable|verb (used with object)|
+fee|noun|
+finance|noun|
+flow|verb (used without object)|
+formula|noun|
+frequent|adjective|
+fridge|noun|
+fry|verb (used with object)|
+fulfil|verb (used with object)|
+industry|noun|
+injury|noun|
+institute|verb (used with object)|
+jam|verb (used with object)|
+journalist|noun|
+absence|noun|
+keen|adjective|
+kettle|noun|
+keyboard|noun|
+knee|noun|
+label|noun|
+laboratory|noun|
+labour|noun|
+lack|noun|
+ladder|noun|
+lamb|noun|
+lamp|noun|
+landlord|noun|
+lazy|adjective|
+leader|noun|
+leadership|noun|
+leaf|noun|
+lean|verb (used without object)|
+leather|noun|
+lend|verb (used with object)|
+leisure|noun|
+log|noun|
+logical|adjective|
+lorry|noun|
+library|noun|
+mainly|adverb|
+maintain|verb (used with object)|
+maintenance|noun|
+major|noun|
+mall|noun|
+manner|noun|
+margin|noun|
+marvellous|adjective|
+massive|adjective|
+narrow|adjective|
+native|adjective|
+naughty|adjective|
+nearby|adjective|
+neighbour|noun|
+net|noun|
+network|noun|
+no way|interjection|
+object|noun|
+objection|noun|
+obligation|noun|
+observation|noun|
+observe|verb (used with object)|
+obtain|verb (used with object)|
+occasion|noun|
+occupy|verb (used with object)|
+occur|verb (used without object)|
+ocean|noun|
+oâ€™clock|Error|
+of course|Example Sentences|
+operate|verb (used without object)|
+oppose|verb (used with object)|
+pace|noun|
+pad|noun|
+palace|noun|
+pale|adjective|
+panic|noun|
+parcel|noun|
+parliament|noun|
+participate|verb (used without object)|
+partly|adverb|
+passenger|noun|
+patience|noun|
+path|noun|
+pattern|noun|
+pause|noun|
+payment|noun|
+qualify|verb (used with object)|
+quality|noun|
+quantity|noun|
+rail|noun|
+railway|noun|
+range|noun|
+rapid|adjective|
+rare|adjective|
+rarely|adverb|
+react|verb (used without object)|
+receipt|noun|
+receive|verb (used with object)|
+safety|noun|
+sail|noun|
+salad|noun|
+salary|noun|
+sale|noun|
+salt|noun|
+sand|noun|
+sandwich|noun|
+satellite|noun|
+satisfaction|noun|
+sauce|noun|
+sausage|noun|
+scale|noun|
+scheme|noun|
+scratch|verb (used with object)|
+screen|noun|
+script|noun|
+seal|noun|
+season|noun|
+secondary|adjective|
+seed|noun|
+seek|verb (used with object)|
+select|verb (used with object)|
+senior|adjective|
+sensible|adjective|
+separate|verb (used with object)|
+sequence|noun|
+servant|noun|
+session|noun|
+settlement|noun|
+severe|adjective|
+shadow|noun|
+tablet|noun|
+tail|noun|
+tale|noun|
+tap|verb (used with object)|
+target|noun|
+task|noun|
+tax|noun|
+taxi|noun|
+tea|noun|
+telly|noun|
+technology|noun|
+telephone|noun|
+temperature|noun|
+unable|adjective|
+undertake|verb (used with object)|
+uniform|adjective|
+unlike|adjective|
+vacation|noun|
+variation|noun|
+vary|verb (used with object)|
+vast|adjective|
+vegetable|noun|
+yard|noun|
+yellow|noun|
+wage|noun|
+wake|verb (used without object)|
+wander|verb (used without object)|
+ward|noun|
+wardrobe|noun|
+weakness|noun|
+wealth|noun|
+web|noun|
+website|noun|
+western|adjective|
+whatsoever|pronoun|
+whereas|conjunction|
+wooden|adjective|
+wool|noun|
+workshop|noun|
+kilometre|noun|
+largely|adverb|
+lunchtime|noun|
+link|noun|
+liquid|adjective|
+limit|noun|
+literature|noun|
+mushroom|noun|
+musical|adjective|
+muscle|noun|
+movement|noun|
+mouse|noun|
+mountain|noun|
+northern|adjective|
+overseas|adverb|
+ownership|noun|
+programme|noun|
+pupil|noun|
+pub|noun|
+primarily|adverb|
+presume|verb (used with object)|
+predict|verb (used with object)|
+practise|verb (used with or without object)|
+praise|noun|
+potato|noun|
+post office|noun|
+pool|noun|
+politician|noun|
+policeman|noun|
+poem|noun|
+plug|noun|
+petrol|noun|
+pepper|noun|
+pension|noun|
+pencil|noun|
+reduce|verb (used with object)|
+region|noun|
+rice|noun|
+scientist|noun|
+sheep|noun|
+sheet|noun|
+shelf|noun|
+shout|verb (used without object)|
+singer|noun|
+slice|noun|
+slim|adjective|
+sole|adjective|
+spoon|noun|
+steak|noun|
+strawberry|noun|
+strict|adjective|
+struggle|verb (used without object)|
+submit|verb (used with object)|
+supermarket|noun|
+supper|noun|
+symbol|noun|
+territory|noun|
+text|noun|
+toe|noun|
+tomato|noun|
+tooth|noun|
+tourist|noun|
+tower|noun|
+traditional|adjective|
+translate|verb (used with object)|
+transport|verb (used with object)|
+trousers|noun|
+tube|noun|
+unlikely|adjective|
+useful|adjective|
+via|preposition|
+visual|adjective|
+volume|noun|
+yet|adverb|
+youth|noun|
+had|verb|
+investigation|noun|
+vine|noun|
+T-shirt|noun|
+apricot|noun|
+attribute|verb (used with object)|
+beetle|noun|
+bracket|noun|
+concise|adjective|
+decay|verb (used without object)|
+doze|verb (used without object)|
+farther|adverb|
+lavatory|noun|
+litre|noun|
+metre|noun|
+noun|noun|
+pigeon|noun|
+porridge|noun|
+raspberry|noun|
+appreciate|verb (used with object)|
+responsible|adjective|
+fought|verb|
+pride|noun|
+solve|verb (used with object)|
+hopefully|adverb|
+pine|noun|
+mate|noun|
+illegal|adjective|
+matt|noun|
+con|adverb|
+maid|noun|
+punch|noun|
+mayor|noun|
+recall|verb (used with object)|
+bug|noun|
+defend|verb (used with object)|
+painful|adjective|
+rat|noun|
+cooking|noun|
+button|noun|
+sixty|noun|
+pity|noun|
+coach|noun|
+row|noun|
+awhile|adverb|
+pen|noun|
+confidence|noun|
+carter|noun|
+image|noun|
+hers|pronoun|
+role|noun|
+refuse|verb (used with object)|
+determined|adjective|
+progress|noun|
+military|adjective|
+artist|noun|
+gym|noun|
+cruel|adjective|
+traffic|noun|
+mental|adjective|
+poison|noun|
+expert|noun|
+bull|noun|
+benefit|noun|
+secretary|noun|
+sneak|verb (used without object)|
+mix|verb (used with object)|
+firm|adjective|
+privacy|noun|
+pot|noun|
+twins|plural noun|
+swing|verb (used with object)|
+successful|adjective|
+scream|verb (used without object)|
+solid|adjective|
+flash|noun|
+crush|verb (used with object)|
+ambulance|noun|
+wallet|noun|
+discovery|noun|
+officially|adverb|
+gang|noun|
+till|preposition|
+rise|verb (used without object)|
+option|noun|
+laundry|noun|
+former|adjective|
+assure|verb (used with object)|
+skip|verb (used without object)|
+fail|verb (used without object)|
+accuse|verb (used with object)|
+plant|noun|
+lower|verb (used with object)|
+bored|adjective|
+soda|noun|
+silver|noun|
+sheriff|noun|
+suite|noun|
+section|noun|
+commit|verb (used with object)|
+suicide|noun|
+spread|verb (used with object)|
+fishing|noun|
+bat|noun|
+yell|verb (used without object)|
+league|noun|
+proper|adjective|
+fifth|adjective|
+solution|noun|
+sharp|adjective|
+giant|noun|
+nor|conjunction|
+latest|adjective|
+ash|noun|
+highly|adverb|
+audience|noun|
+winner|noun|
+insist|verb (used without object)|
+cheer|noun|
+flesh|noun|
+district|noun|
+routine|noun|
+adult|noun|
+spike|noun|
+awfully|adverb|
+thin|adjective|
+fever|noun|
+female|adjective|
+sweat|verb (used without object)|
+silent|adjective|
+clever|adjective|
+request|noun|
+prize|noun|
+fully|adverb|
+estate|noun|
+union|noun|
+goodnight|Error|
+despite|preposition|
+surely|adverb|
+confess|verb (used with object)|
+bless|verb (used with object)|
+chip|noun|
+zero|noun|
+potential|adjective|
+wolf|noun|
+chill|noun|
+blonde|adjective|
+agency|noun|
+degree|noun|
+unusual|adjective|
+joint|noun|
+rob|verb (used with object)|
+cure|noun|
+covering|noun|
+newspaper|noun|
+coast|noun|
+grave|noun|
+direct|verb (used with object)|
+quarter|noun|
+mixed|adjective|
+brand|noun|
+toy|noun|
+policy|noun|
+competition|noun|
+reasonable|adjective|
+curse|noun|
+dessert|noun|
+rolling|noun|
+alien|noun|
+cloth|noun|
+ancient|adjective|
+wore|verb|
+value|noun|
+site|noun|
+secure|adjective|
+spit|verb (used without object)|
+pilot|noun|
+penny|noun|
+offense|noun|
+dust|noun|
+conscience|noun|
+invitation|noun|
+hidden|adjective|
+grief|noun|
+destiny|noun|
+bowl|noun|
+pregnancy|noun|
+prisoner|noun|
+delivery|noun|
+virus|noun|
+shrink|verb (used without object)|
+influence|noun|
+freezing|adjective|
+concert|noun|
+wreck|noun|
+chain|noun|
+walker|noun|
+wire|noun|
+presence|noun|
+anxious|adjective|
+version|noun|
+bound|verb|
+charm|noun|
+frame|noun|
+boom|verb (used without object)|
+vice|noun|
+opera|noun|
+nonsense|noun|
+fright|noun|
+downtown|adverb|
+actual|adjective|
+spin|verb (used with object)|
+classic|adjective|
+civil|adjective|
+tool|noun|
+education|noun|
+wrap|verb (used with object)|
+torture|noun|
+location|noun|
+loan|noun|
+effort|noun|
+owner|noun|
+fairy|noun|
+per|preposition|
+necessarily|adverb|
+county|noun|
+contest|noun|
+print|verb (used with object)|
+motel|noun|
+directly|adverb|
+underwear|noun|
+exhaust|verb (used with object)|
+particularly|adverb|
+carefully|adverb|
+trace|noun|
+smooth|adjective|
+recovery|noun|
+intention|noun|
+enter|verb (used without object)|
+belt|noun|
+standard|noun|
+sacrifice|noun|
+courage|noun|
+attract|verb (used with object)|
+bay|noun|
+remove|verb (used with object)|
+intense|adjective|
+violence|noun|
+heal|verb (used with object)|
+attempt|verb (used with object)|
+unfair|adjective|
+loyal|adjective|
+approach|verb (used with object)|
+slowly|adverb|
+normally|adverb|
+actor|noun|
+plain|adjective|
+attic|noun|
+pet|noun|
+threaten|verb (used with object)|
+motion|noun|
+collection|noun|
+incident|noun|
+failure|noun|
+imagination|noun|
+counsellor|noun|
+opposite|adjective|
+gross|adjective|
+golden|adjective|
+badge|noun|
+Italian|adjective|
+studio|noun|
+naturally|adverb|
+frozen|verb|
+trunk|noun|
+armed|adjective|
+twisted|adjective|
+costume|noun|
+temporary|adjective|
+sixteen|noun|
+zone|noun|
+kitty|noun|
+junk|noun|
+honorary|adjective|
+priest|noun|
+cable|noun|
+affect|verb (used with object)|
+happily|adverb|
+leading|adjective|
+host|noun|
+authority|noun|
+commercial|adjective|
+admire|verb (used with object)|
+fund|noun|
+barn|noun|
+deeply|adverb|
+wrapped|verb|
+tense|adjective|
+sport|noun|
+route|noun|
+plastic|noun|
+election|noun|
+pierce|verb (used with object)|
+mortal|adjective|
+fascinating|adjective|
+chosen|verb|
+shown|verb|
+abandon|verb (used with object)|
+china|noun|
+arrangement|noun|
+agenda|noun|
+series|noun|
+literally|adverb|
+propose|verb (used with object)|
+honesty|noun|
+basketball|noun|
+underneath|preposition|
+soldier|noun|
+review|noun|
+lecture|noun|
+eighty|noun|
+brandy|noun|
+torn|verb|
+relief|noun|
+golf|noun|
+counter|noun|
+transfer|verb (used with object)|
+response|noun|
+channel|noun|
+backup|noun|
+identity|noun|
+differently|adverb|
+spy|noun|
+deck|noun|
+biological|adjective|
+so|adverb|
+minor|adjective|
+ease|noun|
+creep|verb (used without object)|
+will|auxiliary verb|
+waitress|noun|
+skill|noun|
+wave|noun|
+thee|pronoun|
+reception|noun|
+pin|noun|
+diner|noun|
+annoying|adjective|
+goal|noun|
+council|noun|
+mass|noun|
+sergeant|noun|
+international|adjective|
+gig|noun|
+blast|noun|
+basic|adjective|
+clown|noun|
+rub|verb (used with object)|
+customer|noun|
+creature|noun|
+snap|verb (used without object)|
+prime|adjective|
+handling|noun|
+eaten|verb|
+therapist|noun|
+comment|noun|
+sink|verb (used without object)|
+reporter|noun|
+priority|noun|
+gain|verb (used with object)|
+fed|verb|
+warehouse|noun|
+virgin|noun|
+shy|adjective|
+loyalty|noun|
+inspector|noun|
+candle|noun|
+pleasant|adjective|
+media|noun|
+castle|noun|
+permanent|adjective|
+financial|adjective|
+demand|verb (used with object)|
+assault|noun|
+tend|verb (used without object)|
+motive|noun|
+unconscious|adjective|
+museum|noun|
+alley|noun|
+swimming|noun|
+nap|verb (used without object)|
+mysterious|adjective|
+unhappy|adjective|
+tone|noun|
+liberty|noun|
+bang|noun|
+award|verb (used with object)|
+cooper|noun|
+childhood|noun|
+causless|Error|
+sample|noun|
+background|noun|
+toss|verb (used with object)|
+mob|noun|
+misery|noun|
+central|adjective|
+boots|noun|
+thief|noun|
+squeeze|verb (used with object)|
+lobby|noun|
+ego|noun|
+drama|noun|
+noble|adjective|
+facing|noun|
+poker|noun|
+cookie|noun|
+creepy|adjective|
+comparable|adjective|
+trail|verb (used with object)|
+saint|noun|
+rotten|adjective|
+liver|noun|
+drawn|verb|
+device|noun|
+magical|adjective|
+moral|adjective|
+attached|adjective|
+searching|adjective|
+flew|verb|
+depressed|adjective|
+aisle|noun|
+underground|adverb|
+pro|adverb|
+amen|interjection|
+vow|noun|
+proposal|noun|
+pit|noun|
+darn|adjective|
+clay|noun|
+arrange|verb (used with object)|
+annulment|noun|
+user|noun|
+squad|noun|
+represent|verb (used with object)|
+product|noun|
+afterward|adverb|
+adventure|noun|
+resist|verb (used with object)|
+piano|noun|
+flag|noun|
+debt|noun|
+darkness|noun|
+violent|adjective|
+tag|noun|
+strip|verb (used with object)|
+hip|noun|
+celebration|noun|
+below|adverb|
+paperwork|noun|
+mighty|adjective|
+typical|adjective|
+stable|noun|
+pound|verb (used with object)|
+pillow|noun|
+mature|adjective|
+lap|noun|
+current|adjective|
+bum|noun|
+tension|noun|
+tank|noun|
+stroke|noun|
+steady|adjective|
+overnight|adverb|
+meanwhile|noun|
+boxing|noun|
+collect|verb (used with object)|
+tragedy|noun|
+therefore|adverb|
+spoil|verb (used with object)|
+realm|noun|
+profile|noun|
+wipe|verb (used with object)|
+surgeon|noun|
+stretch|verb (used with object)|
+neat|adjective|
+fox|noun|
+confident|adjective|
+anti|noun|
+perspective|noun|
+designer|noun|
+climb|verb (used without object)|
+punishment|noun|
+finest|noun|
+hint|noun|
+twist|verb (used with object)|
+trigger|noun|
+proceed|verb (used without object)|
+lip|noun|
+jersey|noun|
+fries|noun|
+handy|adjective|
+disappoint|verb (used with object)|
+crawl|verb (used without object)|
+convicted|adjective|
+lit|verb|
+flip|verb (used with object)|
+counsel|noun|
+kit|noun|
+thick|adjective|
+minister|noun|
+jewellery|noun|
+goose|noun|
+average|noun|
+creative|adjective|
+compliment|noun|
+cage|noun|
+Wednesday|noun|
+burger|noun|
+seventeen|noun|
+menu|noun|
+bean|noun|
+harbour|noun|
+strategy|noun|
+similar|adjective|
+invent|verb (used with object)|
+hood|noun|
+announce|verb (used with object)|
+slave|noun|
+statue|noun|
+surrender|verb (used with object)|
+envelope|noun|
+sunshine|noun|
+plea|noun|
+side|noun|
+application|noun|
+random|adjective|
+guitar|noun|
+frog|noun|
+kidney|noun|
+fog|noun|
+hike|verb (used without object)|
+essay|noun|
+fiancÃ©e|Error|
+kindness|noun|
+elephant|noun|
+bush|noun|
+jeans|noun|
+terror|noun|
+November|noun|
+September|noun|
+October|noun|
+pronounce|verb (used with object)|
+blink|verb (used without object)|
+abroad|adverb|
+absorb|verb (used with object)|
+academic|adjective|
+acceptable|adjective|
+accommodation|noun|
+accompany|verb (used with object)|
+achieve|verb (used with object)|
+achievement|noun|
+acid|noun|
+adapt|verb (used with object)|
+adequate|adjective|
+adjust|verb (used with object)|
+administration|noun|
+adopt|verb (used with object)|
+advance|verb (used with object)|
+advertisement|noun|
+advise|verb (used with object)|
+aggressive|adjective|
+agriculture|noun|
+backwards|adverb|
+beforehand|adverb|
+behalf|noun|
+beneath|adverb|
+bid|verb (used with object)|
+bloke|noun|
+boil|verb (used without object)|
+boiler|noun|
+border|noun|
+bounce|verb (used without object)|
+branch|noun|
+breast|noun|
+brick|noun|
+brief|adjective|
+briefly|adverb|
+broad|adjective|
+bump|verb (used with object)|
+buyer|noun|
+cabinet|noun|
+calculate|verb (used with object)|
+calendar|noun|
+candidate|noun|
+cap|noun|
+capacity|noun|
+capture|verb (used with object)|
+catalogue|noun|
+category|noun|
+cease|verb (used without object)|
+ceiling|noun|
+chairman|noun|
+championship|noun|
+chap|verb (used with object)|
+chapter|noun|
+characteristic|adjective|
+chart|noun|
+cheek|noun|
+chemist|noun|
+chemistry|noun|
+clerk|noun|
+click|noun|
+climate|noun|
+coal|noun|
+coin|noun|
+collapse|verb (used without object)|
+collar|noun|
+colleague|noun|
+consent|verb (used without object)|
+daft|adjective|
+daily|adjective|
+database|noun|
+debate|noun|
+decade|noun|
+declare|verb (used with object)|
+decline|verb (used with object)|
+define|verb (used with object)|
+definition|noun|
+deliberately|adverb|
+democracy|noun|
+demonstration|noun|
+dentist|noun|
+departure|noun|
+dependent|adjective|
+deposit|verb (used with object)|
+depth|noun|
+derive|verb (used with object)|
+desire|verb (used with object)|
+detect|verb (used with object)|
+determination|noun|
+diet|noun|
+discipline|noun|
+discount|verb (used with object)|
+disk|noun|
+dismiss|verb (used with object)|
+display|verb (used with object)|
+economics|noun|
+economy|noun|
+edition|noun|
+editor|noun|
+effective|adjective|
+efficiency|noun|
+elderly|adjective|
+electric|adjective|
+electricity|noun|
+elsewhere|adverb|
+emerge|verb (used without object)|
+emphasis|noun|
+empire|noun|
+employer|noun|
+employee|noun|
+encounter|verb (used with object)|
+encourage|verb (used with object)|
+engineer|noun|
+enhance|verb (used with object)|
+enormous|adjective|
+facility|noun|
+factor|noun|
+factory|noun|
+feature|noun|
+feedback|noun|
+feeling|noun|
+fence|noun|
+festival|noun|
+fetch|verb (used with object)|
+few|adjective|
+filthy|adjective|
+flavour|noun|
+flood|noun|
+fold|verb (used with object)|
+foreign|adjective|
+fork|noun|
+formal|adjective|
+formally|adverb|
+formation|noun|
+fortnight|noun|
+fortunate|adjective|
+foundation|noun|
+freeway|noun|
+freezer|noun|
+frequently|adverb|
+fuel|noun|
+function|noun|
+fundamental|adjective|
+fuss|noun|
+gallery|noun|
+garlic|noun|
+gather|verb (used with object)|
+gear|noun|
+gene|noun|
+generally|adverb|
+generation|noun|
+gentle|adjective|
+genuine|adjective|
+glance|verb (used without object)|
+global|adjective|
+govern|verb (used with object)|
+gradually|adverb|
+grammar|noun|
+graph|noun|
+grass|noun|
+grocery|noun|
+halfway|adverb|
+handbag|noun|
+headquarter|verb (used with object)|
+height|noun|
+hence|adverb|
+hesitate|verb (used without object)|
+highlight|verb (used with object)|
+highway|noun|
+historian|noun|
+historical|adjective|
+hold|verb (used with object)|
+holder|noun|
+holding|noun|
+household|noun|
+housing|noun|
+heavily|adverb|
+ice cream|noun|
+ideal|noun|
+identify|verb (used with object)|
+illness|noun|
+illustrate|verb (used with object)|
+impact|noun|
+implement|noun|
+implication|noun|
+imply|verb (used with object)|
+import|verb (used with object)|
+impose|verb (used with object)|
+improvement|noun|
+improve|verb (used with object)|
+income|noun|
+independence|noun|
+independent|adjective|
+index|noun|
+individual|noun|
+inevitably|adverb|
+infant|noun|
+infection|noun|
+inflation|noun|
+initial|adjective|
+initiative|noun|
+innovation|noun|
+input|noun|
+inquiry|noun|
+install|verb (used with object)|
+instance|noun|
+instant|noun|
+instruction|noun|
+investment|noun|
+involvement|noun|
+jumper|noun|
+justify|verb (used with object)|
+luckily|adverb|
+lounge|verb (used without object)|
+limitation|noun|
+lighting|noun|
+locate|verb (used with object)|
+mud|noun|
+motorway|noun|
+mortgage|noun|
+moreover|adverb|
+mobile phone|noun|
+mixture|noun|
+numerous|adjective|
+nuisance|noun|
+nuclear|adjective|
+nowadays|adverb|
+novel|noun|
+notion|noun|
+notably|adverb|
+noisy|adjective|
+newly|adverb|
+nevertheless|adverb|
+objective|noun|
+occasionally|adverb|
+occupation|noun|
+opponent|noun|
+opposition|noun|
+ordinary|adjective|
+organ|noun|
+organic|adjective|
+organization|noun|
+organize|verb (used with object)|
+origin|noun|
+originally|adverb|
+outcome|noun|
+output|noun|
+outstanding|adjective|
+oven|noun|
+overall|adverb|
+overcome|verb (used with object)|
+overtime|noun|
+owe|verb (used with object)|
+pursue|verb (used with object)|
+purple|noun|
+purely|adverb|
+purchase|verb (used with object)|
+pudding|noun|
+publish|verb (used with object)|
+publicity|noun|
+publication|noun|
+psychology|noun|
+psychological|adjective|
+provision|noun|
+providing|conjunction|
+protest|noun|
+prosecution|noun|
+proportion|noun|
+properly|adverb|
+prompt|adjective|
+promotion|noun|
+promote|verb (used with object)|
+profit|noun|
+profession|noun|
+producer|noun|
+produce|verb (used with object)|
+privilege|noun|
+prior|adjective|
+printer|noun|
+principle|noun|
+principal|adjective|
+primary|adjective|
+previously|adverb|
+previous|adjective|
+prevent|verb (used with object)|
+presumably|adverb|
+preserve|verb (used with object)|
+presentation|noun|
+preference|noun|
+precisely|adverb|
+precise|adjective|
+prayer|noun|
+practical|adjective|
+poverty|noun|
+pour|verb (used with object)|
+poster|noun|
+possession|noun|
+possess|verb (used with object)|
+pond|noun|
+pollution|noun|
+poll|noun|
+politics|noun|
+pole|noun|
+poetry|noun|
+poet|noun|
+plot|noun|
+platform|noun|
+pitch|verb (used with object)|
+pipe|noun|
+pint|noun|
+pile|noun|
+pill|noun|
+physics|noun|
+physically|adverb|
+phrase|noun|
+photograph|noun|
+photocopy|noun|
+philosophy|noun|
+phase|noun|
+persuade|verb (used with object)|
+permit|verb (used with object)|
+percentage|noun|
+perceive|verb (used with object)|
+peak|noun|
+peaceful|adjective|
+quote|verb (used with object)|
+racing|adjective|
+radical|adjective|
+rapidly|adverb|
+ratio|noun|
+raw|adjective|
+reader|noun|
+readily|adverb|
+realistic|adjective|
+recipe|noun|
+reckon|verb (used with object)|
+recommend|verb (used with object)|
+recover|verb (used with object)|
+reduction|noun|
+refer|verb (used with object)|
+reflect|verb (used with object)|
+reform|noun|
+regard|verb (used with object)|
+regime|noun|
+regularly|adverb|
+reject|verb (used with object)|
+relate|verb (used with object)|
+relation|noun|
+relative|noun|
+relieve|verb (used with object)|
+religion|noun|
+remark|verb (used with object)|
+reserve|verb (used with object)|
+resort|verb (used without object)|
+resource|noun|
+respond|verb (used without object)|
+restore|verb (used with object)|
+restrict|verb (used with object)|
+restriction|noun|
+retire|verb (used without object)|
+reveal|verb (used with object)|
+revolution|noun|
+sack|noun|
+scientific|adjective|
+scope|noun|
+secondly|adverb|
+seize|verb (used with object)|
+selection|noun|
+shave|verb (used without object)|
+shell|noun|
+shelter|noun|
+shine|verb (used without object)|
+shortly|adverb|
+should|auxiliary verb|
+shove|verb (used with object)|
+shrug|verb (used with object)|
+similarly|adverb|
+sin|noun|
+skirt|noun|
+slide|verb (used without object)|
+slight|adjective|
+slightly|adverb|
+slope|verb (used without object)|
+sock|noun|
+soil|noun|
+spray|noun|
+starve|verb (used without object)|
+status|noun|
+steel|noun|
+storage|noun|
+strain|verb (used with object)|
+straw|noun|
+stream|noun|
+strongly|adverb|
+structure|noun|
+substance|noun|
+succeed|verb (used without object)|
+sufficient|adjective|
+surprising|adjective|
+surround|verb (used with object)|
+survey|verb (used with object)|
+survival|noun|
+suspicion|noun|
+swap|verb (used with object)|
+sympathy|noun|
+tendency|noun|
+tent|noun|
+tidy|adjective|
+tin|noun|
+ton|noun|
+trend|noun|
+tricky|adjective|
+tune|noun|
+tunnel|noun|
+tyre|noun|
+ultimate|adjective|
+understanding|noun|
+unemployed|adjective|
+unfortunate|adjective|
+unique|adjective|
+unknown|adjective|
+upper|adjective|
+urban|adjective|
+urge|verb (used with object)|
+urgent|adjective|
+used|adjective|
+valuable|adjective|
+various|adjective|
+vehicle|noun|
+virtually|adverb|
+virtue|noun|
+visible|adjective|
+visitor|noun|
+vital|adjective|
+voluntary|adjective|
+withdraw|verb (used with object)|
+widespread|adjective|
+widely|adverb|
+whisper|verb (used without object)|
+youngster|noun|
+gut|noun|
+crocodile|noun|
+dialect|noun|
+e-book|noun|
+hearty|adjective|
+incurable|adjective|
+jockey|noun|
+junk food|noun|
+mania|noun|
+margarine|noun|
+mosque|noun|
+preposition|noun|
+proclaim|verb (used with object)|
+shiver|verb (used without object)|
+skilful|adjective|
+socket|noun|
+sportsman somewhere|Error|
+sweetheart|noun|
+amazing|adjective|
+definitely|adverb|
+evidence|noun|
+upstairs|adverb|
+dangerous|adjective|
+innocent|adjective|
+apparently|adverb|
+congratulations|plural noun|
+experience|noun|
+medical|adjective|
+incredible|adjective|
+attorney|noun|
+jealous|adjective|
+ourselves|plural pronoun|
+unfortunately|adverb|
+whenever|conjunction|
+pathetic|adjective|
+downstairs|adverb|
+immediately|adverb|
+gorgeous|adjective|
+physical|adjective|
+garbage|noun|
+coincidence|noun|
+generous|adjective|
+outfit|noun|
+suspicious|adjective|
+anniversary|noun|
+commitment|noun|
+challenge|noun|
+discussion|noun|
+younger|adjective|
+romance|noun|
+procedure|noun|
+medication|noun|
+warrant|noun|
+odds|noun|
+specific|adjective|
+sweater|noun|
+diagram|noun|
+jet|noun|
+vulnerable|adjective|
+tears|plural noun|
+locker|noun|
+awkward|adjective|
+delicious|adjective|
+murderer|noun|
+technically|adverb|
+cave|noun|
+performance|noun|
+gram|noun|
+touching|adjective|
+committee|noun|
+consequence|noun|
+testimony|noun|
+granted|Idioms and Phrases|
+political|adjective|
+equipment|noun|
+appropriate|adjective|
+impressive|adjective|
+intelligence|noun|
+questioning|adjective|
+campus|noun|
+hallway|noun|
+popcorn|noun|
+makeup|noun|
+madam|noun|
+jean|noun|
+cowboy|noun|
+blackmail|noun|
+concept|noun|
+barb|noun|
+supportive|adjective|
+memorial|noun|
+Japanese|adjective|
+explosion|noun|
+trauma|noun|
+Russian|adjective|
+furious|adjective|
+cheat|verb (used with object)|
+approve|verb (used with object)|
+drawer|noun|
+phony|adjective|
+interfere|verb (used without object)|
+governor|noun|
+catching|adjective|
+bargain|noun|
+tragic|adjective|
+punish|verb (used with object)|
+hop|verb (used without object)|
+rich|adjective|
+insult|verb (used with object)|
+absolute|adjective|
+strictly|adverb|
+British|adjective|
+worthy|adjective|
+serving|noun|
+polite|adjective|
+internal|adjective|
+bitter|adjective|
+adorable|adjective|
+alike|adverb|
+fax|noun|
+distracted|adjective|
+escort|noun|
+twin|noun|
+circus|noun|
+audition|noun|
+mask|noun|
+helpless|adjective|
+dated|adjective|
+robbery|noun|
+beast|noun|
+tub|noun|
+talented|adjective|
+struck|verb|
+mistaken|adjective|
+Italy|noun|
+bizarre|adjective|
+punk|noun|
+alert|adjective|
+activity|noun|
+foolish|adjective|
+attend|verb (used with object)|
+Canadian|adjective|
+aid|noun|
+wheelchair|noun|
+protective|adjective|
+picnic|noun|
+construction|noun|
+wives|noun|
+stink|verb (used without object)|
+recent|adjective|
+Jewish|adjective|
+filling|noun|
+exit|noun|
+cruise|verb (used without object)|
+cottage|noun|
+corporate|adjective|
+upside|noun|
+German|adjective|
+basis|noun|
+wounded|adjective|
+conformity|noun|
+wicked|adjective|
+merely|adverb|
+massage|noun|
+chop|verb (used with object)|
+betray|verb (used with object)|
+waiter|noun|
+scam|noun|
+fraud|noun|
+flu|noun|
+pee|noun|
+cliff|noun|
+expression|noun|
+entrance|noun|
+drawing|noun|
+bunny|noun|
+bracelet|noun|
+thirteen|noun|
+scout|noun|
+fairly|adverb|
+arrive|verb (used without object)|
+shed|noun|
+nanny|noun|
+naive|adjective|
+corn|noun|
+patch|noun|
+devastated|adjective|
+description|noun|
+subtle|adjective|
+garrison|noun|
+metal|noun|
+executive|noun|
+confirm|verb (used with object)|
+parade|noun|
+bow|verb (used without object)|
+booth|noun|
+straighten|verb (used with or without object)|
+honoured|Error|
+specifically|adverb|
+exam|noun|
+convenient|adjective|
+laying|Error|
+crystal|noun|
+apply|verb (used with object)|
+air|noun|
+legend|noun|
+kindly|adjective|
+grandson|noun|
+donor|noun|
+temper|noun|
+proven|verb|
+monitor|noun|
+eternity|noun|
+denial|noun|
+swell|verb (used without object)|
+noon|noun|
+episode|noun|
+thinking|adjective|
+potion|noun|
+dial|noun|
+rehearsal|noun|
+hostage|noun|
+hammer|noun|
+facet|noun|
+discover|verb (used with object)|
+constant|adjective|
+bench|noun|
+moron|noun|
+impress|verb (used with object)|
+gray|adjective|
+entitled|adjective|
+connect|verb (used with object)|
+needle|noun|
+lad|noun|
+intelligent|adjective|
+disagree|verb (used without object)|
+tiger|noun|
+groom|noun|
+gesture|noun|
+constantly|adverb|
+sealed|verb|
+paradise|noun|
+psychic|adjective|
+dense|adjective|
+teenage|adjective|
+rabbit|noun|
+puppy|noun|
+Bible|noun|
+accidentally|adverb|
+superior|adjective|
+slack|adjective|
+homeless|adjective|
+hollow|adjective|
+desperately|adverb|
+critical|adjective|
+coward|noun|
+personnel|noun|
+item|noun|
+due|adjective|
+majesty|noun|
+jay|noun|
+instinct|noun|
+extreme|adjective|
+belief|noun|
+motorcycle|noun|
+convincing|adjective|
+appeal|noun|
+greater|adjective|
+aids|noun|
+grip|noun|
+upsetting|adjective|
+production|noun|
+invisible|adjective|
+forgiveness|noun|
+complex|adjective|
+compare|verb (used with object)|
+blank|adjective|
+treasure|noun|
+sacred|adjective|
+inviting|adjective|
+inner|adjective|
+compromise|noun|
+cocktail|noun|
+tramp|verb (used without object)|
+signing|noun|
+messenger|noun|
+landing|noun|
+intimate|adjective|
+dignity|noun|
+dealt|verb|
+root|noun|
+entertainment|noun|
+dressing|noun|
+blessing|noun|
+billion|noun|
+lightning|noun|
+leak|noun|
+fond|adjective|
+corky|adjective|
+alternative|noun|
+seduce|verb (used with object)|
+modern|adjective|
+liquor|noun|
+June|noun|
+stuffed|adjective|
+division|noun|
+transplant|verb (used with object)|
+powder|noun|
+oxygen|noun|
+lunatic|noun|
+hid|verb|
+drill|noun|
+complain|verb (used without object)|
+announcement|noun|
+slap|noun|
+pumpkin|noun|
+oath|noun|
+mutual|adjective|
+hockey|noun|
+graduate|noun|
+yacht|noun|
+spa|noun|
+horn|noun|
+fried|adjective|
+extraordinary|adjective|
+bait|noun|
+appearance|noun|
+sworn|verb|
+safely|adverb|
+reunion|noun|
+burst|verb (used without object)|
+experiment|noun|
+explicit|adjective|
+dive|verb (used without object)|
+commission|noun|
+chaos|noun|
+aboard|adverb|
+lesbian|noun|
+expose|verb (used with object)|
+environment|noun|
+spider|noun|
+booze|noun|
+tattoo|noun|
+parole|noun|
+ditch|noun|
+bulldog|noun|
+bra|noun|
+Spanish|adjective|
+glow|noun|
+thirsty|adjective|
+skull|noun|
+scotch|verb (used with object)|
+bend|verb (used with object)|
+unexpected|adjective|
+sob|verb (used without object)|
+pancake|noun|
+harsh|adjective|
+existence|noun|
+favourite|adjective|
+driven|verb|
+chin|noun|
+rage|noun|
+bubble|noun|
+undercover|adjective|
+spoiled|adjective|
+rug|noun|
+deputy|noun|
+conspiracy|noun|
+clothing|noun|
+thoughtful|adjective|
+drank|verb|
+contrary|adjective|
+beloved|adjective|
+allergic|adjective|
+earl|noun|
+bent|adjective|
+approval|noun|
+jungle|noun|
+dancer|noun|
+cotton|noun|
+foul|adjective|
+dull|adjective|
+peanut|noun|
+horror|noun|
+stunt|verb (used with object)|
+portrait|noun|
+July|noun|
+jealousy|noun|
+hopeless|adjective|
+volunteer|noun|
+sword|noun|
+scenario|noun|
+necklace|noun|
+chapel|noun|
+restrain|verb (used with object)|
+homicide|noun|
+helicopter|noun|
+firing|noun|
+safeguard|noun|
+diamond|noun|
+devoted|adjective|
+auction|noun|
+videotape|noun|
+tore|verb|
+pops|adjective|
+appetite|noun|
+patrol|verb (used without object)|
+ironic|adjective|
+excitement|noun|
+anyhow|adverb|
+core|noun|
+bowling|noun|
+belly|noun|
+shark|noun|
+miller|noun|
+dealer|noun|
+cooperate|verb (used without object)|
+bachelor|noun|
+accomplish|verb (used with object)|
+reservation|noun|
+coke|noun|
+ashes|plural noun|
+supposedly|adverb|
+loft|noun|
+integrity|noun|
+qualified|adjective|
+inappropriate|adjective|
+immediate|adjective|
+ginger|noun|
+sunset|noun|
+nation|noun|
+lipstick|noun|
+lawn|noun|
+compassion|noun|
+cafeteria|noun|
+scarf|noun|
+obsession|noun|
+management|noun|
+lighten|verb (used without object)|
+granddaughter|noun|
+explode|verb (used without object)|
+balcony|noun|
+conscious|adjective|
+ally|verb (used with object)|
+ace|noun|
+absurd|adjective|
+vicious|adjective|
+rap|verb (used with object)|
+forbid|verb (used with object)|
+defendant|noun|
+bare|adjective|
+salesman|noun|
+leap|verb (used without object)|
+ken|noun|
+insanity|noun|
+genetic|adjective|
+fighter|noun|
+burden|noun|
+swallow|verb (used with object)|
+kidnap|verb (used with object)|
+gown|noun|
+setup|noun|
+serial|noun|
+sandy|adjective|
+dramatic|adjective|
+carver|noun|
+blade|noun|
+seventh|adjective|
+rape|noun|
+pony|noun|
+semester|noun|
+delicate|adjective|
+live|verb (used without object)|
+eager|adjective|
+doomed|adjective|
+coffin|noun|
+bureau|noun|
+adoption|noun|
+stab|verb (used with object)|
+sickness|noun|
+loop|noun|
+floating|adjective|
+combination|noun|
+chamber|noun|
+casino|noun|
+worn|adjective|
+vault|noun|
+payback|noun|
+healing|adjective|
+cascade|noun|
+wrestling|noun|
+sixth|adjective|
+passionate|adjective|
+lawsuit|noun|
+distrustul|Error|
+crossing|noun|
+cozy|adjective|
+associate|verb (used with object)|
+tire|verb (used with object)|
+mill|noun|
+journal|noun|
+risky|adjective|
+nest|noun|
+honourable|adjective|
+favour|noun|
+culture|noun|
+breakdown|noun|
+conflict|verb (used without object)|
+bald|adjective|
+actress|noun|
+wisdom|noun|
+steam|noun|
+scar|noun|
+worthless|adjective|
+suck|verb (used with object)|
+graduation|noun|
+disturbing|adjective|
+disturb|verb (used with object)|
+distract|verb (used with object)|
+conclusion|noun|
+baker|noun|
+muffin|noun|
+mid|adjective|
+measure|noun|
+crawling|noun|
+congress|noun|
+briefcase|noun|
+whistle|verb (used without object)|
+roast|verb (used with object)|
+Greek|adjective|
+topic|noun|
+riot|noun|
+minimum|noun|
+hostile|adjective|
+embarrass|verb (used with object)|
+casual|adjective|
+beacon|noun|
+amusing|adjective|
+altar|noun|
+skinny|adjective|
+goods|plural noun|
+porch|noun|
+ghost|noun|
+drops|plural noun|
+dizzy|adjective|
+breastfeeding|Error|
+beaten|adjective|
+rehabilitation|Example Sentences|
+photographer|noun|
+leery|adjective|
+fortunately|adverb|
+expectation|noun|
+draft|noun|
+active|adjective|
+ski|noun|
+musician|noun|
+executed|adjective|
+examine|verb (used with object)|
+document|noun|
+bribe|noun|
+rum|noun|
+prescription|noun|
+hush|interjection|
+fuzzy|adjective|
+fragile|adjective|
+forensics|noun|
+expense|noun|
+conduct|noun|
+comic|adjective|
+avenue|noun|
+suitcase|noun|
+sort|noun|
+scan|verb (used with object)|
+rod|noun|
+motor|noun|
+mini|noun|
+installation|noun|
+insecure|adjective|
+gamble|verb (used without object)|
+wrist|noun|
+silk|noun|
+pump|noun|
+haul|verb (used with object)|
+guardian|noun|
+dodge|verb (used with object)|
+boot|noun|
+thumb|noun|
+limited|adjective|
+lighter|noun|
+elder|adjective|
+shooter|noun|
+quietly|adverb|
+lion|noun|
+erase|verb (used with object)|
+ankle|noun|
+amnesia|noun|
+ruby|noun|
+hunter|noun|
+heartbeat|noun|
+confront|verb (used with object)|
+minus|preposition|
+legitimate|adjective|
+hurricane|noun|
+fixing|noun|
+auto|noun|
+arrogant|adjective|
+tuna|noun|
+saying|noun|
+paternity|noun|
+catholic|adjective|
+snack|noun|
+rational|adjective|
+passport|noun|
+dip|verb (used with object)|
+advanced|adjective|
+tumor|noun|
+humiliated|adjective|
+destruction|noun|
+banana|noun|
+August|adjective|
+aspirin|noun|
+academy|noun|
+wig|noun|
+turk|noun|
+throughout|preposition|
+logic|noun|
+knight|noun|
+eyesight|noun|
+equal|adjective|
+ritual|noun|
+perfume|noun|
+ham|noun|
+fusion|noun|
+elect|verb (used with object)|
+thankful|adjective|
+nineteen|noun|
+comedy|noun|
+analysis|noun|
+teenager|noun|
+shore|noun|
+palm|noun|
+detective|noun|
+widow|noun|
+tissue|noun|
+repay|verb (used with object)|
+hack|verb (used with object)|
+deadly|adjective|
+comfortless|verb (used with object)|
+verdict|noun|
+jar|noun|
+insensitive|adjective|
+aim|verb (used with object)|
+triple|adjective|
+messy|adjective|
+entry|noun|
+bleed|verb (used without object)|
+foster|verb (used with object)|
+ding|verb (used with object)|
+airplane|noun|
+worker|noun|
+underestimate|verb (used with object)|
+soccer|noun|
+registered|adjective|
+multiple|adjective|
+harmless|adjective|
+frisk|verb (used without object)|
+folk|noun|
+convention|noun|
+communicate|verb (used with object)|
+attraction|noun|
+arson|noun|
+whack|verb (used with object)|
+wade|verb (used without object)|
+residence|noun|
+medium|noun|
+liking|noun|
+development|noun|
+develop|verb (used with object)|
+congratulate|verb (used with object)|
+April|noun|
+alliance|noun|
+vengeance|noun|
+rack|noun|
+puzzle|noun|
+guidance|noun|
+courtesy|noun|
+caller|noun|
+wizard|noun|
+repair|verb (used with object)|
+quiz|noun|
+curiosity|noun|
+barbecue|noun|
+cough|verb (used without object)|
+accusation|noun|
+resent|verb (used with object)|
+freshman|noun|
+envy|noun|
+drown|verb (used without object)|
+sofa|noun|
+highness|noun|
+drain|verb (used with object)|
+dock|noun|
+welfare|noun|
+theirs|pronoun|
+state|noun|
+somewhat|adverb|
+solo|noun|
+jazz|noun|
+hawk|noun|
+finishing|noun|
+album|noun|
+wee|adjective|
+understandable|adjective|
+stir|verb (used with object)|
+gratitude|noun|
+faithful|adjective|
+accent|noun|
+zip|noun|
+wandering|adjective|
+regardless|adjective|
+inevitable|adjective|
+contingent|adjective|
+rocky|adjective|
+robe|noun|
+retired|adjective|
+gossip|noun|
+gambling|noun|
+determine|verb (used with object)|
+cent|noun|
+stiff|adjective|
+sincere|adjective|
+shield|noun|
+nightmare|noun|
+hunch|verb (used with object)|
+firework|noun|
+crown|noun|
+cooperation|noun|
+brass|noun|
+sophisticated|adjective|
+luggage|noun|
+lemon|noun|
+investigate|verb (used with object)|
+explore|verb (used with object)|
+dragon|noun|
+creek|noun|
+complication|noun|
+righteous|adjective|
+reconsider|verb (used with object)|
+inspiration|noun|
+goody|noun|
+fringe|noun|
+ethic|noun|
+courthouse|noun|
+camping|Error|
+assistance|noun|
+affection|noun|
+lodge|noun|
+haircut|noun|
+eternal|adjective|
+stud|noun|
+sailor|noun|
+operator|noun|
+goat|noun|
+exclusive|adjective|
+destructive|adjective|
+defeat|verb (used with object)|
+adore|verb (used with object)|
+warrior|noun|
+shorts|plural noun|
+ninth|adjective|
+dough|noun|
+creation|noun|
+barrel|noun|
+tuck|verb (used with object)|
+rear|noun|
+pacific|adjective|
+magnificent|adjective|
+lick|verb (used with object)|
+goddess|noun|
+glorious|adjective|
+visitation|noun|
+teen|adjective|
+scholarship|noun|
+sane|adjective|
+kingdom|noun|
+sunny|adjective|
+mattress|noun|
+lobster|noun|
+glove|noun|
+disappointment|noun|
+condo|noun|
+cemetery|noun|
+screech|verb (used without object)|
+nun|noun|
+navy|noun|
+dedicated|adjective|
+Christian|adjective|
+annual|adjective|
+worm|noun|
+tick|noun|
+polish|verb (used with object)|
+funds|plural noun|
+defensive|adjective|
+compete|verb (used without object)|
+balloon|noun|
+sailing|noun|
+depression|noun|
+conversation|noun|
+consideration|noun|
+consciousness|noun|
+innocence|noun|
+freaky|adjective|
+forehead|noun|
+slam|verb (used with or without object)|
+pry|verb (used without object)|
+inform|verb (used with object)|
+dug|verb|
+delighted|adjective|
+daylight|noun|
+currently|adverb|
+confidential|adjective|
+chew|verb (used with object)|
+washing|noun|
+warden|noun|
+temple|noun|
+mistress|noun|
+marrow|noun|
+hatred|noun|
+grill|noun|
+corpse|noun|
+sober|adjective|
+peel|verb (used with object)|
+humanity|noun|
+electrical|adjective|
+distraction|noun|
+chopper|noun|
+cart|noun|
+broadcast|verb (used with object)|
+violation|noun|
+suspend|verb (used with object)|
+sting|verb (used with object)|
+promising|adjective|
+harassment|noun|
+glue|noun|
+gathering|noun|
+deer|noun|
+cursed|adjective|
+content|noun|
+combat|verb (used with object)|
+brutal|adjective|
+asset|noun|
+warlock|noun|
+wagon|noun|
+unpleasant|adjective|
+tan|verb (used with object)|
+robot|noun|
+lease|noun|
+killer|noun|
+flame|noun|
+domestic|adjective|
+divine|adjective|
+disappearance|noun|
+depressing|adjective|
+thrill|verb (used with object)|
+terminal|adjective|
+rib|noun|
+knew|verb|
+flush|noun|
+exception|noun|
+earring|noun|
+deadline|noun|
+corporal|adjective|
+update|verb (used with object)|
+smack|noun|
+melt|verb (used without object)|
+madness|noun|
+eagle|noun|
+delusional|adjective|
+could|auxiliary verb|
+burnt|verb|
+tender|adjective|
+sperm|noun|
+realise|Error|
+pork|noun|
+interrogation|noun|
+institution|noun|
+esteem|verb (used with object)|
+communication|noun|
+choir|noun|
+undo|verb (used with object)|
+plague|noun|
+manipulate|verb (used with object)|
+lifestyle|noun|
+insulting|adjective|
+honour|noun|
+detention|noun|
+delightful|adjective|
+daisy|noun|
+coffeehouse|noun|
+chess|noun|
+betrayal|noun|
+whipped|adjective|
+reminder|noun|
+fame|noun|
+faint|adjective|
+confusion|noun|
+sang|verb|
+illusion|noun|
+execution|noun|
+distress|noun|
+cutter|noun|
+complaint|noun|
+trophy|noun|
+pointless|adjective|
+pearl|noun|
+heir|noun|
+eighth|adjective|
+alibi|noun|
+shiny|adjective|
+mint|noun|
+keeper|noun|
+hose|noun|
+hobby|noun|
+fitting|adjective|
+curtain|noun|
+counselling|noun|
+wit|noun|
+technical|adjective|
+puppet|noun|
+modeling|noun|
+irresponsible|adjective|
+humiliation|noun|
+felony|noun|
+choke|verb (used with object)|
+blackmailing|Error|
+tabloid|noun|
+rally|verb (used with object)|
+pledge|noun|
+nursery|noun|
+ignate|Error|
+homecoming|noun|
+graduated|adjective|
+fabric|noun|
+dot|noun|
+distant|adjective|
+cock|noun|
+bustle|verb (used without object)|
+buff|noun|
+wax|noun|
+sleeve|noun|
+irony|noun|
+dope|noun|
+torch|noun|
+substitute|noun|
+scandal|noun|
+prick|noun|
+limb|noun|
+laser|noun|
+hysterical|adjective|
+growth|noun|
+dimension|noun|
+clip|verb (used with object)|
+ultimately|adverb|
+roller|noun|
+negotiate|verb (used without object)|
+millennium|noun|
+marsh|noun|
+majority|noun|
+lethal|adjective|
+deed|noun|
+cigar|noun|
+bore|verb (used with object)|
+sponge|noun|
+sleepy|adjective|
+peek|verb (used without object)|
+outrageous|adjective|
+medal|noun|
+grudge|noun|
+driveway|noun|
+deserted|adjective|
+definite|adjective|
+beep|noun|
+weed|noun|
+nickname|noun|
+conviction|noun|
+weigh|verb (used with object)|
+rocket|noun|
+fur|noun|
+herb|noun|
+cycle|noun|
+hardware|noun|
+wealthy|adjective|
+versus|preposition|
+sip|verb (used with object)|
+postpone|verb (used with object)|
+celebrity|noun|
+offensive|adjective|
+mug|noun|
+hairy|adjective|
+bedtime|noun|
+alcoholic|adjective|
+sticky|adjective|
+splendid|adjective|
+shrimp|noun|
+despise|verb (used with object)|
+atmosphere|noun|
+rifle|noun|
+handwriting|noun|
+shepherd|noun|
+importance|noun|
+fatal|adjective|
+separation|noun|
+method|noun|
+diagnosis|noun|
+yearbook|noun|
+triangle|noun|
+partnership|noun|
+humble|adjective|
+thorough|adjective|
+thunder|noun|
+grandchildren|Error|
+sentimental|adjective|
+marketing|noun|
+population|noun|
+scent|noun|
+pose|verb (used without object)|
+fleet|noun|
+sketch|noun|
+mere|adjective|
+outer|adjective|
+mock|verb (used with object)|
+January|noun|
+sour|adjective|
+maximum|noun|
+speaker|noun|
+tease|verb (used with object)|
+peach|noun|
+nude|adjective|
+clearance|noun|
+anxiety|noun|
+salmon|noun|
+summit|noun|
+lid|noun|
+mechanic|noun|
+tobacco|noun|
+missile|noun|
+steer|verb (used with object)|
+heel|noun|
+granddad|noun|
+tournament|noun|
+approximately|adverb|
+employment|noun|
+forbidden|verb|
+tutor|noun|
+modest|adjective|
+vessel|noun|
+variety|noun|
+smash|verb (used with object)|
+mild|adjective|
+shaft|noun|
+rainbow|noun|
+grasp|verb (used with object)|
+fireplace|noun|
+tide|noun|
+mustard|noun|
+wheat|noun|
+fountain|noun|
+stem|noun|
+December|noun|
+writer|noun|
+tribe|noun|
+ounce|noun|
+convenience|noun|
+dash|verb (used with object)|
+invest|verb (used with object)|
+difficulty|noun|
+sadness|noun|
+microwave|noun|
+additional|adjective|
+mankind|noun|
+fare|noun|
+laptop|noun|
+saddle|noun|
+razor|noun|
+coverage|noun|
+corridor|noun|
+sidewalk|noun|
+oak|noun|
+notify|verb (used with object)|
+confide|verb (used without object)|
+scrub|verb (used with object)|
+parallel|adjective|
+orbit|noun|
+feather|noun|
+farmer|noun|
+spicy|adjective|
+napkin|noun|
+efficient|adjective|
+arrow|noun|
+abbey|noun|
+solitary|adjective|
+myth|noun|
+toll|noun|
+fuse|noun|
+industrial|adjective|
+hostess|noun|
+delight|noun|
+imaginary|adjective|
+elegant|adjective|
+elbow|noun|
+custom|noun|
+ant|noun|
+tempt|verb (used with object)|
+splash|verb (used with object)|
+shade|noun|
+metaphor|noun|
+ancestor|noun|
+acceptance|noun|
+weekly|adjective|
+warmth|noun|
+umbrella|noun|
+parenting|noun|
+onion|noun|
+mobile|adjective|
+footstep|noun|
+cement|noun|
+bloom|noun|
+triumph|noun|
+greed|noun|
+essential|adjective|
+temptation|noun|
+sarcasm|noun|
+partial|adjective|
+inconvenience|noun|
+courageous|adjective|
+stew|verb (used with object)|
+sorrow|noun|
+mend|verb (used with object)|
+impulsive|adjective|
+harvest|noun|
+foam|noun|
+divide|verb (used with object)|
+online|adjective|
+invasion|noun|
+consultant|noun|
+banking|noun|
+stereo|noun|
+obey|verb (used with object)|
+neutral|adjective|
+lump|noun|
+harass|verb (used with object)|
+donkey|noun|
+cologne|noun|
+waist|noun|
+vain|adjective|
+stepfather|noun|
+lemonade|noun|
+vomit|verb (used without object)|
+stadium|noun|
+liberal|adjective|
+spice|noun|
+nod|verb (used without object)|
+tenth|adjective|
+horizon|noun|
+frequency|noun|
+flexible|adjective|
+dairy|noun|
+corrupt|adjective|
+loaf|noun|
+herbal|adjective|
+generosity|noun|
+shampoo|verb (used with object)|
+humour|noun|
+frost|noun|
+volcano|noun|
+password|noun|
+merit|noun|
+conquer|verb (used with object)|
+orientation|noun|
+lotion|noun|
+hazard|noun|
+glamorous|adjective|
+scenery|noun|
+globe|noun|
+dam|noun|
+verify|verb (used with object)|
+criticism|noun|
+thirst|noun|
+limp|verb (used without object)|
+unpack|verb (used with object)|
+trim|verb (used with object)|
+sphere|noun|
+preparation|noun|
+pear|noun|
+headline|noun|
+grape|noun|
+vitamin|noun|
+uncertain|adjective|
+stern|adjective|
+sponsor|noun|
+peculiar|adjective|
+grain|noun|
+painter|noun|
+notebook|noun|
+vanish|verb (used without object)|
+tackle|noun|
+fisherman|noun|
+decorate|verb (used with object)|
+salvation|noun|
+nausea|noun|
+inherit|verb (used with object)|
+nosy|adjective|
+passive|adjective|
+orchestra|noun|
+gourmet|noun|
+tickle|verb (used with object)|
+heating|noun|
+scatter|verb (used with object)|
+slavery|noun|
+herd|noun|
+heap|noun|
+solar|adjective|
+sculpture|noun|
+lace|noun|
+sensation|noun|
+savage|adjective|
+noodle|noun|
+vocabulary|noun|
+tractor|noun|
+gulf|noun|
+probable|adjective|
+hangover|noun|
+thrust|verb (used with object)|
+flee|verb (used without object)|
+daring|noun|
+paragraph|noun|
+mist|noun|
+deceive|verb (used with object)|
+spectacle|noun|
+vacant|adjective|
+shrine|noun|
+dedicate|verb (used with object)|
+coupon|noun|
+zoom|verb (used without object)|
+mercy|noun|
+lively|adjective|
+equivalent|adjective|
+compensation|noun|
+canvas|noun|
+vivid|adjective|
+outdoor|adjective|
+litter|noun|
+gallon|noun|
+firmly|adverb|
+moustache|noun|
+marble|noun|
+hesitation|noun|
+daytime|noun|
+shortage|noun|
+monthly|adjective|
+renew|verb (used with object)|
+refund|verb (used with object)|
+deliberate|adjective|
+zipper|noun|
+rainy|adjective|
+overload|verb (used with object)|
+module|noun|
+merchant|noun|
+leftover|noun|
+textbook|noun|
+flour|noun|
+ruler|noun|
+currency|noun|
+wrinkle|noun|
+rust|noun|
+undoubtedly|adverb|
+timetable|noun|
+publisher|noun|
+penalty|noun|
+quid|noun|
+queue|noun|
+qualification|noun|
+recognition|noun|
+recommendation|noun|
+reference|noun|
+reflection|noun|
+refrigerator|noun|
+regional|adjective|
+register|noun|
+registration|noun|
+regulation|noun|
+relatively|adverb|
+relevant|adjective|
+religious|adjective|
+rely|verb (used without object)|
+remarkable|adjective|
+remote|adjective|
+replacement|noun|
+reply|verb (used without object)|
+representation|noun|
+republic|noun|
+require|verb (used with object)|
+requirement|noun|
+resident|noun|
+resign|verb (used without object)|
+resistance|noun|
+resolution|noun|
+resolve|verb (used with object)|
+respectively|adverb|
+retain|verb (used with object)|
+retirement|noun|
+revenue|noun|
+reverse|adjective|
+reward|noun|
+rhythm|noun|
+ridiculous|adjective|
+rival|noun|
+rope|noun|
+roughly|adverb|
+rubber|noun|
+rubbish|noun|
+rural|adjective|
+significance|noun|
+significant|adjective|
+significantly|adverb|
+so-called|adjective|
+software|noun|
+solicitor|noun|
+sore|adjective|
+southern|adjective|
+specialist|noun|
+species|noun|
+specify|verb (used with object)|
+spelling|noun|
+spill|verb (used with object)|
+spiritual|adjective|
+spite|noun|
+spokesman|noun|
+stall|noun|
+stare|verb (used without object)|
+steep|adjective|
+straightforward|adjective|
+strategic|adjective|
+strengthen|verb (used with object)|
+string|noun|
+subsequent|adjective|
+subsequently|adverb|
+suggestion|noun|
+surprisingly|adverb|
+sustain|verb (used with object)|
+sweep|verb (used with object)|
+technique|noun|
+terrorist|noun|
+theme|noun|
+theoretical|adjective|
+thus|adverb|
+tile|noun|
+trailer|noun|
+transform|verb (used with object)|
+transition|noun|
+transportation|noun|
+tray|noun|
+tremendous|adjective|
+troop|noun|
+unemployment|noun|
+vague|adjective|
+abnormal|adjective|
+absent|adjective|
+abstract|adjective|
+abundant|adjective|
+accessible|adjective|
+acute|adjective|
+addicted|adjective|
+aesthetic|adjective|
+agile|adjective|
+ambiguous|adjective|
+ambitious|adjective|
+ample|adjective|
+anonymous|adjective|
+artificial|adjective|
+artistic|adjective|
+assertive|adjective|
+astonishing|adjective|
+automatic|adjective|
+balanced|adjective|
+backyard|noun|
+baggage|noun|
+ballet|noun|
+barbarian|noun|
+barber|noun|
+barefoot|adjective|
+bark|noun|
+bathe|verb (used with object)|
+beak|noun|
+been|verb|
+beginner|noun|
+beginning|noun|
+beige|noun|
+being|noun|
+beneficial|adjective|
+biased|adjective|
+bikini|noun|
+billboard|noun|
+billiards|noun|
+bind|verb (used with object)|
+biography|noun|
+biology|noun|
+bishop|noun|
+blackboard|noun|
+blend|verb (used with object)|
+blossom|noun|
+blouse|noun|
+blown|adjective|
+blush|verb (used without object)|
+bold|adjective|
+boundary|noun|
+brag|verb (used without object)|
+breadth|noun|
+breakup|noun|
+breathe|verb (used without object)|
+breed|verb (used with object)|
+breeze|noun|
+bribery|noun|
+bronze|noun|
+browse|verb (used with object)|
+bruise|verb (used with object)|
+buffet|noun|
+bumper|noun|
+bundle|noun|
+bureaucracy|noun|
+burglar|noun|
+burp|noun|
+cab|noun|
+cabbage|noun|
+calculation|noun|
+calculator|noun|
+calf|noun|
+calligraphy|noun|
+calorie|noun|
+camel|noun|
+camouflage|noun|
+canal|noun|
+cane|noun|
+cannon|noun|
+canyon|noun|
+cape|noun|
+caption|noun|
+carbon|noun|
+cardboard|noun|
+careless|adjective|
+cargo|noun|
+carpenter|noun|
+carriage|noun|
+carry on|adjective|
+carsick|adjective|
+cartoon|noun|
+cashier|noun|
+cassette|noun|
+casualty|noun|
+cattle|noun|
+caught|verb|
+caution|noun|
+cautious|adjective|
+cellar|noun|
+Celsius|noun|
+censor|noun|
+centigrade|adjective|
+chalk|noun|
+characterize|verb (used with object)|
+chilly|adjective|
+chimney|noun|
+chore|noun|
+circuit|noun|
+civilian|noun|
+civilization|noun|
+civilize|verb (used with object)|
+clap|verb (used with object)|
+clarify|verb (used with object)|
+clash|verb (used without object)|
+classical|adjective|
+classify|verb (used with object)|
+classmate|noun|
+clause|noun|
+cleaner|noun|
+clockwise|adverb|
+clinical|adjective|
+cloudy|adjective|
+clumsy|adjective|
+coalition|noun|
+coastline|noun|
+cocoa|noun|
+coconut|noun|
+coercive|adjective|
+cogent|adjective|
+coherence|noun|
+coherent|adjective|
+coincident|adjective|
+colloquial|adjective|
+colonel|noun|
+colonialism|noun|
+colonist|noun|
+colony|noun|
+colourful|adjective|
+columnist|noun|
+comb|noun|
+comma|noun|
+command|verb (used with object)|
+commentary|noun|
+commerce|noun|
+commodity|noun|
+companion|noun|
+compass|noun|
+Gemini|plural noun|
+kin|noun|
+scammer|noun|
+debut|noun|
+decoy|noun|
+decrease|verb (used without object)|
+deduct|verb (used with object)|
+defective|adjective|
+delegate|noun|
+delinquent|adjective|
+dependable|adjective|
+descend|verb (used without object)|
+descendent|adjective|
+detest|verb (used with object)|
+diagnose|verb (used with object)|
+diameter|noun|
+disadvantage|noun|
+does|noun|
+educate|verb (used with object)|
+eject|verb (used with object)|
+enforce|verb (used with object)|
+enlarge|verb (used with object)|
+enquiry|noun|
+entrepreneur|noun|
+eraser|noun|
+erosion|noun|
+erupt|verb (used without object)|
+eruption|noun|
+etc.|abbreviation for|
+ethnic|adjective|
+evaluate|verb (used with object)|
+exaggerate|verb (used with object)|
+exceed|verb (used with object)|
+excite|verb (used with object)|
+exclaim|verb (used without object)|
+exclude|verb (used with object)|
+exhibit|verb (used with object)|
+exhibition|noun|
+exile|noun|
+expansion|noun|
+expedition|noun|
+expel|verb (used with object)|
+export|verb (used with object)|
+external|adjective|
+eyebrow|noun|
+eyelash|noun|
+faraway|adjective|
+fatality|noun|
+fatigue|noun|
+favourable|adjective|
+fearful|adjective|
+February|noun|
+fertile|adjective|
+fiscal|adjective|
+fitness|noun|
+famine|noun|
+flinch|verb (used without object)|
+fluctuate|verb (used without object)|
+fluent|adjective|
+font|noun|
+forecast|verb (used with object)|
+foreigner|noun|
+format|noun|
+fossil|noun|
+fraction|noun|
+fragrance|noun|
+framework|noun|
+furnish|verb (used with object)|
+gadget|noun|
+gangster|noun|
+garment|noun|
+garnish|verb (used with object)|
+gasp|noun|
+gave|verb|
+gaze|verb (used without object)|
+gel|noun|
+generalization|noun|
+generalize|verb (used with object)|
+generic|adjective|
+geography|noun|
+geometry|noun|
+giggle|verb (used without object)|
+given|verb|
+glacier|noun|
+gloomy|adjective|
+glory|noun|
+graceful|adjective|
+gradual|adjective|
+graphics|noun|
+groan|noun|
+grocer|noun|
+habitat|noun|
+habitual|adjective|
+handkerchief|noun|
+hardy|adjective|
+harmful|adjective|
+has|verb|
+hassle|noun|
+haste|noun|
+hereditary|adjective|
+hierarchy|noun|
+hinder|verb (used with object)|
+horizontal|adjective|
+horoscope|noun|
+horseback|noun|
+housewife|noun|
+humidity|noun|
+humorous|adjective|
+hut|noun|
+hydrogen|noun|
+hypnotize|verb (used with object)|
+idiom|noun|
+ignorant|adjective|
+illiterate|adjective|
+illogical|adjective|
+illustration|noun|
+imitate|verb (used with object)|
+immigrant|noun|
+immigrate|verb (used without object)|
+immune|adjective|
+impartial|adjective|
+impolite|adjective|
+income tax|noun|
+incomplete|adjective|
+indirect|adjective|
+indoor|adjective|
+informal|adjective|
+inhabitant|noun|
+inhale|verb (used with object)|
+inland|adjective|
+insert|verb (used with object)|
+inspection|noun|
+insure|verb (used with object)|
+integration|noun|
+interested|adjective|
+intermediate|adjective|
+internet|noun|
+intersection|noun|
+interval|noun|
+invention|noun|
+inward|adverb|
+irritate|verb (used with object)|
+isolate|verb (used with object)|
+its|pronoun|
+ivory|noun|
+kneel|verb (used without object)|
+knit|verb (used with object)|
+known|verb|
+landscape|noun|
+latitude|noun|
+latter|adjective|
+legislation|noun|
+lily|noun|
+lint|noun|
+literary|adjective|
+locally|adverb|
+loitering|noun|
+longitude|noun|
+lottery|noun|
+lumber|noun|
+lying|noun|
+machinery|noun|
+made-up|adjective|
+magnitude|noun|
+manufacture|noun|
+manufacturer|noun|
+March|verb (used without object)|
+married|adjective|
+mathematics|noun|
+May|auxiliary verb|
+meadow|noun|
+means|noun|
+measurement|noun|
+melody|noun|
+metric|adjective|
+metropolitan|adjective|
+midday|noun|
+midterm|noun|
+mineral|noun|
+minimal|adjective|
+missing|adjective|
+misunderstand|verb (used with object)|
+moderate|adjective|
+modify|verb (used with object)|
+moist|adjective|
+moisture|noun|
+mould|noun|
+molecule|noun|
+monument|noun|
+monopoly|noun|
+mosquito|noun|
+nationality|noun|
+necessity|noun|
+neglect|verb (used with object)|
+nonfiction|noun|
+numb|adjective|
+numeral|noun|
+nutrition|noun|
+obedient|adjective|
+obese|adjective|
+obituary|noun|
+oblige|verb (used with object)|
+oily|adjective|
+old-fashioned|noun|
+Olympics|Error|
+omelette|noun|
+omit|verb (used with object)|
+oneself|pronoun|
+onto|preposition|
+optional|adjective|
+opt|verb (used without object)|
+orthodox|adjective|
+ours|pronoun|
+outdoors|adverb|
+outgoing|adjective|
+outline|noun|
+outlook|noun|
+outspoken|adjective|
+outward|adjective|
+overdo|verb (used with object)|
+overdone|verb|
+overestimate|verb (used with object)|
+overflow|verb (used without object)|
+overtake|verb (used with object)|
+overwhelm|verb (used with object)|
+overwork|verb (used with object)|
+ox|noun|
+paid|verb|
+pail|noun|
+pajamas|noun|
+panel|noun|
+parrot|noun|
+part-time|noun|
+participant|noun|
+participation|noun|
+particle|noun|
+paste|noun|
+patent|noun|
+pedestrian|noun|
+peer|verb (used without object)|
+peninsula|noun|
+perpendicular|adjective|
+persist|verb (used without object)|
+pessimistic|adjective|
+pianist|noun|
+plantation|noun|
+plural|adjective|
+popularity|noun|
+postage|noun|
+postman|noun|
+pram|noun|
+precede|verb (used with object)|
+precedent|noun|
+pronunciation|noun|
+prospect|noun|
+punctual|adjective|
+racism|noun|
+radiation|noun|
+recycle|verb (used with object)|
+redundancy|noun|
+refreshment|noun|
+remedy|noun|
+removal|noun|
+renovate|verb (used with object)|
+respectful|adjective|
+restless|adjective|
+resume|verb (used with object)|
+rigid|adjective|
+rinse|verb (used with object)|
+yield|verb (used with object)|
+weep|verb (used without object)|
+went|verb|
+whale|noun|
+widen|verb (used with or without object)|
+width|noun|
+windy|adjective|
+wink|verb (used without object)|
+worship|noun|
+vacancy|noun|
+variable|adjective|
+vat|noun|
+vein|noun|
+verb|noun|
+vertical|adjective|
+veteran|noun|
+viewpoint|noun|
+vinegar|noun|
+vocational|adjective|
+vowel|noun|
+voyage|noun|
+underline|verb (used with object)|
+uneasy|adjective|
+unite|verb (used with object)|
+unity|noun|
+unlucky|adjective|
+upright|adjective|
+upward|adverb|
+utility|noun|
+tame|adjective|
+telegraph|noun|
+tentative|adjective|
+texture|noun|
+thermometer|noun|
+thesaurus|noun|
+thread|noun|
+tights|noun|
+timber|noun|
+tolerate|verb (used with object)|
+toward|preposition|
+translation|noun|
+transparent|adjective|
+treaty|noun|
+tremble|verb (used without object)|
+tropical|adjective|
+tulip|noun|
+said|verb|
+sank|verb|
+satisfactory|adjective|
+saucer|noun|
+sauna|noun|
+saw|verb|
+scarlet|noun|
+scholar|noun|
+scissors|noun|
+scold|verb (used with object)|
+scramble|verb (used without object)|
+scrape|verb (used with object)|
+seafood|noun|
+seaside|noun|
+selective|adjective|
+sensual|adjective|
+shilling|noun|
+sideways|adverb|
+simultaneous|adjective|
+singular|adjective|
+skeleton|noun|
+skyscraper|noun|
+slang|noun|
+sieve|noun|
+sled|noun|
+slender|adjective|
+softly|adverb|
+solemn|adjective|
+sprinkle|verb (used with object)|
+squirrel|noun|
+stationery|noun|
+stimulate|verb (used with object)|
+comprehend|verb (used with object)|
+comprehensive|adjective|
+compute|verb (used with object)|
+consist|verb (used without object)|
+construct|verb (used with object)|
+consultation|noun|
+cucumber|noun|
+cuisine|noun|
+subscribe|verb (used with object)|
+accelerate|verb (used with object)|
+advertise|verb (used with object)|
+wallpaper|noun|
+waterfall|noun|
+attain|verb (used with object)|
+avail|verb (used with object)|
+boast|verb (used without object)|
+confectionery|noun|
+dazzle|verb (used with object)|
+debris|noun|
+deteriorate|verb (used with or without object)|
+dexterity|noun|
+dining-room|noun|
+disclose|verb (used with object)|
+disobedience|noun|
+dispel|verb (used with object)|
+extinguish|verb (used with object)|
+eyeshadow|Error|
+fir|noun|
+hemisphere|noun|
+herald|noun|
+hoarse|adjective|
+hospitable|adjective|
+hyphen|noun|
+hypocrisy|noun|
+ignition|noun|
+incite|verb (used with object)|
+inclose|verb (used with object)|
+incorrect|adjective|
+instruct|verb (used with object)|
+integral|adjective|
+intestine|noun|
+invoice|noun|
+jug|noun|
+junction|noun|
+lard|noun|
+lavish|adjective|
+laziness|noun|
+lever|noun|
+libel|noun|
+lyrical|adjective|
+malice|noun|
+mammal|noun|
+marmalade|noun|
+merge|verb (used with object)|
+miser|noun|
+mistrust|noun|
+monarchy|noun|
+muse|verb (used without object)|
+mute|adjective|
+narrative|noun|
+nostril|noun|
+notorious|adjective|
+nought|noun|
+nourish|verb (used with object)|
+oblivion|noun|
+obscure|adjective|
+ointment|noun|
+omission|noun|
+orchard|noun|
+owing|adjective|
+pamper|verb (used with object)|
+parsley|noun|
+pastime|noun|
+pat|verb (used with object)|
+patron|noun|
+pavement|noun|
+peasant|noun|
+plausible|adjective|
+predatory|adjective|
+predominant|adjective|
+proficient|adjective|
+proverb|noun|
+repel|verb (used with object)|
+reside|verb (used without object)|
+ridicule|noun|
+rigorous|adjective|
+robust|adjective|
+seaweed|noun|
+semicolon|noun|
+situated|adjective|
+skier|noun|
+slum|noun|
+smith|noun|
+snail|noun|
+superb|adjective|
+surname|noun|
+yearly|adjective|
+witch|noun|
+smoke|noun|
+according|adjective|
+bob|noun|
+lieutenant|noun|
+breathing|noun|
+disappointed|adjective|
+rip|verb (used with object)|
+yourselves|Error|
+baseball|noun|
+testify|verb (used without object)|
+coma|noun|
+mansion|noun|
+personality|noun|
+commander|noun|
+buzz|noun|
+surveillance|noun|
+woo|verb (used with object)|
+penthouse|noun|
+sneaking|adjective|
+constable|noun|
+feeding|noun|
+courtroom|noun|
+reverend|adjective|
+enchantment|noun|
+drunken|adjective|
+bullying|noun|
+weasel|noun|
+supreme|adjective|
+maker|noun|
+haunted|adjective|
+footage|noun|
+bogus|adjective|
+autograph|noun|
+spontaneous|adjective|
+probation|noun|
+identical|adjective|
+fist|noun|
+cooler|noun|
+banner|noun|
+streak|noun|
+spectacular|adjective|
+sector|noun|
+heroin|noun|
+fisher|noun|
+cult|noun|
+consult|verb (used with object)|
+association|noun|
+rag|noun|
+maniac|noun|
+impulse|noun|
+duchess|noun|
+classy|adjective|
+rising|adjective|
+hypocrite|noun|
+humiliate|verb (used with object)|
+hideous|adjective|
+bolt|noun|
+ransom|noun|
+Jew|noun|
+intent|noun|
+gladly|adverb|
+fling|verb (used with object)|
+eliminate|verb (used with object)|
+disorder|noun|
+chancellor|noun|
+subway|noun|
+republican|adjective|
+dental|adjective|
+corporation|noun|
+cherish|verb (used with object)|
+briefing|noun|
+bluff|adjective|
+gin|noun|
+gale|noun|
+dried|verb|
+acknowledge|verb (used with object)|
+whiskey|noun|
+toxic|adjective|
+reliable|adjective|
+overturn|verb (used with object)|
+lining|noun|
+endless|adjective|
+convict|verb (used with object)|
+butler|noun|
+rusty|adjective|
+positively|adverb|
+mount|verb (used with object)|
+manual|adjective|
+helmet|noun|
+failing|noun|
+essence|noun|
+dose|noun|
+bully|noun|
+airline|noun|
+hooligan|noun|
+rig|verb (used with object)|
+pursuit|noun|
+greedy|adjective|
+spine|noun|
+shotgun|noun|
+reckless|adjective|
+rash|adjective|
+railroad|noun|
+meaningless|adjective|
+fiancÃ©|Error|
+exposure|noun|
+evidently|adverb|
+contempt|noun|
+theft|noun|
+shipment|noun|
+scissor|verb (used with object)|
+proposition|noun|
+porter|noun|
+marine|adjective|
+legacy|noun|
+ink|noun|
+hormone|noun|
+hail|verb (used with object)|
+godfather|noun|
+gently|adverb|
+establish|verb (used with object)|
+worldwide|adjective|
+sexually|Error|
+jaw|noun|
+intern|noun|
+handcuff|noun|
+franchise|noun|
+errand|noun|
+entertaining|adjective|
+crib|noun|
+barge|noun|
+attending|adjective|
+ambassador|noun|
+rating|noun|
+float|verb (used without object)|
+embrace|verb (used with object)|
+whining|adjective|
+turner|noun|
+receiver|noun|
+pep|noun|
+olive|noun|
+jeep|noun|
+cheerleader|noun|
+balm|noun|
+unnecessary|adjective|
+stunning|adjective|
+shipping|noun|
+quest|noun|
+luxury|noun|
+loosen|verb (used with object)|
+info|noun|
+hum|verb (used without object)|
+haunt|verb (used with object)|
+gracious|adjective|
+forgiving|adjective|
+emperor|noun|
+abortion|noun|
+physician|noun|
+perimeter|noun|
+passage|noun|
+pal|noun|
+Jews|Notes|
+interference|noun|
+grease|noun|
+eyewitness|noun|
+enthusiasm|noun|
+portal|noun|
+jewel|noun|
+concrete|noun|
+bearing|noun|
+sabotage|noun|
+pea|noun|
+needy|adjective|
+mentor|noun|
+listed|adjective|
+cuff|noun|
+yummy|adjective|
+woof|noun|
+valid|adjective|
+prank|noun|
+performing|adjective|
+obnoxious|adjective|
+hereby|adverb|
+void|adjective|
+strangle|verb (used with object)|
+senate|noun|
+fiction|noun|
+exotic|adjective|
+demonic|adjective|
+coloured|noun|
+clearing|noun|
+brook|noun|
+boutique|noun|
+terrace|noun|
+skiing|noun|
+righty|noun|
+quack|noun|
+preliminary|adjective|
+petty|adjective|
+pact|noun|
+knot|noun|
+ketchup|noun|
+assist|verb (used with object)|
+violet|noun|
+uptight|adjective|
+terrifying|adjective|
+swamp|noun|
+secretly|adverb|
+rejection|noun|
+mentally|adverb|
+jurisdiction|noun|
+deception|noun|
+crucial|adjective|
+cheesy|adjective|
+arrival|noun|
+supporting|adjective|
+scoop|noun|
+ribbon|noun|
+raid|noun|
+hay|noun|
+Easter|noun|
+destined|adjective|
+constitution|noun|
+boob|noun|
+appreciation|noun|
+accomplice|noun|
+sewer|noun|
+scroll|noun|
+fugitive|noun|
+cranky|adjective|
+bodyguard|noun|
+accountant|noun|
+whoop|noun|
+remotely|adverb|
+protocol|noun|
+nickel|noun|
+foreman|noun|
+decency|noun|
+cord|noun|
+beam|noun|
+altogether|adverb|
+squash|verb (used with object)|
+rank|noun|
+ought|auxiliary verb|
+lung|noun|
+enforcement|noun|
+encumbrance|noun|
+donation|noun|
+curb|noun|
+continued|adjective|
+competitive|adjective|
+businessman|noun|
+antique|adjective|
+advertising|noun|
+ads|abbreviation for|
+toothbrush|noun|
+retreat|noun|
+panties|noun|
+lust|noun|
+hourglass|noun|
+equally|adverb|
+consolation|noun|
+babble|verb (used without object)|
+stranded|adjective|
+payslips|Error|
+overreact|verb (used without object)|
+freshen|verb (used with object)|
+drake|noun|
+disposal|noun|
+caffeine|noun|
+broom|noun|
+unfinished|adjective|
+tasty|adjective|
+syndrome|noun|
+stack|noun|
+pinch|verb (used with object)|
+isolated|adjective|
+flatten|verb (used with object)|
+whereabouts|adverb|
+waiting|noun|
+truce|noun|
+tee|noun|
+ruling|noun|
+poise|noun|
+manipulative|adjective|
+immature|adjective|
+condom|noun|
+butt|noun|
+automatically|adverb|
+anchor|noun|
+addict|noun|
+throne|noun|
+slick|adjective|
+pasta|noun|
+detector|noun|
+casting|noun|
+batch|noun|
+almighty|adjective|
+sum|noun|
+spark|noun|
+perfection|noun|
+jelly|noun|
+getaway|noun|
+cracking|noun|
+behold|verb (used with object)|
+verge|noun|
+timer|noun|
+surf|noun|
+superman|noun|
+specialty|noun|
+snoop|verb (used without object)|
+semi|noun|
+leverage|noun|
+jeopardize|verb (used with object)|
+janitor|noun|
+examination|noun|
+compact|adjective|
+clueless|adjective|
+adding|noun|
+ungrateful|adjective|
+unacceptable|adjective|
+shorter|noun|
+serum|noun|
+lure|noun|
+irrational|adjective|
+galaxy|noun|
+doom|noun|
+classified|adjective|
+beautifully|adverb|
+traitor|noun|
+sympathetic|adjective|
+smug|adjective|
+rental|noun|
+prostitute|noun|
+monk|noun|
+inventory|noun|
+horny|adjective|
+developing|adjective|
+commonplace|adjective|
+amendment|noun|
+vent|noun|
+traumatic|adjective|
+tow|verb (used with object)|
+sweaty|adjective|
+overboard|adverb|
+insight|noun|
+haven|noun|
+fluid|noun|
+era|noun|
+crappy|adjective|
+crab|noun|
+chunk|noun|
+chandler|noun|
+appliance|noun|
+stain|noun|
+shack|noun|
+pervert|verb (used with object)|
+occupied|adjective|
+handful|noun|
+gag|verb (used with object)|
+flick|noun|
+expertise|noun|
+embarrassment|noun|
+drum|noun|
+concussion|noun|
+summon|verb (used with object)|
+splitting|adjective|
+sneaky|adjective|
+sloppy|adjective|
+settling|noun|
+reschedule|verb (used with object)|
+notch|noun|
+hooray|interjection|
+extend|verb (used with object)|
+exquisite|adjective|
+disrespect|noun|
+amateur|noun|
+shatter|verb (used with object)|
+ruthless|adjective|
+refill|verb (used with or without object)|
+payroll|noun|
+mourning|noun|
+marijuana|noun|
+manly|adjective|
+iris|noun|
+hunk|noun|
+entertain|verb (used with object)|
+earthquake|noun|
+drift|noun|
+dreadful|adjective|
+doorstep|noun|
+confirmation|noun|
+stressful|adjective|
+preoccupy|verb (used with object)|
+predictable|adjective|
+madly|adverb|
+embassy|noun|
+confuse|verb (used with object)|
+cappuccino|noun|
+bouquet|noun|
+bailey|noun|
+amulet|noun|
+addiction|noun|
+villa|noun|
+unlock|verb (used with object)|
+satisfy|verb (used with object)|
+lone|adjective|
+fudge|noun|
+elaborate|adjective|
+concerning|preposition|
+blocking|noun|
+mode|noun|
+hunger|noun|
+hamburger|noun|
+greet|verb (used with object)|
+gravy|noun|
+dreamt|verb|
+dice|plural noun|
+backpack|noun|
+supervisor|noun|
+starling|noun|
+meter|noun|
+likewise|adverb|
+irrelevant|adjective|
+felon|noun|
+fasten|verb (used with object)|
+disco|noun|
+conceivable|adjective|
+compassionate|adjective|
+backstage|adverb|
+agony|noun|
+adorn|verb (used with object)|
+tweak|verb (used with object)|
+thieve|verb (used with object)|
+surgical|adjective|
+sunrise|noun|
+recital|noun|
+productive|adjective|
+meaningful|adjective|
+kitten|noun|
+immunity|noun|
+frighten|verb (used with object)|
+dearly|adverb|
+closure|noun|
+ambition|noun|
+unstable|adjective|
+stinky|adjective|
+salvage|noun|
+petition|noun|
+lowlife|noun|
+juicy|adjective|
+intentionally|adverb|
+inspire|verb (used with object)|
+forgave|verb|
+fart|noun|
+devotion|noun|
+despicable|adjective|
+comfy|adjective|
+breach|noun|
+alternate|verb (used without object)|
+twilight|noun|
+stove|noun|
+slot|noun|
+pawn|verb (used with object)|
+lengthen|verb (used with object)|
+farewell|interjection|
+experimental|adjective|
+caviar|noun|
+carnival|noun|
+boost|verb (used with object)|
+bliss|noun|
+token|noun|
+temporarily|adverb|
+superstition|noun|
+supernatural|adjective|
+sunk|verb|
+recorder|noun|
+rang|verb|
+presidential|adjective|
+motivate|verb (used with object)|
+fraternity|noun|
+dryer|noun|
+brake|noun|
+bounty|noun|
+axe|noun|
+unbelievably|adverb|
+survivor|noun|
+respectable|adjective|
+premise|noun|
+occasional|adjective|
+indication|noun|
+gutter|noun|
+flashlight|noun|
+bloodless|adjective|
+beware|verb (used with object)|
+wily|adjective|
+won|verb|
+turf|noun|
+shovel|noun|
+puff|noun|
+locking|Error|
+heartless|adjective|
+echo|noun|
+comparison|noun|
+childish|adjective|
+cardiac|adjective|
+brace|noun|
+blunt|adjective|
+admission|noun|
+vanilla|noun|
+utterly|adverb|
+suspension|noun|
+stun|verb (used with object)|
+sadly|adverb|
+reserved|adjective|
+kidding|Idioms and Phrases|
+jerk|noun|
+hitch|verb (used with object)|
+flirt|verb (used without object)|
+extension|noun|
+establishment|noun|
+delayed|adjective|
+christening|noun|
+casket|noun|
+broker|noun|
+antibiotic|noun|
+abduct|verb (used with object)|
+witchcraft|noun|
+smelly|adjective|
+running|noun|
+protein|noun|
+paramedic|noun|
+murmur|noun|
+marathon|noun|
+intact|adjective|
+grandpa|noun|
+diaper|noun|
+deceased|adjective|
+burka|noun|
+bun|noun|
+accounting|noun|
+shred|noun|
+rethink|verb (used with or without object)|
+pistol|noun|
+leash|noun|
+hearted|adjective|
+flown|verb|
+feast|noun|
+extent|noun|
+educated|adjective|
+disgrace|noun|
+deposition|noun|
+burial|noun|
+bookstore|noun|
+veil|noun|
+trespass|noun|
+optimistic|adjective|
+jeopardy|noun|
+injection|noun|
+hilarious|adjective|
+distinct|adjective|
+directed|adjective|
+dame|noun|
+curve|noun|
+cone|noun|
+challenging|adjective|
+alter|verb (used with object)|
+wilderness|noun|
+vindictive|adjective|
+venture|noun|
+tomb|noun|
+teeny|adjective|
+stroll|verb (used without object)|
+sitting|noun|
+rebuild|verb (used with object)|
+ordeal|noun|
+intimacy|noun|
+inheritance|noun|
+donate|verb (used with object)|
+despair|noun|
+democratic|adjective|
+cracker|noun|
+ammunition|noun|
+thoroughly|adverb|
+sheer|adjective|
+scarecrow|noun|
+refreshing|adjective|
+prosecute|verb (used with object)|
+misplace|verb (used with object)|
+merchandise|noun|
+membership|noun|
+jinx|verb (used with object)|
+heroic|adjective|
+facial|adjective|
+clan|noun|
+bummer|noun|
+syrup|noun|
+shuttle|noun|
+resemblance|noun|
+premature|adjective|
+pod|noun|
+honours|plural noun|
+gravity|noun|
+contribution|noun|
+acquainted|adjective|
+vest|noun|
+untie|verb (used with object)|
+salute|verb (used with object)|
+priceless|adjective|
+pike|noun|
+moonlight|noun|
+lightly|adverb|
+glowing|adjective|
+generator|noun|
+flowing|adjective|
+explosive|adjective|
+cinnamon|noun|
+breakthrough|noun|
+ballistic|adjective|
+assassin|noun|
+antidote|noun|
+analyze|verb (used with object)|
+allowance|noun|
+adjourn|verb (used with object)|
+understatement|noun|
+touchy|adjective|
+subconscious|adjective|
+roommate|noun|
+pitcher|noun|
+ping|verb (used without object)|
+offend|verb (used with object)|
+knives|noun|
+irresistible|adjective|
+incarnate|adjective|
+hostility|noun|
+funky|adjective|
+equation|noun|
+digital|adjective|
+centered|adjective|
+watcher|noun|
+turtle|noun|
+transmission|noun|
+sleigh|noun|
+sarcastic|adjective|
+recess|noun|
+rebound|verb (used without object)|
+rebel|noun|
+pirate|noun|
+living|adjective|
+heartache|noun|
+fundraiser|noun|
+dynamite|noun|
+doorman|noun|
+documentary|adjective|
+discreet|adjective|
+considerate|adjective|
+catering|noun|
+author|noun|
+vacuum|noun|
+urine|noun|
+strung|verb|
+stitch|noun|
+sordid|adjective|
+protector|noun|
+portion|noun|
+moss|noun|
+mat|noun|
+kindergarten|noun|
+flaw|noun|
+diving|Error|
+discharge|verb (used with object)|
+blizzard|noun|
+amongst|preposition|
+woody|adjective|
+tactic|noun|
+spooky|adjective|
+spaghetti|noun|
+powerless|adjective|
+playground|noun|
+paranoia|noun|
+hopeful|adjective|
+havoc|noun|
+evaluation|noun|
+doughnut|noun|
+diversion|noun|
+behead|verb (used with object)|
+aspen|noun|
+anyplace|adverb|
+accessory|noun|
+titanic|adjective|
+stuffing|noun|
+speeding|noun|
+slime|noun|
+royalty|noun|
+maze|noun|
+marital|adjective|
+magician|noun|
+lurk|verb (used without object)|
+journalism|noun|
+interior|adjective|
+hog|noun|
+hatch|verb (used with object)|
+greeting|noun|
+ethical|adjective|
+equipped|adjective|
+environmental|adjective|
+credibility|noun|
+credential|noun|
+consistent|adjective|
+claw|noun|
+chopped|adjective|
+bridal|adjective|
+bedside|noun|
+authorized|adjective|
+assumption|noun|
+youngest|adjective|
+witty|adjective|
+unforgivable|adjective|
+underworld|noun|
+sophomore|noun|
+selfless|adjective|
+secrecy|noun|
+runway|noun|
+programming|noun|
+professionally|Error|
+moving|adjective|
+meltdown|noun|
+incoming|adjective|
+curl|verb (used with object)|
+comedian|noun|
+buckle|noun|
+assembly|noun|
+adjustment|noun|
+slippery|adjective|
+ridge|noun|
+queer|adjective|
+graveyard|noun|
+gifted|adjective|
+dale|noun|
+cynical|adjective|
+assassination|noun|
+verbal|adjective|
+unpredictable|adjective|
+stoop|verb (used without object)|
+plumbing|noun|
+lingerie|noun|
+layer|noun|
+fluffy|adjective|
+dresser|noun|
+coup|noun|
+chauffeur|noun|
+bouncing|adjective|
+veal|noun|
+sanity|noun|
+primitive|adjective|
+pending|preposition|
+orderly|adjective|
+obsessive|adjective|
+motto|noun|
+meteor|noun|
+glimpse|noun|
+froze|verb|
+execute|verb (used with object)|
+ensure|verb (used with object)|
+dispute|verb (used without object)|
+crop|noun|
+consulate|noun|
+amend|verb (used with object)|
+syringe|noun|
+symphony|noun|
+sleazy|adjective|
+shaky|adjective|
+runner|noun|
+riddle|noun|
+ranger|noun|
+poke|verb (used with object)|
+pickup|noun|
+nutty|adjective|
+menace|noun|
+housekeeper|noun|
+fingernail|noun|
+chronic|adjective|
+bass|adjective|
+baking|noun|
+whine|verb (used without object)|
+utter|verb (used with object)|
+thug|noun|
+strap|noun|
+sniff|verb (used without object)|
+sedative|adjective|
+picket|noun|
+jumbo|noun|
+hound|noun|
+homosexual|adjective|
+flea|noun|
+flatter|verb (used with object)|
+dwell|verb (used without object)|
+dent|noun|
+assignment|noun|
+vile|adjective|
+unreasonable|adjective|
+souvenir|noun|
+psychopath|noun|
+operative|noun|
+obstruction|noun|
+lockdown|noun|
+gloat|verb (used without object)|
+filth|noun|
+exterminate|verb (used with object)|
+electronic|adjective|
+edgy|adjective|
+cedar|noun|
+appealing|adjective|
+wrath|noun|
+trainer|noun|
+rye|noun|
+publicly|adverb|
+marshal|noun|
+heavenly|adjective|
+hash|noun|
+halt|verb (used without object)|
+grim|adjective|
+employed|adjective|
+doggie|Error|
+diplomatic|adjective|
+dilemma|noun|
+contagious|adjective|
+wrench|verb (used with object)|
+thingy|noun|
+rogue|adjective|
+raft|noun|
+piggy|noun|
+peep|verb (used without object)|
+pageant|noun|
+gardener|noun|
+vase|noun|
+squat|verb (used without object)|
+motivation|noun|
+introduction|noun|
+feminine|adjective|
+eyeball|noun|
+disc|noun|
+convertible|adjective|
+context|noun|
+suspense|noun|
+poppy|noun|
+mice|noun|
+incompetent|adjective|
+drip|verb (used without object)|
+differ|verb (used without object)|
+copper|noun|
+sensitivity|noun|
+prophecy|noun|
+immortal|adjective|
+colourless|adjective|
+demonstrate|verb (used with object)|
+acquaintance|noun|
+superficial|adjective|
+ingredient|noun|
+apparent|adjective|
+worthwhile|adjective|
+mop|noun|
+impatient|adjective|
+arctic|adjective|
+profound|adjective|
+mocking|adjective|
+concentration|noun|
+tribute|noun|
+postcard|noun|
+judgement|Error|
+engineering|noun|
+commonwealth|noun|
+intimidate|verb (used with object)|
+doorbell|noun|
+cultural|adjective|
+cafÃ©|Error|
+allergy|noun|
+vegetarian|noun|
+telegram|noun|
+pharmacy|noun|
+obstacle|noun|
+contribute|verb (used with object)|
+bankrupt|noun|
+neurotic|adjective|
+microphone|noun|
+persuasive|adjective|
+lighthouse|noun|
+liability|noun|
+detailed|adjective|
+bulb|noun|
+await|verb (used with object)|
+ambush|noun|
+adolescent|adjective|
+abort|verb (used without object)|
+verse|noun|
+undermine|verb (used with object)|
+sunlight|noun|
+nonetheless|adverb|
+liaison|noun|
+encouragement|noun|
+dictate|verb (used with object)|
+blueberry|noun|
+apron|noun|
+anticipated|adjective|
+vouch|verb (used without object)|
+sibling|noun|
+listener|noun|
+fearless|adjective|
+dinosaur|noun|
+repeatedly|adverb|
+moody|adjective|
+indulge|verb (used without object)|
+horribly|adverb|
+expand|verb (used with object)|
+dialogue|noun|
+adventurous|adjective|
+violin|noun|
+suffice|verb (used without object)|
+oatmeal|noun|
+midst|noun|
+maiden|noun|
+damaging|adjective|
+boredom|noun|
+sunglasses|plural noun|
+prognosis|noun|
+molecular|adjective|
+hazel|noun|
+striking|adjective|
+ripe|adjective|
+plumber|noun|
+newborn|adjective|
+swift|adjective|
+speculation|noun|
+rewrite|verb (used with object)|
+handicapped|adjective|
+dishonest|adjective|
+amusement|noun|
+unborn|adjective|
+toaster|noun|
+sew|verb (used with object)|
+radioactive|adjective|
+questionable|adjective|
+overlook|verb (used with object)|
+underpants|noun|
+stool|noun|
+platinum|noun|
+nightclub|noun|
+minority|noun|
+divided|adjective|
+considerable|adjective|
+tuition|noun|
+godmother|noun|
+crude|adjective|
+criticize|verb (used with object)|
+whichever|pronoun|
+correction|noun|
+incentive|noun|
+yogurt|noun|
+submarine|noun|
+startle|verb (used with object)|
+interpretation|noun|
+ingoing|adjective|
+enchant|verb (used with object)|
+conservative|adjective|
+bandage|noun|
+awareness|noun|
+supervision|noun|
+sedate|adjective|
+marker|noun|
+brainwash|verb (used with object)|
+adamant|adjective|
+uncommon|adjective|
+medieval|adjective|
+maturity|noun|
+maternity|noun|
+marinade|noun|
+candid|adjective|
+snore|verb (used without object)|
+sneeze|verb (used without object)|
+smuggle|verb (used with object)|
+salty|adjective|
+morbid|adjective|
+licence|noun|
+defenceless|Error|
+cradle|noun|
+booking|noun|
+traumatize|verb (used with object)|
+muddy|adjective|
+grapefruit|noun|
+bossy|adjective|
+bacteria|plural noun|
+speechless|adjective|
+parachute|noun|
+cremate|verb (used with object)|
+transaction|noun|
+polar|adjective|
+intrude|verb (used with object)|
+ignorance|noun|
+handyman|noun|
+diabete|Error|
+constitutional|adjective|
+pronoun|noun|
+pottery|noun|
+obscene|adjective|
+induce|verb (used with object)|
+immigration|noun|
+elevate|verb (used with object)|
+disable|verb (used with object)|
+crust|noun|
+conductor|noun|
+assessment|noun|
+withdrawal|noun|
+undone|adjective|
+symptom|noun|
+mascara|noun|
+iceberg|noun|
+convert|verb (used with object)|
+complicate|verb (used with object)|
+combine|verb (used with object)|
+transformation|noun|
+telescope|noun|
+stumble|verb (used without object)|
+saliva|noun|
+robber|noun|
+reconnect|verb|
+irregular|adjective|
+invalid|noun|
+evict|verb (used with object)|
+diver|noun|
+cushion|noun|
+rhyme|noun|
+phenomenon|noun|
+motherhood|noun|
+migraine|noun|
+frosty|adjective|
+friction|noun|
+aspect|noun|
+aggression|noun|
+abusive|adjective|
+trivial|adjective|
+tenant|noun|
+supervise|verb (used with object)|
+superstitious|adjective|
+statistics|noun|
+homemade|adjective|
+glamour|noun|
+disoriented|adjective|
+crossroad|noun|
+assurance|noun|
+thesis|noun|
+terrorism|noun|
+painkiller|noun|
+intellect|noun|
+dole|noun|
+amuse|verb (used with object)|
+alienate|verb (used with object)|
+unwanted|adjective|
+soften|verb (used with object)|
+plaster|noun|
+insomnia|noun|
+fume|noun|
+foremost|adjective|
+deviate|verb (used without object)|
+crave|verb (used with object)|
+craft|noun|
+conceal|verb (used with object)|
+abdomen|noun|
+toenail|noun|
+organism|noun|
+incapable|adjective|
+fade|verb (used without object)|
+erotic|adjective|
+dwelling|noun|
+calory|Error|
+breathtaking|adjective|
+unattractive|adjective|
+representative|noun|
+residential|adjective|
+resignation|noun|
+substantial|adjective|
+arbitrary|adjective|
+damp|adjective|
+detached|adjective|
+dictator|noun|
+digestion|noun|
+discourage|verb (used with object)|
+discrimination|noun|
+disgraceful|adjective|
+disguise|verb (used with object)|
+disorganized|adjective|
+diversity|noun|
+download|verb (used with object)|
+compensate|verb (used with object)|
+competence|noun|
+earnest|adjective|
+eclipse|noun|
+economical|adjective|
+elastic|adjective|
+electronics|noun|
+embargo|noun|
+encyclopaedia|Error|
+energetic|adjective|
+enjoyment|noun|
+enlargement|noun|
+envious|adjective|
+equator|noun|
+erect|adjective|
+expenditure|noun|
+eyelid|noun|
+farsighted|adjective|
+feminist|adjective|
+forfeit|noun|
+fort|noun|
+furthermore|adverb|
+futile|adjective|
+hazardous|adjective|
+immortality|noun|
+initially|adverb|
+intricate|adjective|
+juvenile|adjective|
+kaleidoscope|noun|
+magnify|verb (used with object)|
+miscellaneous|adjective|
+momentary|adjective|
+mutter|verb (used without object)|
+nylon|noun|
+oar|noun|
+orient|noun|
+ornament|noun|
+oxen|noun|
+oyster|noun|
+parasol|noun|
+pasture|noun|
+pioneer|noun|
+playful|adjective|
+poisonous|adjective|
+practitioner|noun|
+precision|noun|
+prefix|noun|
+prestige|noun|
+punctuation|noun|
+quarrel|noun|
+raffle|noun|
+rationalize|verb (used with object)|
+relay|noun|
+rim|noun|
+rugby|noun|
+scallop|noun|
+spank|verb (used with object)|
+specialize|verb (used without object)|
+stereotype|noun|
+complement|noun|
+completely|adverb|
+completion|noun|
+complimentary|adjective|
+component|noun|
+composition|noun|
+comprehension|noun|
+conceited|adjective|
+connoisseur|noun|
+consequently|adverb|
+conservation|noun|
+considerably|adverb|
+consistency|noun|
+consonant|noun|
+conspicuous|adjective|
+constitute|verb (used with object)|
+consumer|noun|
+consumption|noun|
+contemplate|verb (used with object)|
+contemporary|adjective|
+contented|adjective|
+continuous|adjective|
+contradict|verb (used with object)|
+contradiction|noun|
+contrast|verb (used with object)|
+controversial|adjective|
+controversy|noun|
+conventional|adjective|
+copier|noun|
+cosmopolitan|adjective|
+counterfeit|adjective|
+countryside|noun|
+cram|verb (used with object)|
+crayon|noun|
+cricket|noun|
+cube|noun|
+cue|noun|
+culprit|noun|
+cupboard|noun|
+curriculum|noun|
+customs|noun|
+cylinder|noun|
+interim|noun|
+stride|verb (used without object)|
+subjective|adjective|
+submission|noun|
+subordinate|adjective|
+subscription|noun|
+subtract|verb (used with object)|
+suburb|noun|
+supplement|noun|
+supporter|noun|
+swimsuit|noun|
+syllable|noun|
+syllabus|noun|
+abbreviate|verb (used with object)|
+abode|noun|
+abolish|verb (used with object)|
+abound|verb (used without object)|
+abrupt|adjective|
+abstinence|noun|
+accommodate|verb (used with object)|
+accord|verb (used without object)|
+accumulate|verb (used with object)|
+accustom|verb (used with object)|
+acquaint|verb (used with object)|
+adhere|verb (used without object)|
+adjective|noun|
+administer|verb (used with object)|
+admissible|adjective|
+adverb|noun|
+adversary|noun|
+affability|noun|
+affirm|verb (used with object)|
+agrarian|adjective|
+walnut|noun|
+wary|adjective|
+watery|adjective|
+wharf|noun|
+whirl|verb (used without object)|
+wholly|adverb|
+wilful|adjective|
+willingness|noun|
+wireless|adjective|
+withhold|verb (used with object)|
+wrangle|verb (used without object)|
+wring|verb (used with object)|
+vaccination|noun|
+vandalism|noun|
+vapour|noun|
+varnish|noun|
+velocity|noun|
+venison|noun|
+venomous|adjective|
+verification|noun|
+versatile|adjective|
+vestige|noun|
+vibrate|verb (used without object)|
+vigilance|noun|
+vigorous|adjective|
+visibility|noun|
+vogue|noun|
+volleyball|noun|
+vulgar|adjective|
+vulture|noun|
+ulcer|noun|
+unaccustomed|adjective|
+unavoidable|adjective|
+unaware|adjective|
+unbutton|verb (used with object)|
+unchanged|adjective|
+undeniable|adjective|
+unequal|adjective|
+uneven|adjective|
+unfamiliar|adjective|
+unfriendly|adjective|
+unjust|adjective|
+unkind|adjective|
+unruly|adjective|
+unrest|noun|
+unsettled|adjective|
+unskilful|adjective|
+untidy|adjective|
+unworthy|adjective|
+upbrining|Error|
+uphill|adverb|
+uprising|noun|
+usage|noun|
+utmost|adjective|
+tack|noun|
+tangible|adjective|
+tariff|noun|
+tea-pot|Error|
+teaspoon|noun|
+tedious|adjective|
+teem|verb (used without object)|
+temporal|adjective|
+tendon|noun|
+testament|noun|
+test-tube|noun|
+textile|noun|
+text-message|noun|
+theological|adjective|
+thought|noun|
+threshold|noun|
+thrift|noun|
+timid|adjective|
+tint|noun|
+toil|noun|
+tonsil|noun|
+torrent|noun|
+tortoise|noun|
+trait|noun|
+tram|noun|
+transient|adjective|
+treason|noun|
+tread|verb (used without object)|
+trickle|verb (used without object)|
+Trinity|noun|
+trolley|noun|
+tsar|noun|
+turban|noun|
+turbulent|adjective|
+turnip|noun|
+tusk|noun|
+twirl|verb (used with object)|
+twitter|verb (used without object)|
+tyran|Error|
+typist|noun|
+allege|verb (used with object)|
+allot|verb (used with object)|
+alloy|noun|
+allude|verb (used without object)|
+allusion|noun|
+aloud|adverb|
+alphabet|noun|
+altitude|noun|
+aluminium|noun|
+amass|verb (used with object)|
+amid|preposition|
+amnesty|noun|
+amorous|adjective|
+anaemia|noun|
+analogy|noun|
+anatomy|noun|
+anew|adverb|
+animate|verb (used with object)|
+animosity|noun|
+annex|verb (used with object)|
+anomalous|adjective|
+anthem|noun|
+ant-hill|noun|
+antipathy|noun|
+antiquarian|adjective|
+apathetic|adjective|
+apostle|noun|
+apparatus|noun|
+appease|verb (used with object)|
+appendix|noun|
+appoint|verb (used with object)|
+appraise|verb (used with object)|
+apprehension|noun|
+apprentice|noun|
+apt|adjective|
+Arab|noun|
+arc|noun|
+archbishop|noun|
+ardent|adjective|
+aristocracy|noun|
+armchair|noun|
+armistice|noun|
+armpit|noun|
+aroma|noun|
+arouse|verb (used with object)|
+arrears|plural noun|
+artful|adjective|
+ascend|verb (used without object)|
+ascertain|verb (used with object)|
+ashore|adverb|
+asparagus|noun|
+aspiration|noun|
+assent|verb (used without object)|
+assert|verb (used with object)|
+assimilate|verb (used with object)|
+astray|adverb|
+atheism|noun|
+atrocious|adjective|
+audible|adjective|
+austerity|noun|
+auxiliary|adjective|
+avalanche|noun|
+aversion|noun|
+aviation|noun|
+bale|noun|
+bamboo|noun|
+barley|noun|
+barracks|plural noun|
+barren|adjective|
+barricade|noun|
+barter|verb (used without object)|
+beech|noun|
+beetroot|noun|
+benediction|noun|
+bereave|verb (used with object)|
+berch|Error|
+bilateral|adjective|
+birch|noun|
+bladder|noun|
+bleat|verb (used without object)|
+blister|noun|
+blot|noun|
+boar|noun|
+bonfire|noun|
+bonnet|noun|
+botany|noun|
+box-office|noun|
+boycott|verb (used with object)|
+boyish|adjective|
+brim|noun|
+brisk|adjective|
+brooch|noun|
+brood|noun|
+brow|noun|
+bulk|noun|
+bulletin|noun|
+buoyancy|noun|
+calamity|noun|
+camomile|noun|
+canary|noun|
+candied|adjective|
+canteen|noun|
+canvass|verb (used with object)|
+capability|noun|
+caprice|noun|
+captivity|noun|
+caravan|noun|
+cardinal|noun|
+caress|noun|
+carp|verb (used without object)|
+cartrige|Error|
+cask|noun|
+cataract|noun|
+caterpillar|noun|
+cathedral|noun|
+cauliflower|noun|
+catastrophe|noun|
+cavalry|noun|
+cede|verb (used with object)|
+celery|noun|
+census|noun|
+cessation|noun|
+chaste|adjective|
+chatter|verb (used without object)|
+chirp|verb (used without object)|
+chisel|noun|
+chivalrous|adjective|
+chord|noun|
+cipher|noun|
+clad|verb|
+clang|verb (used without object)|
+clasp|noun|
+clatter|verb (used without object)|
+clench|verb (used with object)|
+clod|noun|
+clove|noun|
+clumsiness|noun|
+clutch|verb (used with object)|
+coarse|adjective|
+coax|verb (used with object)|
+cobbler|noun|
+cod|noun|
+cod-liver|Error|
+cognition|noun|
+coil|noun|
+collaborate|verb (used without object)|
+colt|noun|
+combustible|adjective|
+comet|noun|
+commence|verb (used with or without object)|
+commotion|noun|
+compel|verb (used with object)|
+compile|verb (used with object)|
+compliance|noun|
+compose|verb (used with object)|
+compress|verb (used with object)|
+comprise|Error|
+consession|Error|
+conciliate|verb (used with object)|
+concord|noun|
+condensed|adjective|
+confederate|adjective|
+confer|verb (used without object)|
+confiscate|verb (used with object)|
+conform|verb (used without object)|
+conjecture|noun|
+conjunction|noun|
+consensus|noun|
+consignment|noun|
+consternation|noun|
+constituent|adjective|
+constrain|verb (used with object)|
+construe|verb (used with object)|
+consume|verb (used with object)|
+contend|verb (used without object)|
+contentment|noun|
+continual|adjective|
+contraceptive|adjective|
+contrivance|noun|
+convey|verb (used with object)|
+coral|noun|
+coronation|noun|
+correspond|verb (used without object)|
+cosy|adjective|
+countess|noun|
+crater|noun|
+crayfish|noun|
+crease|noun|
+creche|noun|
+credulous|adjective|
+crescent|noun|
+crest|noun|
+croak|verb (used without object)|
+crochet|noun|
+crockery|noun|
+crumple|verb (used with object)|
+crusade|noun|
+cudgel|noun|
+currant|noun|
+cutlery|noun|
+cutlet|noun|
+cyber|noun|
+cypress|noun|
+daffodil|noun|
+dainty|adjective|
+dandelion|noun|
+Dane|noun|
+dangle|verb (used without object)|
+daze|verb (used with object)|
+debit|noun|
+deceit|noun|
+deduce|verb (used with object)|
+default|noun|
+defer|verb (used with object)|
+defiance|noun|
+deficiency|noun|
+deform|verb (used with object)|
+defrost|verb (used with object)|
+degenerate|verb (used without object)|
+degradation|noun|
+deity|noun|
+dejection|noun|
+delicacy|noun|
+deluge|noun|
+demolish|verb (used with object)|
+demure|adjective|
+deplorable|adjective|
+deport|verb (used with object)|
+deprivation|noun|
+deride|verb (used with object)|
+desirable|adjective|
+desolate|adjective|
+despot|noun|
+deter|verb (used with object)|
+detergent|noun|
+detriment|noun|
+devolution|noun|
+diarrhoea|noun|
+dilate|verb (used with object)|
+diligence|noun|
+diminish|verb (used with object)|
+disapproval|noun|
+disbelief|noun|
+discard|verb (used with object)|
+disciple|noun|
+discomfort|noun|
+discredit|verb (used with object)|
+dismal|adjective|
+dispatch|verb (used with object)|
+dissatisfaction|noun|
+domicile|noun|
+dormitory|noun|
+dowry|noun|
+drape|verb (used with object)|
+drizzle|verb (used without object)|
+drone|noun|
+drought|noun|
+drowsy|adjective|
+dusk|noun|
+Dutch|adjective|
+dynasty|noun|
+dysentery|noun|
+earnings|noun|
+easel|noun|
+edible|adjective|
+egoism|noun|
+embankment|noun|
+embark|verb (used without object)|
+embroider|verb (used with object)|
+empower|verb (used with object)|
+endorse|verb (used with object)|
+enrich|verb (used with object)|
+entail|verb (used with object)|
+envisage|verb (used with object)|
+err|verb (used without object)|
+escalator|noun|
+evasion|noun|
+excel|verb (used without object)|
+exempt|verb (used with object)|
+exhale|verb (used without object)|
+expedient|adjective|
+expend|verb (used with object)|
+extinct|adjective|
+fable|noun|
+faciliate|Error|
+falcon|noun|
+fastidious|adjective|
+fathom|noun|
+feat|noun|
+feeble|adjective|
+ferocious|adjective|
+fibre|noun|
+fiddle|noun|
+fig|noun|
+fillet|noun|
+flake|noun|
+flask|noun|
+flourish|verb (used without object)|
+flute|noun|
+foliage|noun|
+fortress|noun|
+frenzy|noun|
+funnel|noun|
+gild|verb (used with object)|
+gills|plural noun|
+giraffe|noun|
+girdle|noun|
+gloss|noun|
+gnat|noun|
+go-between|noun|
+grope|verb (used without object)|
+guile|noun|
+gust|noun|
+haphazard|adjective|
+harness|noun|
+haze|noun|
+hearth|noun|
+hedge|noun|
+helm|noun|
+heritage|noun|
+heron|noun|
+herring|noun|
+hew|verb (used with object)|
+highjack|verb|
+hind|adjective|
+hurdle|noun|
+hurl|verb (used with object)|
+hybrid|noun|
+icicle|noun|
+ignoble|adjective|
+illuminate|verb (used with object)|
+imaginable|adjective|
+immense|adjective|
+imminent|adjective|
+immobile|adjective|
+immoderate|adjective|
+impatience|noun|
+impossibility|noun|
+imprison|verb (used with object)|
+improbable|adjective|
+imprudence|noun|
+impure|adjective|
+inaccessible|adjective|
+inaccurate|adjective|
+inaudible|adjective|
+inaugurate|verb (used with object)|
+inclination|noun|
+incomparable|adjective|
+incompatible|adjective|
+incomprehensible|adjective|
+indecent|adjective|
+indictment|noun|
+indifference|noun|
+indigestion|noun|
+infantry|noun|
+inflame|verb (used with object)|
+inflict|verb (used with object)|
+influenza|noun|
+ingenious|adjective|
+inhabit|verb (used with object)|
+inhuman|adjective|
+innumerable|adjective|
+inoculate|verb (used with object)|
+inoffensive|adjective|
+in-patient|Error|
+inquire|verb (used without object)|
+inscribe|verb (used with object)|
+insensible|adjective|
+inseparable|adjective|
+insolence|noun|
+instalment|noun|
+insufficient|adjective|
+insular|adjective|
+insulation|noun|
+interact|verb (used without object)|
+intermediary|noun|
+intolerable|adjective|
+intoxicate|verb (used with object)|
+invaluable|adjective|
+invariable|adjective|
+irreparable|adjective|
+irriplaceable|Error|
+jackal|noun|
+jolly|adjective|
+jubilee|noun|
+judicial|adjective|
+judicial|adjective|
+junction|noun|
+juggle|verb (used with object)|
+justification|noun|
+languish|verb (used without object)|
+lark|noun|
+lateral|adjective|
+lattice|noun|
+leaden|adjective|
+leech|noun|
+livelihood|noun|
+madden|verb (used with object)|
+maggot|noun|
+malignant|adjective|
+malnutrition|noun|
+mandate|noun|
+manhood|noun|
+manoeuvre|noun|
+manpower|noun|
+mare|noun|
+marvel|noun|
+mayonnaise|noun|
+measles|noun|
+mediate|verb (used with object)|
+melancholy|noun|
+minimize|verb (used with object)|
+miscalculate|verb (used with or without object)|
+mischief|noun|
+misty|adjective|
+misuse|noun|
+monastery|noun|
+moor|noun|
+mortify|verb (used with object)|
+mow|verb (used with object)|
+multicultural|adjective|
+mutton|noun|
+navigable|adjective|
+nitrogen|noun|
+nobility|noun|
+novice|noun|
+noxious|adjective|
+null|adjective|
+nutshell|noun|
+oats|Idioms and Phrases|
+obstinacy|noun|
+obstruct|verb (used with object)|
+odious|adjective|
+odour|noun|
+offhand|adverb|
+onset|noun|
+onward|adverb|
+opaque|adjective|
+optical|adjective|
+orator|noun|
+orchid|noun|
+ore|noun|
+ostrich|noun|
+padlock|noun|
+pagan|noun|
+palate|noun|
+partridge|noun|
+peacock|noun|
+peat|noun|
+pedigree|noun|
+penetrate|verb (used with object)|
+peril|noun|
+perish|verb (used without object)|
+perpetual|adjective|
+perseverance|noun|
+pest|noun|
+pheasant|noun|
+pickpocket|noun|
+pier|noun|
+placard|noun|
+placid|adjective|
+plank|noun|
+plough|noun|
+pluck|verb (used with object)|
+poach|verb (used with object)|
+pollute|verb (used with object)|
+porcelain|noun|
+pore|verb (used without object)|
+porous|adjective|
+Portuguese|adjective|
+potent|adjective|
+poultry|noun|
+precarious|adjective|
+predicament|noun|
+preface|noun|
+prehistoric|adjective|
+premium|noun|
+preoccupation|noun|
+preside|verb (used without object)|
+primrose|noun|
+probability|noun|
+procure|verb (used with object)|
+prodigy|noun|
+prolific|adjective|
+prolong|verb (used with object)|
+prone|adjective|
+propaganda|noun|
+propulsion|noun|
+prose|noun|
+protrude|verb (used without object)|
+province|noun|
+proximity|noun|
+prudence|noun|
+prunes|Error|
+psalm|noun|
+pullover|noun|
+radiance|noun|
+radish|noun|
+raincoat|noun|
+ramble|verb (used without object)|
+rapture|noun|
+ratification|noun|
+readiness|noun|
+recoil|verb (used without object)|
+recollect|verb (used with object)|
+reconstruct|verb (used with object)|
+rectangle|noun|
+rectify|verb (used with object)|
+recycling|Example Sentences|
+redeem|verb (used with object)|
+reed|noun|
+refine|verb (used with object)|
+refuel|verb (used with object)|
+refusal|noun|
+rein|noun|
+relapse|verb (used without object)|
+relent|verb (used without object)|
+reluctance|noun|
+reluctance|noun|
+remnant|noun|
+render|verb (used with object)|
+repetition|noun|
+reprint|verb (used with object)|
+reptile|noun|
+repulse|verb (used with object)|
+requisite|adjective|
+respiration|noun|
+revision|noun|
+revolt|verb (used without object)|
+rind|noun|
+ripple|verb (used without object)|
+roadmap|noun|
+roadside|noun|
+rosy|adjective|
+rot|verb (used without object)|
+rotate|verb (used with object)|
+rouge|noun|
+salutation|noun|
+sanctify|verb (used with object)|
+sanitary|adjective|
+saturate|verb (used with object)|
+savour|noun|
+sceptical|adjective|
+sculptor|noun|
+seam|noun|
+seaman|noun|
+seashore|noun|
+sect|noun|
+selfportrait|Error|
+semicircle|noun|
+sermon|noun|
+serpent|noun|
+shabby|adjective|
+shallow|adjective|
+shawl|noun|
+sickly|adjective|
+sinister|adjective|
+sinner|noun|
+skid|noun|
+skim|verb (used with object)|
+slander|noun|
+sledge|noun|
+sleek|adjective|
+slogan|noun|
+sociable|adjective|
+son-in-law|noun|
+soot|noun|
+soothe|verb (used with object)|
+sovereign|noun|
+sow|verb (used with object)|
+spam|noun|
+Spaniard|noun|
+spanner|noun|
+sparrow|noun|
+speck|noun|
+spinster|noun|
+spire|noun|
+squint|verb (used without object)|
+stair|noun|
+stallion|noun|
+stammer|verb (used without object)|
+staple|noun|
+starch|noun|
+starvation|noun|
+stingy|adjective|
+strategic|adjective|
+stub|noun|
+sturgeon|noun|
+subdue|verb (used with object)|
+submerge|verb (used with object)|
+sulphur|noun|
+surpass|verb (used with object)|
+susceptible|adjective|
+swarm|noun|
+Swede|noun|
+Swiss|adjective|
+synonym|noun|
+bastard|noun|
+dumb|adjective|
+hank|noun|
+trey|noun|
+glen|noun|
+burns|noun|
+commissioner|noun|
+vanquish|verb (used with object)|
+morgue|noun|
+autopsy|noun|
+meow|noun|
+freely|adverb|
+racket|noun|
+overdue|adjective|
+lacking|preposition|
+crock|noun|
+clamp|noun|
+canned|adjective|
+bathtub|noun|
+artery|noun|
+ravine|noun|
+pushy|adjective|
+laughter|noun|
+grove|noun|
+carrier|noun|
+auntie|noun|
+willingly|adverb|
+waltz|noun|
+thinner|noun|
+swelling|noun|
+swat|verb (used with object)|
+steroid|noun|
+slate|noun|
+sentinel|noun|
+rookie|noun|
+rehearse|verb (used with object)|
+quarterback|noun|
+ledge|noun|
+justified|adjective|
+hateful|adjective|
+doorway|noun|
+admiral|noun|
+wrestle|verb (used without object)|
+velvet|noun|
+span|noun|
+mart|noun|
+manor|noun|
+madman|noun|
+idiotic|adjective|
+enlighten|verb (used with object)|
+donut|noun|
+brunch|noun|
+bridesmaid|noun|
+barrister|noun|
+architect|noun|
+applause|noun|
+alongside|adverb|
+ale|noun|
+wretched|adjective|
+plead|verb (used without object)|
+payoff|noun|
+jumpy|adjective|
+intervention|noun|
+hanging|noun|
+germ|noun|
+flashing|noun|
+convent|noun|
+captive|noun|
+vanity|noun|
+skate|noun|
+preview|noun|
+perjury|noun|
+parental|adjective|
+onboard|adjective|
+maestro|noun|
+linen|noun|
+gypsy|noun|
+grind|verb (used with object)|
+greasy|adjective|
+estimate|verb (used with object)|
+elementary|adjective|
+drastic|adjective|
+dolly|noun|
+crow|noun|
+compatriot|noun|
+cocky|adjective|
+sprung|verb|
+spotlight|noun|
+revealing|adjective|
+racist|noun|
+preacher|noun|
+piper|noun|
+overly|adverb|
+locket|noun|
+jab|verb (used with object)|
+hover|verb (used without object)|
+endure|verb (used with object)|
+dim|abbreviation for|
+booty|noun|
+wand|noun|
+rattle|verb (used without object)|
+linked|adjective|
+hustle|verb (used without object)|
+forensic|adjective|
+enthusiastic|adjective|
+duct|noun|
+devastating|adjective|
+democrat|noun|
+comeback|noun|
+charter|noun|
+calling|noun|
+blushing|adjective|
+yoga|noun|
+wrecking|noun|
+wits|plural noun|
+waffles|Error|
+virginity|noun|
+uninvited|adjective|
+unfaithful|adjective|
+underwater|adjective|
+reel|noun|
+redhead|noun|
+rave|verb (used without object)|
+ongoing|adjective|
+lesser|adjective|
+lent|verb|
+jog|verb (used with object)|
+jingle|verb (used without object)|
+itch|verb (used without object)|
+intellectual|adjective|
+fireman|noun|
+faculty|noun|
+discretion|noun|
+declaration|noun|
+crate|noun|
+competent|adjective|
+breaker|noun|
+bakery|noun|
+asylum|noun|
+wedge|noun|
+unfit|adjective|
+tuxedo|noun|
+torment|verb (used with object)|
+superhero|noun|
+stirring|adjective|
+spinal|adjective|
+server|noun|
+seminar|noun|
+rabble|noun|
+pneumonia|noun|
+perk|verb (used without object)|
+owl|noun|
+override|verb (used with object)|
+manslaughter|noun|
+lime|noun|
+lettuce|noun|
+kinky|adjective|
+instructor|noun|
+grieve|verb (used without object)|
+gorilla|noun|
+frustration|noun|
+extensive|adjective|
+exploration|noun|
+authentic|adjective|
+arraignment|noun|
+suitable|adjective|
+specimen|noun|
+overprotective|adjective|
+identification|noun|
+grandchild|noun|
+genuinely|adverb|
+flushed|adjective|
+floss|noun|
+dove|noun|
+decorated|adjective|
+crunch|verb (used with object)|
+cramp|noun|
+corny|adjective|
+bunk|noun|
+bitten|verb|
+ultrasound|noun|
+ultimatum|noun|
+retrieve|verb (used with object)|
+multi|noun|
+millionaire|noun|
+mechanical|adjective|
+hatchet|noun|
+doubtful|adjective|
+dedication|noun|
+cellular|adjective|
+butterfly|noun|
+biopsy|noun|
+whiz|verb (used without object)|
+voluntarily|adverb|
+ventilator|noun|
+unload|verb (used with object)|
+universal|adjective|
+toad|noun|
+snitch|verb (used with object)|
+sap|noun|
+reassure|verb (used with object)|
+prey|noun|
+mystical|adjective|
+mayhem|noun|
+matrimony|noun|
+magnet|noun|
+curly|adjective|
+cupid|noun|
+comrade|noun|
+aircraft|noun|
+adjusted|adjective|
+vaguely|adverb|
+tying|verb|
+slash|verb (used with object)|
+sigh|verb (used without object)|
+setback|noun|
+retail|noun|
+mar|verb (used with object)|
+lair|noun|
+hag|noun|
+fury|noun|
+felicity|noun|
+fang|noun|
+expelled|adjective|
+decoration|noun|
+cola|noun|
+blackout|noun|
+backfire|verb (used without object)|
+vista|noun|
+vintage|noun|
+urn|noun|
+slimy|adjective|
+reign|noun|
+mailbox|noun|
+informant|noun|
+elf|noun|
+disconnect|verb (used with object)|
+designing|adjective|
+crooked|adjective|
+crook|noun|
+conveniently|adverb|
+colon|noun|
+warp|verb (used with object)|
+tacky|adjective|
+steering|noun|
+stability|noun|
+reset|verb (used with object)|
+radius|noun|
+opener|noun|
+mash|verb (used with object)|
+festive|adjective|
+desperation|noun|
+critic|noun|
+consulting|adjective|
+bagel|noun|
+authorization|noun|
+agitate|verb (used with object)|
+wishful|adjective|
+wimp|noun|
+unbearable|adjective|
+tonic|noun|
+suction|noun|
+sporting|adjective|
+oval|adjective|
+newlywed|noun|
+nauseous|adjective|
+misguided|adjective|
+mildly|Idioms and Phrases|
+liable|adjective|
+hen|noun|
+dislike|verb (used with object)|
+diploma|noun|
+delude|verb (used with object)|
+crummy|adjective|
+contraction|noun|
+carve|verb (used with object)|
+bash|verb (used with object)|
+unavailable|adjective|
+twenties|Error|
+trustworthy|adjective|
+stupidity|noun|
+remorse|noun|
+preferably|adverb|
+photography|noun|
+outsider|noun|
+operational|adjective|
+northwest|noun|
+mule|noun|
+mourn|verb (used without object)|
+mechanism|noun|
+mafia|noun|
+Greece|noun|
+greatness|noun|
+girlie|adjective|
+delirious|adjective|
+cubicle|noun|
+check-up|Idioms and Phrases|
+certified|adjective|
+automobile|noun|
+athletic|adjective|
+windscreen|noun|
+viper|noun|
+starring|adjective|
+spear|noun|
+slit|verb (used with object)|
+serenity|noun|
+roar|verb (used without object)|
+quarry|noun|
+prosecutor|noun|
+probe|verb (used with object)|
+potentially|adverb|
+poodle|noun|
+pitiful|adjective|
+persistent|adjective|
+perception|noun|
+neighbourhood|noun|
+nagging|adjective|
+masterpiece|noun|
+limbo|noun|
+karate|noun|
+irritating|adjective|
+incline|verb (used without object)|
+hump|noun|
+holler|verb (used without object)|
+haw|verb (used without object)|
+gauge|verb (used with object)|
+fiasco|noun|
+fallout|noun|
+educational|adjective|
+destination|noun|
+crimson|adjective|
+continent|noun|
+cider|noun|
+brochure|noun|
+behaviour|noun|
+awe|noun|
+arena|noun|
+wiggle|verb (used without object)|
+villain|noun|
+smear|verb (used with object)|
+resentment|noun|
+penguin|noun|
+panther|noun|
+overhear|verb (used with object)|
+mounted|adjective|
+morality|noun|
+leopard|noun|
+lab|noun|
+jackpot|noun|
+icy|adjective|
+hoot|verb (used without object)|
+handshake|noun|
+grilled|adjective|
+formality|noun|
+elevator|noun|
+bypass|noun|
+breeding|noun|
+boxer|noun|
+binding|noun|
+audio|adjective|
+acre|noun|
+accidental|adjective|
+ulterior|adjective|
+tangle|verb (used with object)|
+sought|verb|
+softball|noun|
+snag|noun|
+sling|noun|
+rumour|noun|
+remarried|Error|
+reluctant|adjective|
+puddle|noun|
+perceptive|adjective|
+oral|adjective|
+miraculous|adjective|
+memorable|adjective|
+maternal|adjective|
+lookout|noun|
+longing|noun|
+lockup|noun|
+lizard|noun|
+librarian|noun|
+junkie|noun|
+immoral|adjective|
+hypothetically|adverb|
+extortion|noun|
+essentially|adverb|
+downright|adjective|
+digest|verb (used with object)|
+cranberry|noun|
+covert|adjective|
+chorus|noun|
+bygone|adjective|
+weary|adjective|
+visa|noun|
+viewer|noun|
+uptown|adverb|
+tucker|noun|
+transmitter|noun|
+tart|adjective|
+taping|Error|
+takeout|noun|
+stepmother|noun|
+stale|adjective|
+pros|abbreviation for|
+merger|noun|
+mandatory|adjective|
+ludicrous|adjective|
+inject|verb (used with object)|
+dire|adjective|
+caterer|noun|
+budge|verb (used without object)|
+sexist|adjective|
+sanctuary|noun|
+regain|verb (used with object)|
+processing|noun|
+picky|adjective|
+misjudge|verb (used with or without object)|
+miscarriage|noun|
+mink|noun|
+memorize|verb (used with object)|
+licking|noun|
+lens|noun|
+jitter|noun|
+invade|verb (used with object)|
+interruption|noun|
+glitch|noun|
+fewer|adjective|
+doubly|adverb|
+distraught|adjective|
+dispose|verb (used with object)|
+dagger|noun|
+cruelty|noun|
+belonging|noun|
+allegation|noun|
+alias|noun|
+aging|noun|
+zomby|Error|
+slaughter|noun|
+sensational|adjective|
+revolutionary|adjective|
+par|noun|
+overhead|adverb|
+interrogate|verb (used with object)|
+imperative|adjective|
+impeccable|adjective|
+hurtful|adjective|
+helper|noun|
+endangered|adjective|
+dungeon|noun|
+disgust|verb (used with object)|
+devious|adjective|
+destruct|adjective|
+countdown|noun|
+brotherhood|noun|
+brink|noun|
+berry|noun|
+banker|noun|
+ballroom|noun|
+ark|noun|
+annoyance|noun|
+admirer|noun|
+admirable|adjective|
+activate|verb (used with object)|
+wed|verb (used with object)|
+weaver|noun|
+valve|noun|
+twit|verb (used with object)|
+trout|noun|
+slay|verb (used with object)|
+sham|noun|
+scrap|noun|
+resourceful|adjective|
+remarkably|adverb|
+refresh|verb (used with object)|
+puffy|adjective|
+precaution|noun|
+pointy|adjective|
+nipple|noun|
+ministry|noun|
+hubby|noun|
+flare|verb (used without object)|
+fierce|adjective|
+demise|noun|
+checkbook|noun|
+cashmere|noun|
+calmly|adverb|
+believer|noun|
+ultra|adjective|
+tolerance|noun|
+tactical|adjective|
+stairwell|noun|
+spur|noun|
+sewing|noun|
+separately|adverb|
+restricted|adjective|
+partially|adverb|
+mingle|verb (used without object)|
+knack|noun|
+gullible|adjective|
+grid|noun|
+financially|Error|
+filming|noun|
+dysfunctional|adjective|
+dripping|noun|
+ditto|noun|
+distinguished|adjective|
+defence|noun|
+defeated|adjective|
+corruption|noun|
+contractor|noun|
+conceive|verb (used with object)|
+clone|noun|
+circulation|noun|
+caliber|noun|
+brighten|verb (used with or without object)|
+banquet|noun|
+anticipate|verb (used with object)|
+annoy|verb (used with object)|
+whim|noun|
+volatile|adjective|
+veto|noun|
+severely|adverb|
+sage|noun|
+runaway|noun|
+quarantine|noun|
+premiere|noun|
+painless|adjective|
+orphan|noun|
+orphanage|noun|
+offence|noun|
+oasis|noun|
+nip|verb (used with object)|
+negotiation|noun|
+narcotic|noun|
+nag|verb (used with object)|
+mistletoe|noun|
+meddling|adjective|
+manifest|verb (used with object)|
+loo|noun|
+intrigue|verb (used with object)|
+injustice|noun|
+homicidal|adjective|
+granny|noun|
+gigantic|adjective|
+dye|noun|
+disturbance|noun|
+disastrous|adjective|
+demented|adjective|
+cosmic|adjective|
+cheerful|adjective|
+brunette|adjective|
+beverage|noun|
+arcade|noun|
+unethical|adjective|
+swollen|verb|
+swan|noun|
+scalpel|noun|
+prototype|noun|
+prop|verb (used with object)|
+prescribe|verb (used with object)|
+pompous|adjective|
+poetic|adjective|
+ploy|noun|
+paw|noun|
+manipulation|noun|
+lasting|adjective|
+keg|noun|
+jell|verb (used without object)|
+insignificant|adjective|
+inmate|noun|
+hasty|adjective|
+grumpy|adjective|
+evolution|noun|
+discharged|adjective|
+disagreement|noun|
+dine|verb (used without object)|
+dean|noun|
+cornered|adjective|
+cork|noun|
+confrontation|noun|
+attendant|noun|
+athlete|noun|
+amaze|verb (used with object)|
+stuffy|adjective|
+sexuality|noun|
+segment|noun|
+revelation|noun|
+respirator|noun|
+pulse|noun|
+polygraph|noun|
+ordinarily|adverb|
+morally|adverb|
+matrix|noun|
+martyr|noun|
+martial|adjective|
+homey|adjective|
+heed|verb (used with object)|
+heartbroken|adjective|
+groove|noun|
+greatly|adverb|
+forge|verb (used with object)|
+florist|noun|
+firsthand|adverb|
+fiend|noun|
+drummer|noun|
+dandy|noun|
+crippled|adjective|
+craving|noun|
+connote|verb (used with object)|
+conditioner|noun|
+bubbly|adjective|
+beeper|noun|
+baptism|noun|
+ache|verb (used without object)|
+womb|noun|
+wiring|noun|
+tummy|noun|
+surrogate|noun|
+stray|verb (used without object)|
+snob|noun|
+scoot|verb (used without object)|
+scanner|noun|
+rightful|adjective|
+prophet|noun|
+paralysis|noun|
+mellow|adjective|
+makeover|noun|
+jade|noun|
+interstate|adjective|
+historic|adjective|
+flock|noun|
+clam|noun|
+broadsheet|noun|
+brew|verb (used with object)|
+borrowing|noun|
+wildest|adjective|
+unauthorized|adjective|
+troll|verb (used with object)|
+snatch|verb (used without object)|
+retro|adjective|
+quilt|noun|
+painfully|adjective|
+outlet|noun|
+mainland|noun|
+lonesome|adjective|
+intercept|verb (used with object)|
+hector|noun|
+hamster|noun|
+grownup|noun|
+goldfish|noun|
+ghetto|noun|
+gait|noun|
+delusion|noun|
+dart|noun|
+compelling|adjective|
+colonial|adjective|
+charitable|adjective|
+carton|noun|
+boiling|adjective|
+bate|verb (used with object)|
+assign|verb (used with object)|
+arrogance|noun|
+takeover|noun|
+synchronize|verb (used with object)|
+stalk|noun|
+spleen|noun|
+spacecraft|noun|
+slob|noun|
+prominent|adjective|
+prise|verb (used with object)|
+presumptuous|adjective|
+prejudice|noun|
+platoon|noun|
+pickle|noun|
+permitted|adjective|
+mush|noun|
+mummy|noun|
+macaroni|noun|
+legendary|adjective|
+itinerary|noun|
+hepatitis|noun|
+heave|verb (used with object)|
+gender|noun|
+fading|noun|
+dishwasher|noun|
+descriptive|adjective|
+cunning|noun|
+cripple|noun|
+cove|noun|
+compulsive|adjective|
+burglary|noun|
+bumpy|adjective|
+blaze|noun|
+affirmative|adjective|
+adrenaline|noun|
+unreal|adjective|
+taint|noun|
+spree|noun|
+soak|verb (used without object)|
+sever|verb (used with object)|
+scarce|adjective|
+scalp|noun|
+rewind|verb (used with or without object)|
+pretentious|adjective|
+planner|noun|
+placing|noun|
+overrated|adjective|
+loathe|verb (used with object)|
+joker|noun|
+heater|noun|
+grin|verb (used without object)|
+gospel|noun|
+filter|noun|
+fertility|noun|
+exterior|adjective|
+epidemic|adjective|
+enterprise|noun|
+emerald|noun|
+ecstatic|adjective|
+ecstasy|noun|
+duly|adverb|
+distribution|noun|
+clubhouse|noun|
+clot|noun|
+cheater|noun|
+breather|noun|
+attendance|noun|
+arsonist|noun|
+valiant|adjective|
+uphold|verb (used with object)|
+unarmed|adjective|
+thrilling|adjective|
+thigh|noun|
+terminate|verb (used with object)|
+spiral|noun|
+spaceship|noun|
+salon|noun|
+ramp|noun|
+quaint|adjective|
+patronize|verb (used with object)|
+patio|noun|
+paddle|noun|
+mailman|noun|
+joyous|adjective|
+invincible|adjective|
+interpret|verb (used with object)|
+insecurity|noun|
+infamous|adjective|
+fragment|noun|
+exploit|noun|
+dusty|adjective|
+defy|verb (used with object)|
+coy|adjective|
+countless|adjective|
+conjure|verb (used with object)|
+confine|verb (used with object)|
+chateau|noun|
+blur|verb (used with object)|
+bleach|verb (used with object)|
+beck|noun|
+ban|verb (used with object)|
+backseat|noun|
+accomplishment|noun|
+wisely|adverb|
+wildlife|noun|
+valet|noun|
+vaccine|noun|
+unnatural|adjective|
+tasting|noun|
+secretive|adjective|
+screwdriver|noun|
+poorly|adverb|
+polling|noun|
+pedestal|noun|
+mystic|adjective|
+miniature|noun|
+microscope|noun|
+maple|noun|
+lantern|noun|
+infinite|adjective|
+incriminate|verb (used with object)|
+hygiene|noun|
+harp|noun|
+gage|noun|
+freight|noun|
+fore|adjective|
+flooding|noun|
+deacon|noun|
+cuter|Error|
+continental|adjective|
+container|noun|
+cavity|noun|
+Capricorn|noun|
+atomic|adjective|
+dumpling|noun|
+underage|adjective|
+tamper|verb (used without object)|
+statute|noun|
+sparkling|adjective|
+sod|noun|
+socially|adverb|
+sideline|noun|
+rhinoceros|noun|
+railing|noun|
+puberty|noun|
+phantom|noun|
+pesky|adjective|
+outrage|noun|
+nominate|verb (used with object)|
+itching|adjective|
+intuition|noun|
+icky|adjective|
+humility|noun|
+fishy|adjective|
+finch|noun|
+ferry|noun|
+excessive|adjective|
+evolve|verb (used with object)|
+eligible|adjective|
+dosage|noun|
+disrupt|verb (used with object)|
+dipping|Error|
+derange|verb (used with object)|
+cuckoo|noun|
+craziness|noun|
+compatible|adjective|
+circumstantial|adjective|
+bunker|noun|
+asthma|noun|
+arise|verb (used without object)|
+triad|noun|
+trashy|adjective|
+tilt|verb (used with object)|
+thorn|noun|
+suburban|adjective|
+soothing|adjective|
+slumber|verb (used without object)|
+slayer|noun|
+shindig|noun|
+sentiment|noun|
+riddance|noun|
+purity|noun|
+offshore|adverb|
+massacre|noun|
+isolation|noun|
+impersonal|adjective|
+hoop|noun|
+hamlet|noun|
+footprint|noun|
+fluke|noun|
+festivity|noun|
+feisty|adjective|
+evacuate|verb (used with object)|
+detain|verb (used with object)|
+defender|noun|
+creeping|noun|
+classics|plural noun|
+bud|noun|
+bitterness|noun|
+baloney|noun|
+ashtray|noun|
+apocalypse|noun|
+zillion|noun|
+wan|adjective|
+viable|adjective|
+sympathize|verb (used without object)|
+squirt|verb (used without object)|
+spade|noun|
+snappy|adjective|
+sleepover|noun|
+retainer|noun|
+restroom|noun|
+repercussion|noun|
+relive|verb (used with object)|
+reef|noun|
+reconciliation|noun|
+reconcile|verb (used with object)|
+recognise|Error|
+raven|noun|
+prevail|verb (used without object)|
+preach|verb (used with object)|
+omen|noun|
+noose|noun|
+meatloaf|noun|
+manicure|noun|
+landlady|noun|
+hypothesis|noun|
+homesick|adjective|
+hive|noun|
+hectic|adjective|
+heartbreak|noun|
+haunting|adjective|
+gall|noun|
+frown|verb (used without object)|
+fingerprint|noun|
+extract|verb (used with object)|
+expire|verb (used without object)|
+exhausting|adjective|
+exceptional|adjective|
+disregard|verb (used with object)|
+crisp|adjective|
+cooperative|adjective|
+cling|verb (used without object)|
+blender|noun|
+bitty|adjective|
+bead|noun|
+badger|noun|
+arch|noun|
+anticipation|noun|
+advocate|verb (used with object)|
+waterfront|noun|
+upstanding|adjective|
+unprofessional|adjective|
+unhealthy|adjective|
+turmoil|noun|
+truthful|adjective|
+toothpaste|noun|
+thoughtless|adjective|
+spun|verb|
+spook|noun|
+shady|adjective|
+senseless|adjective|
+scooter|noun|
+ringer|noun|
+refuge|noun|
+pun|noun|
+preposterous|adjective|
+portable|adjective|
+pastry|noun|
+loner|noun|
+jogging|noun|
+itchy|adjective|
+insinuate|verb (used with object)|
+hospitality|noun|
+forthcoming|adjective|
+excess|noun|
+etiquette|noun|
+ending|noun|
+edit|verb (used with object)|
+dunk|verb (used with object)|
+distinction|noun|
+desist|verb (used without object)|
+deprive|verb (used with object)|
+cloak|noun|
+casserole|noun|
+beaver|noun|
+bearer|noun|
+applaud|verb (used without object)|
+appalling|adjective|
+trump|noun|
+trench|noun|
+touchdown|noun|
+thaw|verb (used without object)|
+tailor|noun|
+swoop|verb (used without object)|
+sticker|noun|
+smite|verb (used with object)|
+shameless|adjective|
+reclaim|verb (used with object)|
+purposely|adverb|
+proxy|noun|
+pineapple|noun|
+parasite|noun|
+offspring|noun|
+multiply|verb (used with object)|
+masculine|adjective|
+hoax|noun|
+gunfire|noun|
+furnace|noun|
+flyer|noun|
+engrave|verb (used with object)|
+duplicate|noun|
+dome|noun|
+designate|verb (used with object)|
+delicatessen|noun|
+cryptic|adjective|
+creed|noun|
+condemn|verb (used with object)|
+colossal|adjective|
+clipper|noun|
+clarity|noun|
+banish|verb (used with object)|
+argon|noun|
+unicorn|noun|
+uncanny|adjective|
+treasury|noun|
+technicality|noun|
+static|adjective|
+scales|noun|
+satin|noun|
+rosebud|noun|
+relentless|adjective|
+rearrange|verb|
+plunge|verb (used with object)|
+obsolete|adjective|
+moth|noun|
+mindless|adjective|
+lullaby|noun|
+layout|noun|
+knob|noun|
+grown up|adjective|
+flashy|adjective|
+epic|adjective|
+encode|verb (used with object)|
+dread|verb (used with object)|
+doodle|verb (used with or without object)|
+dealing|noun|
+cupcake|noun|
+console|verb (used with object)|
+conclusive|adjective|
+bowel|noun|
+aura|noun|
+ape|noun|
+abide|verb (used without object)|
+wonderfully|adverb|
+warfare|noun|
+wad|noun|
+violate|verb (used with object)|
+suicidal|adjective|
+skilled|adjective|
+sketchy|adjective|
+quizmaster|noun|
+profitable|adjective|
+peck|verb (used with object)|
+needless|adjective|
+momentarily|adverb|
+midget|noun|
+mercury|noun|
+leukemia|noun|
+idol|noun|
+fungus|noun|
+extraction|noun|
+explorer|noun|
+eighty|noun|
+chimera|noun|
+cheery|adjective|
+cadet|noun|
+benign|adjective|
+artillery|noun|
+apiece|adverb|
+abduction|noun|
+virtual|adjective|
+unspeakable|adjective|
+unlimited|adjective|
+unidentified|adjective|
+twinkle|verb (used without object)|
+transcript|noun|
+temp|noun|
+surfing|noun|
+stricken|verb|
+stork|noun|
+sodium|noun|
+snick|verb (used with object)|
+sly|adjective|
+retrieval|noun|
+quickie|noun|
+playboy|noun|
+observer|noun|
+mope|verb (used without object)|
+moan|noun|
+mausoleum|noun|
+kangaroo|noun|
+intensive|adjective|
+infest|verb (used with object)|
+incompetence|noun|
+horrified|adjective|
+grunt|verb (used without object)|
+fracture|noun|
+formerly|adverb|
+fireball|noun|
+firearm|noun|
+fend|verb (used with object)|
+examiner|noun|
+elite|noun|
+duke|noun|
+dashing|adjective|
+curry|noun|
+crumb|noun|
+crash down|Error|
+courier|noun|
+conclude|verb (used with object)|
+cockroach|noun|
+boulevard|noun|
+bookie|noun|
+baptize|verb (used with object)|
+astronaut|noun|
+allegiance|noun|
+workplace|noun|
+weave|verb (used with object)|
+suffocate|verb (used with object)|
+stench|noun|
+stark|adjective|
+spawn|noun|
+sideway|noun|
+shortcut|noun|
+roam|verb (used without object)|
+repulsive|adjective|
+provoke|verb (used with object)|
+plum|noun|
+penitentiary|noun|
+norm|noun|
+milligram|noun|
+midge|noun|
+lapse|noun|
+knuckle|noun|
+intercourse|noun|
+improvise|verb (used with object)|
+implant|verb (used with object)|
+hometown|noun|
+handicap|noun|
+giddy|adjective|
+garland|noun|
+gallant|adjective|
+furry|adjective|
+fruitful|adjective|
+footing|noun|
+flop|verb (used without object)|
+finding|noun|
+fib|noun|
+editorial|noun|
+detour|noun|
+cuddle|verb (used with object)|
+cub|noun|
+coordinate|adjective|
+collector|noun|
+bane|noun|
+bailiff|noun|
+aching|adjective|
+woe|noun|
+usher|noun|
+typically|adverb|
+tug|verb (used with object)|
+topless|adjective|
+squid|noun|
+soy|noun|
+snowman|noun|
+sensor|noun|
+seller|noun|
+renown|noun|
+reflex|adjective|
+raisin|noun|
+racial|adjective|
+pyramid|noun|
+preservation|noun|
+portfolio|noun|
+pilgrim|noun|
+patriot|noun|
+oversight|noun|
+merciful|adjective|
+magistrate|noun|
+intimidating|adjective|
+infirmary|noun|
+inconvenient|adjective|
+godforsaken|adjective|
+funk|noun|
+forgery|noun|
+foolproof|adjective|
+folder|noun|
+flattery|noun|
+fingertip|noun|
+exterminator|noun|
+eccentric|adjective|
+dodgy|adjective|
+constructive|adjective|
+compartment|noun|
+bodily|adjective|
+armour|noun|
+alimony|noun|
+accustomed|adjective|
+wallow|verb (used without object)|
+vicinity|noun|
+venue|noun|
+upgrade|noun|
+upcoming|adjective|
+untrue|adjective|
+uncover|verb (used with object)|
+twig|noun|
+taunt|verb (used with object)|
+tar|noun|
+strand|verb (used with object)|
+seizure|noun|
+savvy|adjective|
+rile|verb (used with object)|
+revive|verb (used with object)|
+retard|verb (used with object)|
+recruit|noun|
+rationally|adverb|
+provenance|noun|
+prestigious|adjective|
+perky|adjective|
+pedal|noun|
+overdose|noun|
+nasal|adjective|
+mushy|adjective|
+mover|noun|
+moot|adjective|
+melodramatic|adjective|
+medic|noun|
+manure|noun|
+magnetic|adjective|
+knockout|noun|
+knitting|noun|
+idle|adjective|
+hotline|noun|
+hammock|noun|
+framing|noun|
+flap|verb (used without object)|
+flannel|noun|
+existing|adjective|
+eavesdrop|verb (used without object)|
+dwarf|noun|
+doggy|noun|
+constellation|noun|
+collision|noun|
+chic|adjective|
+bleak|adjective|
+batter|verb (used with object)|
+archer|noun|
+ante|noun|
+aggravate|verb (used with object)|
+vocal|adjective|
+unwind|verb (used with object)|
+twitch|verb (used with object)|
+taxpayer|noun|
+reinforce|verb (used with object)|
+dew|noun|
+dictation|noun|
+dilute|verb (used with object)|
+disintegrate|verb (used without object)|
+disposable|adjective|
+disqualify|verb (used with object)|
+dissolve|verb (used with object)|
+distinguish|verb (used with object)|
+doctrine|noun|
+dolphin|noun|
+dominant|adjective|
+dominate|verb (used with object)|
+downward|adverb|
+drench|verb (used with object)|
+dub|verb (used with object)|
+dynamic|adjective|
+earlobe|noun|
+ebony|noun|
+ecology|noun|
+elated|adjective|
+elitist|adjective|
+eloquent|adjective|
+emphasize|verb (used with object)|
+enjoyable|adjective|
+Fahrenheit|noun|
+flirtatious|adjective|
+gymnasium|noun|
+hallucinate|verb (used without object)|
+incorporate|verb (used with object)|
+increasingly|adverb|
+ivy|noun|
+jigsaw|noun|
+locomotive|noun|
+materialistic|adjective|
+parliamentary|adjective|
+parlour|noun|
+pastel|noun|
+precipitation|noun|
+predicate|noun|
+prediction|noun|
+prefecture|noun|
+procession|noun|
+prohibit|verb (used with object)|
+Protestant|noun|
+quotation|noun|
+realization|noun|
+recession|noun|
+recreation|noun|
+reorganize|verb (used with or without object)|
+repetitious|adjective|
+reproduction|noun|
+whereby|conjunction|
+saxophone|noun|
+scallion|noun|
+sesame|noun|
+aback|adverb|
+abash|verb (used with object)|
+abate|verb (used with object)|
+abdicate|verb (used without object)|
+abject|adjective|
+absolve|verb (used with object)|
+abstain|verb (used without object)|
+abundance|noun|
+acclaim|verb (used with object)|
+accrue|verb (used without object)|
+accuracy|noun|
+acerbity|noun|
+acorn|noun|
+acquit|verb (used with object)|
+acrid|adjective|
+adjacent|adjective|
+adjoin|verb (used with object)|
+admonish|verb (used with object)|
+adroit|adjective|
+adultery|noun|
+aerial|adjective|
+affinity|noun|
+affliction|noun|
+affront|noun|
+aghast|adjective|
+heather|noun|
+zap|verb (used with object)|
+zeal|noun|
+zoology|noun|
+yawn|verb (used without object)|
+yeast|noun|
+yolk|noun|
+yearn|verb (used without object)|
+wail|verb (used without object)|
+whet|verb (used with object)|
+whimper|verb (used without object)|
+whirlpool|noun|
+willow|noun|
+wistful|adjective|
+wistful|adjective|
+wreath|noun|
+wrest|verb (used with object)|
+wriggle|verb (used without object)|
+wry|adjective|
+vane|noun|
+vehemence|noun|
+vexation|noun|
+vivacious|adjective|
+voracious|adjective|
+udder|noun|
+up-to-date|adjective|
+tapestry|noun|
+tardy|adjective|
+thimble|noun|
+throng|noun|
+thump|noun|
+thwart|verb (used with object)|
+tinge|verb (used with object)|
+tinsel|noun|
+tongs|noun|
+topple|verb (used without object)|
+transgress|verb (used without object)|
+treble|adjective|
+trifle|noun|
+truant|noun|
+tumult|noun|
+twine|noun|
+alight|verb (used without object)|
+alignment|noun|
+alleviate|verb (used with object)|
+amiable|adjective|
+annihilate|verb (used with object)|
+antler|noun|
+arable|adjective|
+arid|adjective|
+asunder|adverb|
+audacious|adjective|
+augment|verb (used with object)|
+bayonet|noun|
+beehive|noun|
+beseech|verb (used with object)|
+besiege|verb (used with object)|
+bile|noun|
+blemish|verb (used with object)|
+blunder|noun|
+boisterous|adjective|
+bough|noun|
+brazen|adjective|
+brevity|noun|
+bristle|noun|
+brittle|adjective|
+broth|noun|
+buck|noun|
+buckle|noun|
+callous|adjective|
+caprize|Error|
+caraway|noun|
+cloister|noun|
+coexist|verb (used without object)|
+confound|verb (used with object)|
+countenance|noun|
+covetous|adjective|
+cower|verb (used without object)|
+crag|noun|
+crevice|noun|
+crutch|noun|
+cumbersome|adjective|
+daub|verb (used with object)|
+decadence|noun|
+den|noun|
+depict|verb (used with object)|
+depot|noun|
+depreciate|verb (used with object)|
+derivative|adjective|
+destitute|adjective|
+deterrent|adjective|
+devaluation|noun|
+devise|verb (used with object)|
+devoid|adjective|
+devour|verb (used with object)|
+devout|adjective|
+diffident|adjective|
+digress|verb (used without object)|
+dimple|noun|
+din|noun|
+disarm|verb (used with object)|
+discern|verb (used with object)|
+discontent|adjective|
+discord|noun|
+disdain|verb (used with object)|
+disembark|verb (used without object)|
+disfigure|verb (used with object)|
+dishearten|verb (used with object)|
+dishonour|verb|
+disillusion|verb (used with object)|
+disinterested|adjective|
+dismantle|verb (used with object)|
+dismount|verb (used without object)|
+dispense|verb (used with object)|
+disperse|verb (used with object)|
+displace|verb (used with object)|
+displease|verb (used with object)|
+disquiet|noun|
+dissipate|verb (used with object)|
+distil|verb (used with or without object)|
+distort|verb (used with object)|
+distrust|verb (used with object)|
+diverge|verb (used without object)|
+doleful|adjective|
+droop|verb (used without object)|
+dropper|noun|
+drudgery|noun|
+drunkard|noun|
+dual|adjective|
+dubious|adjective|
+dummy|noun|
+dune|noun|
+dung|noun|
+durable|adjective|
+edifice|noun|
+eel|noun|
+efface|verb (used with object)|
+effeminate|adjective|
+efficacious|adjective|
+Egyptian|adjective|
+elapse|verb (used without object)|
+elegance|noun|
+elk|noun|
+elusive|adjective|
+embezzlement|Example Sentences|
+emblem|noun|
+embody|verb (used with object)|
+embryo|noun|
+emigrant|noun|
+eminence|noun|
+emit|verb (used with object)|
+emptiness|noun|
+enact|verb (used with object)|
+enamel|noun|
+encircle|verb (used with object)|
+enclose|verb (used with object)|
+encroach|verb (used without object)|
+encumber|verb (used with object)|
+endeavour|verb|
+endurance|noun|
+enlist|verb (used without object)|
+enliven|verb (used with object)|
+enmity|noun|
+enrage|verb (used with object)|
+enrapture|verb (used with object)|
+ensue|verb (used without object)|
+entangle|verb (used with object)|
+entice|verb (used with object)|
+entrails|plural noun|
+entreat|verb (used with object)|
+entrust|verb (used with object)|
+enumerate|verb (used with object)|
+enviable|adjective|
+envoy|noun|
+epoch|noun|
+equanimity|noun|
+equilibrium|noun|
+eradicate|verb (used with object)|
+evade|verb (used with object)|
+evaporate|verb (used without object)|
+ewe|noun|
+exalt|verb (used with object)|
+excursion|noun|
+exemplify|verb (used with object)|
+expulsion|noun|
+exaltation|noun|
+falter|verb (used without object)|
+feign|verb (used with object)|
+ferment|noun|
+fern|noun|
+fervent|adjective|
+feud|noun|
+fidelity|noun|
+fidget|verb (used without object)|
+fiery|adjective|
+Finnish|noun|
+flax|noun|
+fleeting|adjective|
+flicker|verb (used without object)|
+flimsy|adjective|
+flippant|adjective|
+flint|noun|
+flog|verb (used with object)|
+flounder|verb (used without object)|
+flutter|verb (used without object)|
+fodder|noun|
+foe|noun|
+folly|noun|
+forbear|verb (used with object)|
+forefather|noun|
+forestall|verb (used with object)|
+formidable|adjective|
+forsake|verb (used with object)|
+fowl|noun|
+frail|adjective|
+frantic|adjective|
+freckless|Error|
+frock|noun|
+frontier|noun|
+froth|noun|
+frugal|adjective|
+furrow|noun|
+furtively|adverb|
+gaiety|noun|
+gallop|verb (used without object)|
+gargle|verb (used without object)|
+gaunt|adjective|
+gauntlet|noun|
+gauze|noun|
+gelatine|noun|
+gem|noun|
+genial|adjective|
+germinate|verb (used without object)|
+ghastly|adjective|
+giddiness|noun|
+gland|noun|
+glaze|verb (used with object)|
+gleam|noun|
+glide|verb (used without object)|
+glimmer|noun|
+glisten|verb (used without object)|
+glitter|verb (used without object)|
+glorify|verb (used with object)|
+gnaw|verb (used with object)|
+granary|noun|
+granite|noun|
+granulated|Error|
+gratification|noun|
+grating|noun|
+gravitation|noun|
+graze|verb (used without object)|
+grimace|noun|
+grit|noun|
+gruff|adjective|
+grumble|verb (used without object)|
+gulp|verb (used without object)|
+gurgle|verb (used without object)|
+gush|verb (used without object)|
+haberdashery|noun|
+haemorrhage|noun|
+haggard|adjective|
+harmonious|adjective|
+harrow|noun|
+haughty|adjective|
+haunch|noun|
+hazy|adjective|
+heartburn|noun|
+heathen|noun|
+hem|verb (used with object)|
+hinge|noun|
+hiss|verb (used without object)|
+hoard|noun|
+hoarfrost|noun|
+hoof|noun|
+hosiery|noun|
+howl|verb (used without object)|
+hue|noun|
+husk|noun|
+immovable|adjective|
+impediment|noun|
+impel|verb (used with object)|
+impending|adjective|
+imperial|adjective|
+impertinent|adjective|
+imperturbable|adjective|
+impetus|noun|
+implore|verb (used with object)|
+improper|adjective|
+impunity|noun|
+inability|noun|
+inadequate|adjective|
+inadmissible|adjective|
+inborn|adjective|
+inconceivable|adjective|
+inconsistency|noun|
+indebted|adjective|
+indecision|noun|
+indefinite|adjective|
+indignant|adjective|
+indispensable|adjective|
+indisputable|adjective|
+indistinct|adjective|
+ineffective|adjective|
+inefficient|adjective|
+inert|adjective|
+inestimable|adjective|
+inexhaustible|adjective|
+inexorable|adjective|
+infallible|adjective|
+infatuated|adjective|
+infer|verb (used with object)|
+inferior|adjective|
+inflate|verb (used with object)|
+influx|noun|
+infringement|noun|
+infuriate|verb (used with object)|
+ingratitude|noun|
+injunction|noun|
+inopportune|adjective|
+insoluble|adjective|
+intrepid|adjective|
+involuntary|adjective|
+iodine|noun|
+irksome|adjective|
+irreproachable|adjective|
+irrigate|verb (used with object)|
+jack-knife|Error|
+jagged|adjective|
+javelin|noun|
+jeer|verb (used without object)|
+jest|noun|
+jolt|verb (used with object)|
+jovial|adjective|
+judicious|adjective|
+jut|verb (used without object)|
+keel|noun|
+kernel|noun|
+kindle|verb (used with object)|
+know-how|noun|
+lacquer|noun|
+laden|adjective|
+ladle|noun|
+lag|verb (used without object)|
+lame|adjective|
+lament|verb (used with object)|
+lash|noun|
+latch|noun|
+lathe|noun|
+lather|noun|
+laurel|noun|
+lavender|noun|
+levy|noun|
+lilac|noun|
+lime-tree|noun|
+linger|verb (used without object)|
+locust|noun|
+loin|noun|
+louse|noun|
+lubricant|noun|
+lukewarm|adjective|
+lull|verb (used with object)|
+luminous|adjective|
+luscious|adjective|
+lustre|noun|
+luxuriant|adjective|
+magpie|noun|
+maim|verb (used with object)|
+malt|noun|
+mammoth|noun|
+mane|noun|
+manuscript|noun|
+marten|noun|
+mast|noun|
+meek|adjective|
+melon|noun|
+militant|adjective|
+mimic|verb (used with object)|
+mince|verb (used with object)|
+mirth|noun|
+mitten|noun|
+morsel|noun|
+montley|Error|
+muffle|verb (used with object)|
+mulberry|noun|
+mumble|verb (used without object)|
+mural|noun|
+musty|adjective|
+mutilate|verb (used with object)|
+muzzle|noun|
+nautical|adjective|
+neigh|verb (used without object)|
+nettle|noun|
+niche|noun|
+nimble|adjective|
+nominal|adjective|
+noncommittal|adjective|
+nondescript|adjective|
+nook|noun|
+notwithstanding|preposition|
+oblique|adjective|
+oblong|adjective|
+oppress|verb (used with object)|
+ostentatious|adjective|
+otter|noun|
+quail|noun|
+quaver|verb (used without object)|
+quay|noun|
+quiver|verb (used with or without object)|
+paltry|adjective|
+pang|noun|
+pansy|noun|
+pant|verb (used without object)|
+parch|verb (used with object)|
+pare|verb (used with object)|
+parish|noun|
+parson|noun|
+partition|noun|
+patter|verb (used without object)|
+patty|noun|
+peal|noun|
+pebble|noun|
+penal|adjective|
+pendulum|noun|
+pensive|adjective|
+peppermint|noun|
+perch|noun|
+perplex|verb (used with object)|
+persecute|verb (used with object)|
+perverse|adjective|
+phonebooth|Error|
+physique|noun|
+pimple|noun|
+pitfall|noun|
+plaice|noun|
+plaid|noun|
+plaintiff|noun|
+plait|noun|
+pleat|noun|
+plentiful|adjective|
+pliable|adjective|
+plight|noun|
+plod|verb (used without object)|
+plunder|verb (used with object)|
+plywood|noun|
+polarity|noun|
+ponder|verb (used without object)|
+poplar|noun|
+posterity|noun|
+potter|noun|
+pouch|noun|
+pounce|verb (used without object)|
+pout|verb (used without object)|
+prelude|noun|
+prerogative|noun|
+pretence|noun|
+pretext|noun|
+prism|noun|
+prologue|noun|
+propel|verb (used with object)|
+proprietary|adjective|
+proprietor|noun|
+provocation|noun|
+pulp|noun|
+pulverize|verb (used with object)|
+pungent|adjective|
+purr|verb (used without object)|
+ragged|adjective|
+rake|noun|
+ram|noun|
+rascal|noun|
+ravage|verb (used with object)|
+reap|verb (used with object)|
+rebuff|noun|
+rebuke|verb (used with object)|
+recline|verb (used without object)|
+recognition|noun|
+recompense|verb (used with object)|
+reconnaissance|noun|
+refrain|verb (used without object)|
+refutation|noun|
+regent|noun|
+rejoice|verb (used without object)|
+relinquish|verb (used with object)|
+remittance|noun|
+rend|verb (used with object)|
+repent|verb (used without object)|
+repress|verb (used with object)|
+reprimand|noun|
+reproach|verb (used with object)|
+reproof|noun|
+resolute|adjective|
+resound|verb (used without object)|
+respite|noun|
+restoration|noun|
+resurrection|noun|
+retaliate|verb (used without object)|
+reticence|noun|
+retinue|noun|
+retort|verb (used with object)|
+rhubarb|noun|
+rift|noun|
+rite|noun|
+rivet|noun|
+roe|noun|
+romp|verb (used without object)|
+rook|noun|
+rouse|verb (used with object)|
+rove|verb (used without object)|
+rowan|noun|
+rudder|noun|
+ruffian|noun|
+rumble|verb (used without object)|
+rummage|verb (used with object)|
+rustic|adjective|
+rustle|verb (used without object)|
+rut|noun|
+sable|noun|
+sacrament|noun|
+sag|verb (used without object)|
+sagacious|adjective|
+sardine|noun|
+satire|noun|
+scaffolding|noun|
+scald|verb (used with object)|
+scanty|adjective|
+scorch|verb (used with object)|
+scoundrel|noun|
+scowl|verb (used without object)|
+scribble|verb (used with object)|
+scrupulous|adjective|
+scythe|noun|
+seclude|verb (used with object)|
+seethe|verb (used without object)|
+semblance|noun|
+sequel|noun|
+shaggy|adjective|
+shear|verb (used with object)|
+sherry|noun|
+shingle|noun|
+shrill|adjective|
+shrivel|verb (used with or without object)|
+shrub|noun|
+shudder|verb (used without object)|
+shuffle|verb (used without object)|
+shun|verb (used with object)|
+sickle|noun|
+siege|noun|
+sift|verb (used with object)|
+sill|noun|
+silliness|noun|
+sinew|noun|
+singe|verb (used with object)|
+skipper|noun|
+skirmish|noun|
+sluice|noun|
+slush|noun|
+smother|verb (used with object)|
+smoulder|verb (used without object)|
+snarl|verb (used without object)|
+sneer|verb (used without object)|
+snort|verb (used without object)|
+snout|noun|
+snug|adjective|
+solder|noun|
+soloist|noun|
+soluble|adjective|
+spatter|verb (used with object)|
+spectrum|noun|
+spinach|noun|
+spittle|noun|
+splinter|noun|
+squeak|noun|
+stagger|verb (used without object)|
+standpoint|noun|
+staunch|adjective|
+steed|noun|
+steeple|noun|
+steppe|noun|
+sterile|adjective|
+steward|noun|
+stifle|verb (used with object)|
+stipulate|verb (used without object)|
+stocking|noun|
+stoker|noun|
+stout|adjective|
+stow|verb (used with object)|
+strenuous|adjective|
+strew|verb (used with object)|
+stripe|noun|
+strive|verb (used without object)|
+stubble|noun|
+stump|noun|
+stupendous|adjective|
+sturdy|adjective|
+stutter|verb (used with or without object)|
+subdivide|verb (used with object)|
+subside|verb (used without object)|
+subsist|verb (used without object)|
+substance|noun|
+suede|noun|
+sulk|verb (used without object)|
+sullen|adjective|
+sultry|adjective|
+sumptuous|adjective|
+sunken|adjective|
+superfluous|adjective|
+superintend|verb (used with object)|
+superintendent|noun|
+supersede|verb (used with object)|
+supplant|verb (used with object)|
+supple|adjective|
+suppress|verb (used with object)|
+surmise|verb (used with object)|
+surmount|verb (used with object)|
+swarthy|adjective|
+sway|verb (used without object)|
+swerve|verb (used without object)|
+swindle|verb (used with object)|
+swine|noun|
+synthesis|noun|
+zealot|noun|
+zealous|adjective|
+zenith|noun|
+zigzag|noun|
+zodiac|noun|
+yank|verb (used with or without object)|
+yap|verb (used without object)|
+yelp|verb (used without object)|
+yoke|noun|
+yowl|verb (used without object)|
+abattoir|noun|
+abattoir|noun|
+abbot|noun|
+abed|adverb|
+abberance|Error|
+abberant|Error|
+abet|verb (used with object)|
+abhor|verb (used with object)|
+abhorrence|noun|
+abhorrent|adjective|
+abjection|noun|
+abjure|verb (used with object)|
+ablative|adjective|
+ablaze|adjective|
+able-bodied|adjective|
+ably|adverb|
+abnegate|verb (used with object)|
+abnegation|noun|
+abnormality|noun|
+aboninable|Error|
+abonnement|Error|
+aboriginal|adjective|
+aborigines|plural noun|
+abortive|adjective|
+above-average|Error|
+aboveboard|adverb|
+abrasive|noun|
+abreast|adverb|
+abridge|verb (used with object)|
+absently|adverb|
+absolution|noun|
+absorbing|adjective|
+abyss|noun|
+accede|verb (used without object)|
+acceleration|noun|
+accolade|noun|
+accommodating|adjective|
+accompaniment|noun|
+accordance|noun|
+accredited|adjective|
+accuser|noun|
+acheless|Error|
+achy|adjective|
+acne|noun|
+acquisition|noun|
+actual|adjective|
+adaptation|noun|
+addressee|noun|
+adept|adjective|
+adherence|noun|
+admiration|noun|
+admonishment|noun|
+ado|noun|
+adornment|noun|
+adulate|verb (used with object)|
+adulatory|adjective|
+adulthood|noun|
+advancement|noun|
+adverse|adjective|
+adversity|noun|
+advisedly|adverb|
+advocacy|noun|
+affable|adjective|
+affluence|noun|
+affluent|adjective|
+afloat|adverb|
+afterthought|noun|
+aggregate|adjective|
+agreeable|adjective|
+ail|verb (used with object)|
+ailment|noun|
+aimless|adjective|
+air-condition|verb (used with object)|
+airless|adjective|
+air-tight|Error|
+airy|adjective|
+akin|adjective|
+alacrity|noun|
+albeit|conjunction|
+alcove|noun|
+allay|verb (used with object)|
+allocate|verb (used with object)|
+all-purpose|adjective|
+allure|verb (used with object)|
+aloof|adverb|
+alteration|noun|
+ambient|adjective|
+ambiguity|noun|
+amenity|noun|
+amoral|adjective|
+amorphous|adjective|
+amplify|verb (used with object)|
+amplitude|noun|
+anchovy|noun|
+angrily|adverb|
+anguish|noun|
+angular|adjective|
+annotation|noun|
+anoitment|Error|
+antagonize|verb (used with object)|
+antarctic|adjective|
+antecedent|adjective|
+antenna|noun|
+anteroom|noun|
+antisocial|adjective|
+antiterrorist|adjective|
+apathy|noun|
+aplenty|adjective|
+apostrophe|noun|
+appal|verb (used with object)|
+appellation|noun|
+append|verb (used with object)|
+appetizing|adjective|
+applicant|noun|
+appraisal|noun|
+approbation|noun|
+aptitude|noun|
+aptly|adverb|
+archaic|adjective|
+archery|noun|
+archly|adverb|
+ardently|adverb|
+arduous|adjective|
+armament|noun|
+armature|noun|
+armless|adjective|
+armory|noun|
+array|verb (used with object)|
+articulate|adjective|
+artless|adjective|
+artsy|adjective|
+ascension|noun|
+ashy|adjective|
+askew|adverb|
+asperity|noun|
+aspirant|noun|
+assail|verb (used with object)|
+assort|verb (used with object)|
+assortment|noun|
+assuage|verb (used with object)|
+assumptive|adjective|
+astound|verb (used with object)|
+atonement|noun|
+atrocity|noun|
+attachment|noun|
+attentive|adjective|
+attenuate|verb (used with object)|
+attest|verb (used with object)|
+attestation|noun|
+attire|verb (used with object)|
+attrition|noun|
+attune|verb (used with object)|
+aubergine|noun|
+audacity|noun|
+auditory|adjective|
+auspice|noun|
+avenge|verb (used with object)|
+avert|verb (used with object)|
+avid|adjective|
+avouch|verb (used with object)|
+avow|verb (used with object)|
+aweless|adjective|
+axis|noun|
+backache|noun|
+baggy|adjective|
+bagpipe|noun|
+balk|verb (used without object)|
+ballot|noun|
+banal|adjective|
+banter|noun|
+baseless|adjective|
+bashful|adjective|
+basin|noun|
+bask|verb (used without object)|
+bazaar|noun|
+beastly|adjective|
+beautify|verb (used with or without object)|
+bedding|noun|
+bedevil|verb (used with object)|
+bedridden|adjective|
+beefy|adjective|
+befriend|verb (used with object)|
+beggarly|adjective|
+begrudge|verb (used with object)|
+bellow|verb (used without object)|
+benefactor|noun|
+benevolence|noun|
+benevolent|adjective|
+benignity|noun|
+berth|noun|
+berth|noun|
+beset|verb (used with object)|
+bestial|adjective|
+bestiality|noun|
+bestow|verb (used with object)|
+bewitch|verb (used with object)|
+big-hearted|adjective|
+bigot|noun|
+bilingual|adjective|
+bite-size|adjective|
+blackcurrant|noun|
+blackness|noun|
+blameless|adjective|
+blare|verb (used without object)|
+blaspheme|verb (used with object)|
+blindly|adverb|
+blindness|noun|
+blissful|adjective|
+bloat|verb (used with object)|
+blotch|noun|
+blubber|noun|
+bluffy|Error|
+bluish|adjective|
+bluster|verb (used without object)|
+boastful|adjective|
+bog|noun|
+bookcase|noun|
+bookworm|noun|
+borough|noun|
+braid|verb (used with object)|
+brainless|adjective|
+brainpower|noun|
+brand-new|adjective|
+brash|adjective|
+brilliance|noun|
+brother-in-law|noun|
+brute|noun|
+built-in|adjective|
+bystander|noun|
+calumny|noun|
+candour|noun|
+capacious|adjective|
+captivate|verb (used with object)|
+carbohydrate|noun|
+carbon|noun|
+carious|adjective|
+carnivorous|adjective|
+cast iron|noun|
+catchy|adjective|
+cater|verb (used without object)|
+cattish|adjective|
+caw|noun|
+ceasless|Error|
+ceramic|adjective|
+chafe|verb (used with object)|
+chagrin|noun|
+chancy|adjective|
+changeable|adjective|
+changeless|adjective|
+chastise|verb (used with object)|
+chastisement|noun|
+chatterbox|noun|
+cheapen|verb (used with object)|
+cheerless|adjective|
+chestnut|noun|
+childbirth|noun|
+churchyard|noun|
+circular|adjective|
+circumscribe|verb (used with object)|
+circumvent|verb (used with object)|
+civic|adjective|
+clack|verb (used without object)|
+clairvoyant|adjective|
+cleave|verb (used without object)|
+cleaver|noun|
+cleft|noun|
+clemency|noun|
+clement|adjective|
+clergy|noun|
+clergyman|noun|
+climax|noun|
+clinch|verb (used with object)|
+cloakroom|noun|
+clog|verb (used with object)|
+closeness|noun|
+cloudless|adjective|
+clout|noun|
+cluster|noun|
+clutter|verb (used with object)|
+cockpit|noun|
+coefficient|noun|
+cogitate|verb (used without object)|
+cognate|adjective|
+cognizance|noun|
+cognizance|noun|
+cohabit|verb (used without object)|
+cohere|verb (used without object)|
+cohort|noun|
+colander|noun|
+collateral|noun|
+collective|adjective|
+collide|verb (used without object)|
+comely|adjective|
+commandment|noun|
+commemorate|verb (used with object)|
+commiserate|verb (used without object)|
+compulsion|noun|
+concealment|noun|
+concede|verb (used with object)|
+concourse|noun|
+concourse|noun|
+concur|verb (used without object)|
+concur|verb (used without object)|
+concur|verb (used without object)|
+concurrence|noun|
+condiment|noun|
+condole|verb (used without object)|
+conductive|adjective|
+congest|verb (used with object)|
+congestion|noun|
+congruous|adjective|
+connate|adjective|
+consecution|noun|
+conserve|verb (used with object)|
+cosign|verb (used with or without object)|
+constrict|verb (used with object)|
+contagion|noun|
+contaminate|verb (used with object)|
+contemn|verb (used with object)|
+convene|verb (used without object)|
+cookery|noun|
+corpulent|adjective|
+cordial|adjective|
+cornflower|noun|
+correspondence|noun|
+correlation|noun|
+credulity|noun|
+crimpy|adjective|
+culinary|adjective|
+dashboard|noun|
+daughter-in-law|noun|
+daunt|verb (used with object)|
+dauntless|adjective|
+Daydream|noun|
+daydream|noun|
+debark|verb (used with or without object)|
+debatable|adjective|
+debauch|verb (used with object)|
+decimal|adjective|
+decisive|adjective|
+decoction|noun|
+decompose|verb (used with object)|
+decree|noun|
+deem|verb (used without object)|
+deep-rooted|adjective|
+deface|verb (used with object)|
+deference|noun|
+deficit|noun|
+deliquency|Error|
+demeanour|noun|
+demolition|noun|
+demote|verb (used with object)|
+denote|verb (used with object)|
+denounce|verb (used with object)|
+density|noun|
+denunciation|noun|
+depart|verb (used without object)|
+deplete|verb (used with object)|
+deprave|verb (used with object)|
+derelict|adjective|
+detestable|adjective|
+dietary|adjective|
+diffuse|verb (used with object)|
+digestive|adjective|
+dignify|verb (used with object)|
+dike|noun|
+dilapidation|noun|
+dill|noun|
+dilution|noun|
+diminution|noun|
+dingy|adjective|
+dipping|Error|
+dirtiness|adjective|
+disability|noun|
+disarray|verb (used with object)|
+disavow|verb (used with object)|
+discernible|adjective|
+disciplinary|adjective|
+discourse|noun|
+discourteous|adjective|
+discrepancy|noun|
+disembody|verb (used with object)|
+disembroil|verb (used with object)|
+dish-water|Error|
+disingenuous|adjective|
+disinherit|verb (used with object)|
+disloyal|adjective|
+dismay|verb (used with object)|
+disobey|verb (used with or without object)|
+disparage|verb (used with object)|
+disparity|noun|
+disprove|verb (used with object)|
+disreputable|adjective|
+dissemble|verb (used with object)|
+dissimilar|adjective|
+distasteful|adjective|
+distraction|noun|
+diverse|adjective|
+diverse|adjective|
+divert|verb (used with object)|
+divinity|noun|
+doable|adjective|
+doer|noun|
+dog-collar|noun|
+domain|noun|
+doormant|Error|
+draught|noun|
+drawback|noun|
+earlap|noun|
+earthy|adjective|
+eatable|adjective|
+easygoing|adjective|
+edacity|noun|
+edacious|adjective|
+efforless|Error|
+ejection|noun|
+elemental|adjective|
+emasculate|verb (used with object)|
+embitter|verb (used with object)|
+embodiment|noun|
+eminent|adjective|
+emulate|verb (used with object)|
+encase|verb (used with object)|
+endorsement|noun|
+enfold|verb (used with object)|
+enigma|noun|
+ensign|noun|
+enthrone|verb (used with object)|
+equality|noun|
+equity|noun|
+erratic|adjective|
+espionage|noun|
+estrange|verb (used with object)|
+eventful|adjective|
+evergreen|adjective|
+evoke|verb (used with object)|
+exasperate|verb (used with object)|
+excavate|verb (used with object)|
+exclusion|noun|
+excrete|verb (used with object)|
+excruciation|noun|
+exemplar|noun|
+facile|adjective|
+facultative|adjective|
+fad|noun|
+fairness|noun|
+faithless|adjective|
+falsify|verb (used with object)|
+far-fetched|adjective|
+father-in-law|noun|
+faultless|adjective|
+fearsome|adjective|
+feasible|adjective|
+feint|noun|
+fell|verb|
+fellowship|noun|
+fen|noun|
+fervid|adjective|
+fetid|adjective|
+feudal|adjective|
+fickle|adjective|
+finesse|noun|
+fire-extinguisher|noun|
+firstly|adverb|
+fitful|adjective|
+fixture|noun|
+fizzy|adjective|
+flabby|adjective|
+flamboyant|adjective|
+flank|noun|
+flatly|adverb|
+fleck|noun|
+flex|verb (used with object)|
+floral|adjective|
+fluency|noun|
+flurry|noun|
+foggy|adjective|
+foetus|noun|
+foil|verb (used with object)|
+follower|noun|
+fondle|verb (used with object)|
+fondness|noun|
+footwear|noun|
+forceful|adjective|
+forearm|noun|
+foresee|verb (used with object)|
+foresight|noun|
+foretaste|noun|
+forgetful|adjective|
+forum|noun|
+foster-child|noun|
+frigility|Error|
+fraudulent|adjective|
+freelance|adjective|
+frivolous|adjective|
+frizz|verb (used with or without object)|
+frontage|noun|
+frugality|noun|
+fruitless|adjective|
+gabble|verb (used without object)|
+gaily|adverb|
+gainful|adjective|
+gateway|noun|
+gaudy|adjective|
+gist|noun|
+glare|noun|
+gleeful|adjective|
+glossary|noun|
+glum|adjective|
+glutton|noun|
+gluttony|noun|
+goblet|noun|
+godless|adjective|
+goggle|noun|
+gorge|noun|
+gossipy|adjective|
+governess|noun|
+graceless|adjective|
+grate|noun|
+groin|noun|
+groundless|adjective|
+growl|verb (used without object)|
+grub|noun|
+gruel|noun|
+hailstone|noun|
+hairdresser|noun|
+half-baked|adjective|
+half-brother|noun|
+half-moon|noun|
+half-time|noun|
+half-year|noun|
+halve|verb (used with object)|
+hamper|verb (used with object)|
+handgrip|noun|
+handicraft|noun|
+hangnail|noun|
+hard-boiled|adjective|
+harden|verb (used with object)|
+hardily|adverb|
+hardness|noun|
+hardship|noun|
+hare|noun|
+headlight|noun|
+headphone|noun|
+heady|adjective|
+heartily|adverb|
+heedless|adjective|
+heiress|noun|
+heirloom|noun|
+hermic|Error|
+hibernate|verb (used without object)|
+hiccup|noun|
+hindrance|noun|
+hindsight|noun|
+hireling|noun|
+hobble|verb (used without object)|
+housemaid|noun|
+hugely|adverb|
+humankind|noun|
+humid|adjective|
+husky|adjective|
+hysteria|noun|
+icily|adverb|
+icon|noun|
+illegible|adjective|
+illegimate|Error|
+illicit|adjective|
+illusive|adjective|
+imbue|verb (used with object)|
+immaculate|adjective|
+immensely|adverb|
+immerse|verb (used with object)|
+impassable|adjective|
+imperfect|adjective|
+impetuous|adjective|
+impish|adjective|
+implacable|adjective|
+impregnable|adjective|
+imprint|noun|
+inaction|noun|
+inadequacy|noun|
+inane|adjective|
+inapptitude|Error|
+inattentive|adjective|
+indelicate|adjective|
+indicator|noun|
+indigenous|adjective|
+indiscreet|adjective|
+indulgence|noun|
+inedible|adjective|
+inept|adjective|
+inexpedient|adjective|
+inexperienced|adjective|
+inexplicable|adjective|
+inextricable|adjective|
+infertile|adjective|
+inflammable|adjective|
+infractructure|Error|
+inhibit|verb (used with object)|
+inhospitable|adjective|
+inset|noun|
+intrusive|adjective|
+invoke|verb (used with object)|
+invulnerable|adjective|
+irradiate|verb (used with object)|
+irritable|adjective|
+jaguar|noun|
+jangle|verb (used without object)|
+jargon|noun|
+jaunty|adjective|
+jobless|adjective|
+joggle|verb (used with object)|
+joyful|adjective|
+juxtapose|verb (used with object)|
+juxtaposition|noun|
+kerb|noun|
+keyhole|noun|
+keynote|noun|
+knead|verb (used with object)|
+lacerate|verb (used with object)|
+lacy|adjective|
+lagoon|noun|
+lanentable|Error|
+lamppost|noun|
+lamp-shade|Error|
+lance|noun|
+landfall|noun|
+landmark|noun|
+languid|adjective|
+lank|adjective|
+lardy|adjective|
+lascivious|adjective|
+lassitude|noun|
+latent|adjective|
+lax|adjective|
+laxative|noun|
+leap year|noun|
+leaseholder|noun|
+legalize|verb (used with object)|
+leggy|adjective|
+lenient|adjective|
+levity|noun|
+libellous|adjective|
+likelihood|noun|
+limelight|noun|
+limelight|noun|
+limitless|adjective|
+lineal|adjective|
+linear|adjective|
+lioness|noun|
+liquidate|verb (used with object)|
+lisp|noun|
+listless|adjective|
+literacy|noun|
+lithe|adjective|
+livestock|noun|
+locus|noun|
+lollipop|noun|
+loom|noun|
+loot|noun|
+lozenge|noun|
+lucent|adjective|
+lucidity|noun|
+lackless|Error|
+lucrative|adjective|
+lumpy|adjective|
+magnanimity|noun|
+majestic|adjective|
+malicious|adjective|
+marshy|adjective|
+mediocre|adjective|
+mercenary|adjective|
+mermaid|noun|
+merriment|noun|
+mesh|noun|
+mesmerize|verb (used with object)|
+middle-aged|adjective|
+midland|noun|
+midsummer|noun|
+midwife|noun|
+migration|noun|
+migrant|adjective|
+mileage|noun|
+milestone|noun|
+minder|noun|
+mindless|adjective|
+minefield|noun|
+misfire|verb (used without object)|
+misfortune|noun|
+mishandle|verb (used with object)|
+mislead|verb (used with object)|
+misspell|verb (used with or without object)|
+mole|noun|
+mussel|noun|
+mutinous|adjective|
+nameless|adjective|
+namely|adverb|
+namesake|noun|
+naval|adjective|
+navel|noun|
+navigate|verb (used with object)|
+nebulous|adjective|
+needful|adjective|
+negate|verb (used with object)|
+negation|noun|
+negligence|noun|
+negligent|adjective|
+neighbourly|adjective|
+nestle|verb (used without object)|
+neutrality|noun|
+nightfall|noun|
+nightingale|noun|
+noiseless|adjective|
+nomad|noun|
+nomad|noun|
+nonchalance|noun|
+nonpareil|adjective|
+nosebleed|noun|
+notability|noun|
+notary|noun|
+notoriety|noun|
+nudge|verb (used with object)|
+nurture|verb (used with object)|
+nutmeg|noun|
+nutrient|adjective|
+obdurate|adjective|
+obedience|noun|
+objectless|adjective|
+obliterate|verb (used with object)|
+obscenity|noun|
+observance|noun|
+obsess|verb (used with object)|
+obstinate|adjective|
+obtrusive|adjective|
+occult|adjective|
+occupant|noun|
+occurrence|noun|
+octopus|noun|
+offender|noun|
+offset|noun|
+old-fashioned|noun|
+ominous|adjective|
+omnipotent|adjective|
+omnipresent|adjective|
+oncoming|adjective|
+onefold|adjective|
+onerous|adjective|
+open-air|noun|
+open-minded|adjective|
+opinionated|adjective|
+opinionated|adjective|
+oppression|noun|
+orb|noun|
+ostensible|adjective|
+outbalance|verb (used with object)|
+outbid|verb (used with object)|
+outbreak|noun|
+outburst|noun|
+outlay|noun|
+outmatch|verb (used with object)|
+outnumber|verb (used with object)|
+outright|adjective|
+outset|noun|
+outskirts|plural noun|
+overjoyed|adjective|
+overlap|verb (used with object)|
+overlive|verb|
+oversleep|verb (used without object)|
+overweight|adjective|
+oxide|noun|
+pacify|verb (used with object)|
+palette|noun|
+pallor|noun|
+palmful|Error|
+palpable|adjective|
+palpate|verb (used with object)|
+palsy|noun|
+pancreas|noun|
+parable|noun|
+parity|noun|
+parquet|noun|
+parting|noun|
+passable|adjective|
+paternal|adjective|
+patronage|noun|
+pavilion|noun|
+peachy|adjective|
+pectoral|adjective|
+peculiarity|noun|
+peephole|noun|
+peerless|adjective|
+peevish|adjective|
+pelt|verb (used with object)|
+pendulous|adjective|
+penitence|noun|
+penitent|adjective|
+penniless|adjective|
+pensioner|noun|
+peppery|adjective|
+percussive|adjective|
+peremptory|adjective|
+perennial|adjective|
+perfunctory|adjective|
+periodic|adjective|
+permissive|adjective|
+perpetrate|verb (used with object)|
+perpetrator|noun|
+persevere|verb (used without object)|
+personify|verb (used with object)|
+perspiration|noun|
+perspire|verb (used without object)|
+pert|adjective|
+peruse|verb (used with object)|
+pervasive|adjective|
+pester|verb (used with object)|
+pestilent|adjective|
+petulant|adjective|
+picturesque|adjective|
+pictorial|adjective|
+piercing|adjective|
+piety|noun|
+pillar|noun|
+pillowcase|noun|
+pilotage|noun|
+pine cone|noun|
+pinprick|noun|
+placidity|noun|
+plash|noun|
+platitude|noun|
+plenitude|noun|
+pliant|adjective|
+plumb|noun|
+plume|noun|
+plump|adjective|
+poignant|adjective|
+polity|noun|
+pollen|noun|
+pomegranate|noun|
+pomp|noun|
+pomposity|noun|
+ponderous|adjective|
+populate|verb (used with object)|
+portent|noun|
+portly|adjective|
+portray|verb (used with object)|
+posh|adjective|
+possible|adjective|
+postal|adjective|
+posture|noun|
+potency|noun|
+prawn|noun|
+precursor|noun|
+predestination|noun|
+predestine|verb (used with object)|
+premonition|noun|
+preparation|noun|
+prepay|verb (used with object)|
+prepense|adjective|
+prevalent|adjective|
+prevention|noun|
+prickly|adjective|
+primeval|adjective|
+proclamation|noun|
+prod|verb (used with object)|
+prodigal|adjective|
+prodigious|adjective|
+profane|adjective|
+profanity|noun|
+profess|verb (used with object)|
+progeny|noun|
+prohibition|noun|
+projection|noun|
+propel|verb (used with object)|
+prosperity|noun|
+prosperity|noun|
+provisional|adjective|
+prowess|noun|
+prowl|verb (used without object)|
+prudent|adjective|
+puncture|noun|
+purge|verb (used with object)|
+purify|verb (used with object)|
+pushful|adjective|
+putrefy|verb (used with object)|
+putrescent|adjective|
+puzzlement|noun|
+quake|verb (used without object)|
+quaking|adjective|
+quandary|noun|
+quarrelsome|adjective|
+quasi|adjective|
+quell|verb (used with object)|
+quench|verb (used with object)|
+rabid|adjective|
+radiant|adjective|
+rancid|adjective|
+rancorous|adjective|
+rant|verb (used without object)|
+rapacity|noun|
+rapt|adjective|
+rarity|noun|
+rasp|verb (used with object)|
+ravenous|adjective|
+rebellion|noun|
+rebuff|noun|
+recant|verb (used with object)|
+recast|verb (used with object)|
+recede|verb (used without object)|
+reseptive|Error|
+recipient|noun|
+reciprocal|adjective|
+recite|verb (used with object)|
+reckon|verb (used with object)|
+rectangle|noun|
+rectification|noun|
+recuperate|verb (used without object)|
+recurrent|adjective|
+redden|verb (used with object)|
+redeem|verb (used with object)|
+redress|noun|
+reed|noun|
+reek|noun|
+referee|noun|
+reform|noun|
+refrigerate|verb (used with object)|
+refuse|verb (used with object)|
+regretful|adjective|
+regrettable|adjective|
+relapse|verb (used without object)|
+reliance|noun|
+reliant|adjective|
+relish|noun|
+remembrance|noun|
+remiss|adjective|
+renaissance|noun|
+renewal|noun|
+repellent|adjective|
+replica|noun|
+repose|noun|
+reprehensible|adjective|
+reprove|verb (used with object)|
+repute|noun|
+resemble|verb (used with object)|
+resentful|adjective|
+resedue|Error|
+reverence|noun|
+revert|verb (used without object)|
+revoke|verb (used with object)|
+revolve|verb (used without object)|
+revulsion|noun|
+rigour|noun|
+riotous|adjective|
+rotund|adjective|
+roundabout|adjective|
+rucksack|noun|
+rudimentary|adjective|
+ruinous|adjective|
+ruse|noun|
+nigga|noun|
